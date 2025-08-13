@@ -1,0 +1,20 @@
+ukraine_3y_change_pct
+us_3y_yield
+us_3y_yield_z
+ukraine_3y_change_pct_lag1
+us_3y_yield_lag1
+24_International reserves (excluding gold)
+ukraine_3y_yield
+ukraine_3y_yield_z
+ukraine_3y_yield_lag1
+24_International reserves (excluding gold)_lag1
+yield_spread_ukr_us_3y
+yield_spread_ukr_us_3y_z
+01_Cross-border loans from BIS reporting banks_lag1
+12_Liabilities to BIS banks (cons.), short term_lag1
+22_Liabilities to BIS banks, locational, total_lag1
+yield_spread_ukr_us_3y_lag1
+12_Liabilities to BIS banks (cons.), short term
+22_Liabilities to BIS banks, locational, total
+01_Cross-border loans from BIS reporting banks
+Loan_Deposit_Ratio

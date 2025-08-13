@@ -1,0 +1,84 @@
+{
+  "model":"logistic + residual_arima",
+  "split_date":"2022-08-31",
+  "resid_order":[
+    0,
+    0,
+    1
+  ],
+  "features_raw":[
+    "WAR",
+    "Capital_Ratio",
+    "NPL_Ratio",
+    "Cost_Income_Ratio",
+    "ROA",
+    "ROE",
+    "Liquid_Assets_Ratio",
+    "Loan_Deposit_Ratio",
+    "Net_Open_FX_Ratio",
+    "24_International reserves (excluding gold)",
+    "12_Liabilities to BIS banks (cons.), short term",
+    "22_Liabilities to BIS banks, locational, total",
+    "01_Cross-border loans from BIS reporting banks",
+    "27_Cross-border deposits with BIS rep. banks",
+    "us_3y_yield",
+    "ukraine_3y_yield",
+    "ukraine_3y_change_pct",
+    "cpi_x",
+    "cpi_y",
+    "exchange_rate",
+    "interest_rate",
+    "gdp_yoy_pct",
+    "reserves_pct_gdp",
+    "yield_spread_ukr_us_3y",
+    "ukraine_3y_yield_z",
+    "us_3y_yield_z",
+    "yield_spread_ukr_us_3y_z",
+    "yield_spread_ukr_us_3y_lag1",
+    "us_3y_yield_lag1",
+    "ukraine_3y_yield_lag1",
+    "ukraine_3y_change_pct_lag1",
+    "24_International reserves (excluding gold)_lag1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1",
+    "22_Liabilities to BIS banks, locational, total_lag1",
+    "01_Cross-border loans from BIS reporting banks_lag1",
+    "27_Cross-border deposits with BIS rep. banks_lag1",
+    "yield_spread_ukr_us_3y_lag1.1",
+    "us_3y_yield_lag1.1",
+    "ukraine_3y_yield_lag1.1",
+    "ukraine_3y_change_pct_lag1.1",
+    "24_International reserves (excluding gold)_lag1.1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1.1",
+    "22_Liabilities to BIS banks, locational, total_lag1.1",
+    "01_Cross-border loans from BIS reporting banks_lag1.1",
+    "27_Cross-border deposits with BIS rep. banks_lag1.1"
+  ],
+  "metrics_base":{
+    "train":{
+      "roc_auc":0.9523427046,
+      "pr_auc":0.4983776898,
+      "brier":0.0411417448,
+      "n":2948
+    },
+    "test":{
+      "roc_auc":0.0137233007,
+      "pr_auc":0.2814090668,
+      "brier":0.730799097,
+      "n":2144
+    }
+  },
+  "metrics_adjusted":{
+    "train":{
+      "roc_auc":0.9955773193,
+      "pr_auc":0.9900162557,
+      "brier":0.0157057567,
+      "n":2948
+    },
+    "test":{
+      "roc_auc":0.0176075548,
+      "pr_auc":0.2778128313,
+      "brier":0.7302074495,
+      "n":2144
+    }
+  }
+}

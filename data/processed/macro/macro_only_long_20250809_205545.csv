@@ -1,0 +1,1564 @@
+date,series_code,indicator,value
+2016-01-01,CPI_Y,Cpi Y,103.3025099075297
+2016-01-01,EXCHANGE_RATE,Exchange Rate,75.9751091814566
+2016-01-01,INTEREST_RATE,Interest Rate,5133.78
+2016-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.0678373956256011
+2016-02-01,CPI_Y,Cpi Y,100.7802340702211
+2016-02-01,EXCHANGE_RATE,Exchange Rate,68.765747316237
+2016-02-01,INTEREST_RATE,Interest Rate,4101.93
+2016-03-01,CPI_Y,Cpi Y,104.3086816720257
+2016-03-01,EXCHANGE_RATE,Exchange Rate,67.419425012225
+2016-03-01,INTEREST_RATE,Interest Rate,2976.76
+2016-04-01,CPI_Y,Cpi Y,17.01931922723091
+2016-04-01,EXCHANGE_RATE,Exchange Rate,68.8991327139243
+2016-04-01,INTEREST_RATE,Interest Rate,2455.53
+2016-05-01,CPI_Y,Cpi Y,13.3030303030303
+2016-05-01,EXCHANGE_RATE,Exchange Rate,70.0265294420215
+2016-05-01,INTEREST_RATE,Interest Rate,2061.16
+2016-06-01,CPI_Y,Cpi Y,12.0994309673555
+2016-06-01,EXCHANGE_RATE,Exchange Rate,71.0356142871908
+2016-06-01,INTEREST_RATE,Interest Rate,1395.65
+2016-07-01,CPI_Y,Cpi Y,13.77764494919307
+2016-07-01,EXCHANGE_RATE,Exchange Rate,72.9192723368706
+2016-07-01,INTEREST_RATE,Interest Rate,1159.78
+2016-08-01,CPI_Y,Cpi Y,14.31553832388905
+2016-08-01,EXCHANGE_RATE,Exchange Rate,72.5138899117821
+2016-08-01,INTEREST_RATE,Interest Rate,1457.43
+2016-09-01,CPI_Y,Cpi Y,15.78794057675502
+2016-09-01,EXCHANGE_RATE,Exchange Rate,69.9660411044458
+2016-09-01,INTEREST_RATE,Interest Rate,2108.43
+2016-10-01,CPI_Y,Cpi Y,44.40689422102062
+2016-10-01,EXCHANGE_RATE,Exchange Rate,73.4869291064859
+2016-10-01,INTEREST_RATE,Interest Rate,1682.25
+2016-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6905396000.0
+2016-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2154907000.0
+2016-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9600051000.0
+2016-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),14597618304.3675
+2016-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9821162000.0
+2016-10-31,,,
+2016-10-31,,,
+2016-10-31,,,
+2016-10-31,,,
+2016-11-01,CPI_Y,Cpi Y,47.20314033366045
+2016-11-01,EXCHANGE_RATE,Exchange Rate,77.2909147445267
+2016-11-01,INTEREST_RATE,Interest Rate,1593.58
+2016-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6905396000.0
+2016-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2154907000.0
+2016-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9600051000.0
+2016-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),14597618304.3675
+2016-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9821162000.0
+2016-11-30,,,
+2016-11-30,,,
+2016-11-30,,,
+2016-11-30,,,
+2016-12-01,CPI_Y,Cpi Y,47.20314033366045
+2016-12-01,EXCHANGE_RATE,Exchange Rate,77.5095656519603
+2016-12-01,INTEREST_RATE,Interest Rate,1772.42
+2016-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6905396000.0
+2016-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2154907000.0
+2016-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9600051000.0
+2016-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),14597618304.3675
+2016-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9821162000.0
+2016-12-31,,,
+2016-12-31,,,
+2016-12-31,,,
+2016-12-31,,,
+2017-01-01,CPI_Y,Cpi Y,46.62118258609487
+2017-01-01,EXCHANGE_RATE,Exchange Rate,74.3627952920301
+2017-01-01,GDP_YOY_PCT,Gdp Yoy Pct,20.61166339747671
+2017-01-01,INTEREST_RATE,Interest Rate,1462.98
+2017-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.0822382362215165
+2017-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6831042000.0
+2017-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1984737000.0
+2017-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9972783000.0
+2017-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),14102060844.5567
+2017-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9363719000.0
+2017-01-31,,,
+2017-01-31,,,
+2017-01-31,,,
+2017-01-31,,,
+2017-02-01,CPI_Y,Cpi Y,46.43782383419689
+2017-02-01,EXCHANGE_RATE,Exchange Rate,74.5340051845602
+2017-02-01,INTEREST_RATE,Interest Rate,1704.23
+2017-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6831042000.0
+2017-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1984737000.0
+2017-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9972783000.0
+2017-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),14102060844.5567
+2017-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9363719000.0
+2017-02-28,,,
+2017-02-28,,,
+2017-02-28,,,
+2017-02-28,,,
+2017-03-01,CPI_Y,Cpi Y,49.48064211520302
+2017-03-01,EXCHANGE_RATE,Exchange Rate,75.1194932567545
+2017-03-01,INTEREST_RATE,Interest Rate,1100.55
+2017-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6831042000.0
+2017-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1984737000.0
+2017-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9972783000.0
+2017-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),14102060844.5567
+2017-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9363719000.0
+2017-03-31,,,
+2017-03-31,,,
+2017-03-31,,,
+2017-03-31,,,
+2017-04-01,CPI_Y,Cpi Y,25.05241090146751
+2017-04-01,EXCHANGE_RATE,Exchange Rate,74.5063124532677
+2017-04-01,INTEREST_RATE,Interest Rate,1992.46
+2017-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6974277000.0
+2017-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2583615000.0
+2017-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10014389000.0
+2017-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),16954018324.6998
+2017-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9380550000.0
+2017-04-30,,,
+2017-04-30,,,
+2017-04-30,,,
+2017-04-30,,,
+2017-05-01,CPI_Y,Cpi Y,28.64402246589997
+2017-05-01,EXCHANGE_RATE,Exchange Rate,75.5651484872781
+2017-05-01,INTEREST_RATE,Interest Rate,1465.41
+2017-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6974277000.0
+2017-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2583615000.0
+2017-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10014389000.0
+2017-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),16954018324.6998
+2017-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9380550000.0
+2017-05-31,,,
+2017-05-31,,,
+2017-05-31,,,
+2017-05-31,,,
+2017-06-01,CPI_Y,Cpi Y,29.17445899011488
+2017-06-01,EXCHANGE_RATE,Exchange Rate,77.343661957697
+2017-06-01,INTEREST_RATE,Interest Rate,1019.64
+2017-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6974277000.0
+2017-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2583615000.0
+2017-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10014389000.0
+2017-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),16954018324.6998
+2017-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9380550000.0
+2017-06-30,,,
+2017-06-30,,,
+2017-06-30,,,
+2017-06-30,,,
+2017-07-01,CPI_Y,Cpi Y,27.76464407670081
+2017-07-01,EXCHANGE_RATE,Exchange Rate,78.3170221988473
+2017-07-01,INTEREST_RATE,Interest Rate,1055.28
+2017-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6852475000.0
+2017-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2745604000.0
+2017-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10009829000.0
+2017-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17591857335.8528
+2017-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9696662000.0
+2017-07-31,,,
+2017-07-31,,,
+2017-07-31,,,
+2017-07-31,,,
+2017-08-01,CPI_Y,Cpi Y,27.26324028176363
+2017-08-01,EXCHANGE_RATE,Exchange Rate,79.0060416123707
+2017-08-01,INTEREST_RATE,Interest Rate,1429.45
+2017-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6852475000.0
+2017-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2745604000.0
+2017-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10009829000.0
+2017-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17591857335.8528
+2017-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9696662000.0
+2017-08-31,,,
+2017-08-31,,,
+2017-08-31,,,
+2017-08-31,,,
+2017-09-01,CPI_Y,Cpi Y,23.22012578616352
+2017-09-01,EXCHANGE_RATE,Exchange Rate,77.5381202644849
+2017-09-01,INTEREST_RATE,Interest Rate,813.82
+2017-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,6852475000.0
+2017-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2745604000.0
+2017-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",10009829000.0
+2017-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),17591857335.8528
+2017-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9696662000.0
+2017-09-30,,,
+2017-09-30,,,
+2017-09-30,,,
+2017-09-30,,,
+2017-10-01,CPI_Y,Cpi Y,15.18839223028317
+2017-10-01,EXCHANGE_RATE,Exchange Rate,77.2972207036343
+2017-10-01,INTEREST_RATE,Interest Rate,898.1
+2017-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5691764000.0
+2017-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2137596000.0
+2017-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9045139000.0
+2017-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17747801196.5576
+2017-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8197958000.0
+2017-10-31,,,
+2017-10-31,,,
+2017-10-31,,,
+2017-10-31,,,
+2017-11-01,CPI_Y,Cpi Y,10.26666666666667
+2017-11-01,EXCHANGE_RATE,Exchange Rate,77.9156289552915
+2017-11-01,INTEREST_RATE,Interest Rate,1296.05
+2017-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5691764000.0
+2017-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2137596000.0
+2017-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9045139000.0
+2017-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),17747801196.5576
+2017-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8197958000.0
+2017-11-30,,,
+2017-11-30,,,
+2017-11-30,,,
+2017-11-30,,,
+2017-12-01,CPI_Y,Cpi Y,10.57777777777778
+2017-12-01,EXCHANGE_RATE,Exchange Rate,75.7956823835542
+2017-12-01,INTEREST_RATE,Interest Rate,819.8
+2017-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5691764000.0
+2017-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2137596000.0
+2017-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9045139000.0
+2017-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17747801196.5576
+2017-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8197958000.0
+2017-12-31,,,
+2017-12-31,,,
+2017-12-31,,,
+2017-12-31,,,
+2018-01-01,CPI_Y,Cpi Y,10.70241524484822
+2018-01-01,EXCHANGE_RATE,Exchange Rate,72.1581853776549
+2018-01-01,GDP_YOY_PCT,Gdp Yoy Pct,17.461705349026534
+2018-01-01,INTEREST_RATE,Interest Rate,1109.08
+2018-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.1049711016770039
+2018-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5498985000.0
+2018-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2425910000.0
+2018-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8951042000.0
+2018-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17154107800.2739
+2018-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8744205000.0
+2018-01-31,,,
+2018-01-31,,,
+2018-01-31,,,
+2018-01-31,,,
+2018-02-01,CPI_Y,Cpi Y,10.92436974789916
+2018-02-01,EXCHANGE_RATE,Exchange Rate,75.456817818122
+2018-02-01,INTEREST_RATE,Interest Rate,1398.88
+2018-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5498985000.0
+2018-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2425910000.0
+2018-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8951042000.0
+2018-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),17154107800.2739
+2018-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8744205000.0
+2018-02-28,,,
+2018-02-28,,,
+2018-02-28,,,
+2018-02-28,,,
+2018-03-01,CPI_Y,Cpi Y,5.938092229943146
+2018-03-01,EXCHANGE_RATE,Exchange Rate,78.3292531607972
+2018-03-01,INTEREST_RATE,Interest Rate,1624.74
+2018-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5498985000.0
+2018-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2425910000.0
+2018-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8951042000.0
+2018-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),17154107800.2739
+2018-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,8744205000.0
+2018-03-31,,,
+2018-03-31,,,
+2018-03-31,,,
+2018-03-31,,,
+2018-04-01,CPI_Y,Cpi Y,5.637049455155071
+2018-04-01,EXCHANGE_RATE,Exchange Rate,79.7736598844489
+2018-04-01,INTEREST_RATE,Interest Rate,1593.33
+2018-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5039799000.0
+2018-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2558736000.0
+2018-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8471379000.0
+2018-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),16993057103.9795
+2018-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10041571000.0
+2018-04-30,,,
+2018-04-30,,,
+2018-04-30,,,
+2018-04-30,,,
+2018-05-01,CPI_Y,Cpi Y,4.906444906444906
+2018-05-01,EXCHANGE_RATE,Exchange Rate,81.857095107462
+2018-05-01,INTEREST_RATE,Interest Rate,1945.02
+2018-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5039799000.0
+2018-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2558736000.0
+2018-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8471379000.0
+2018-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),16993057103.9795
+2018-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10041571000.0
+2018-05-31,,,
+2018-05-31,,,
+2018-05-31,,,
+2018-05-31,,,
+2018-06-01,CPI_Y,Cpi Y,4.69493278179938
+2018-06-01,EXCHANGE_RATE,Exchange Rate,82.9928356540802
+2018-06-01,INTEREST_RATE,Interest Rate,1857.86
+2018-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5039799000.0
+2018-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2558736000.0
+2018-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8471379000.0
+2018-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),16993057103.9795
+2018-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10041571000.0
+2018-06-30,,,
+2018-06-30,,,
+2018-06-30,,,
+2018-06-30,,,
+2018-07-01,CPI_Y,Cpi Y,4.584703947368421
+2018-07-01,EXCHANGE_RATE,Exchange Rate,83.2052447212031
+2018-07-01,INTEREST_RATE,Interest Rate,1826.58
+2018-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5501326000.0
+2018-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2335141000.0
+2018-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8747859000.0
+2018-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),15700098285.0135
+2018-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9499545000.0
+2018-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0723529411764706
+2018-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.12294117647059
+2018-07-31,,,
+2018-07-31,,,
+2018-07-31,,,
+2018-07-31,,,
+2018-08-01,CPI_Y,Cpi Y,4.797047970479705
+2018-08-01,EXCHANGE_RATE,Exchange Rate,82.3422955857916
+2018-08-01,INTEREST_RATE,Interest Rate,2347.07
+2018-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5501326000.0
+2018-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2335141000.0
+2018-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8747859000.0
+2018-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),15700098285.0135
+2018-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9499545000.0
+2018-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.2204347826086956
+2018-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.433043478260867
+2018-08-31,,,
+2018-08-31,,,
+2018-08-31,,,
+2018-08-31,,,
+2018-09-01,CPI_Y,Cpi Y,4.593711719069008
+2018-09-01,EXCHANGE_RATE,Exchange Rate,81.2494654255471
+2018-09-01,INTEREST_RATE,Interest Rate,1927.87
+2018-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5501326000.0
+2018-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2335141000.0
+2018-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8747859000.0
+2018-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),15700098285.0135
+2018-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9499545000.0
+2018-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.203
+2018-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.484
+2018-09-30,,,
+2018-09-30,,,
+2018-09-30,,,
+2018-09-30,,,
+2018-10-01,CPI_Y,Cpi Y,4.693214140593255
+2018-10-01,EXCHANGE_RATE,Exchange Rate,82.2547561713474
+2018-10-01,INTEREST_RATE,Interest Rate,1821.46
+2018-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5474527000.0
+2018-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2237396000.0
+2018-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8689494000.0
+2018-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),19818210004.1028
+2018-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9910416000.0
+2018-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.1117391304347826
+2018-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.49695652173913
+2018-10-31,,,
+2018-10-31,,,
+2018-10-31,,,
+2018-10-31,,,
+2018-11-01,CPI_Y,Cpi Y,10.1975010076582
+2018-11-01,EXCHANGE_RATE,Exchange Rate,83.9148419096394
+2018-11-01,INTEREST_RATE,Interest Rate,2515.94
+2018-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5474527000.0
+2018-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2237396000.0
+2018-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8689494000.0
+2018-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),19818210004.1028
+2018-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9910416000.0
+2018-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.1195454545454545
+2018-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.22
+2018-11-30,,,
+2018-11-30,,,
+2018-11-30,,,
+2018-11-30,,,
+2018-12-01,CPI_Y,Cpi Y,10.65112540192926
+2018-12-01,EXCHANGE_RATE,Exchange Rate,85.0702858779053
+2018-12-01,INTEREST_RATE,Interest Rate,4180.79
+2018-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5474527000.0
+2018-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2237396000.0
+2018-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8689494000.0
+2018-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),19818210004.1028
+2018-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9910416000.0
+2018-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.1714285714285714
+2018-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),19.05809523809524
+2018-12-31,,,
+2018-12-31,,,
+2018-12-31,,,
+2018-12-31,,,
+2019-01-01,CPI_X,Cpi X,0.9882174078297224
+2019-01-01,CPI_Y,Cpi Y,13.07045636509207
+2019-01-01,EXCHANGE_RATE,Exchange Rate,85.0023655980752
+2019-01-01,GDP_YOY_PCT,Gdp Yoy Pct,18.27574782689292
+2019-01-01,INTEREST_RATE,Interest Rate,3679.96
+2019-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.0741355574362112
+2019-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),19605960748.7947
+2019-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0782608695652174
+2019-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.96608695652174
+2019-01-31,,,
+2019-01-31,,,
+2019-01-31,,,
+2019-01-31,,,
+2019-02-01,CPI_X,Cpi X,0.5269100489273617
+2019-02-01,CPI_Y,Cpi Y,13.17783094098884
+2019-02-01,EXCHANGE_RATE,Exchange Rate,87.3547326820583
+2019-02-01,INTEREST_RATE,Interest Rate,2672.32
+2019-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),19605960748.7947
+2019-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-02-28,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.35
+2019-02-28,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.2585
+2019-02-28,,,
+2019-02-28,,,
+2019-02-28,,,
+2019-02-28,,,
+2019-03-01,CPI_X,Cpi X,0.8985398727068514
+2019-03-01,CPI_Y,Cpi Y,13.17829457364341
+2019-03-01,EXCHANGE_RATE,Exchange Rate,88.4411580385565
+2019-03-01,INTEREST_RATE,Interest Rate,3251.63
+2019-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),19605960748.7947
+2019-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0228571428571428
+2019-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),16.866190476190475
+2019-03-31,,,
+2019-03-31,,,
+2019-03-31,,,
+2019-03-31,,,
+2019-04-01,CPI_X,Cpi X,1.001855287569573
+2019-04-01,CPI_Y,Cpi Y,13.19182701844872
+2019-04-01,EXCHANGE_RATE,Exchange Rate,89.2472257757441
+2019-04-01,INTEREST_RATE,Interest Rate,2729.47
+2019-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),19532677313.6943
+2019-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.349090909090909
+2019-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.354090909090907
+2019-04-30,,,
+2019-04-30,,,
+2019-04-30,,,
+2019-04-30,,,
+2019-05-01,CPI_X,Cpi X,0.6980161645848642
+2019-05-01,CPI_Y,Cpi Y,12.28695996829172
+2019-05-01,EXCHANGE_RATE,Exchange Rate,91.7553148324224
+2019-05-01,INTEREST_RATE,Interest Rate,1543.44
+2019-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),19532677313.6943
+2019-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),18.66782608695652
+2019-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.03391304347826
+2019-05-31,,,
+2019-05-31,,,
+2019-05-31,,,
+2019-05-31,,,
+2019-06-01,CPI_X,Cpi X,-0.5107624954396206
+2019-06-01,CPI_Y,Cpi Y,10.35163966811537
+2019-06-01,EXCHANGE_RATE,Exchange Rate,90.4385395948308
+2019-06-01,INTEREST_RATE,Interest Rate,3242.51
+2019-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),19532677313.6943
+2019-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),14.379500000000002
+2019-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.6155
+2019-06-30,,,
+2019-06-30,,,
+2019-06-30,,,
+2019-06-30,,,
+2019-07-01,CPI_X,Cpi X,-0.5867253392005867
+2019-07-01,CPI_Y,Cpi Y,7.293100058973855
+2019-07-01,EXCHANGE_RATE,Exchange Rate,93.0125264430228
+2019-07-01,INTEREST_RATE,Interest Rate,3766.37
+2019-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),20258621642.4294
+2019-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),19.57260869565217
+2019-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.731739130434782
+2019-07-31,,,
+2019-07-31,,,
+2019-07-31,,,
+2019-07-31,,,
+2019-08-01,CPI_X,Cpi X,-0.2950940612320177
+2019-08-01,CPI_Y,Cpi Y,5.809859154929577
+2019-08-01,EXCHANGE_RATE,Exchange Rate,96.5699273138722
+2019-08-01,INTEREST_RATE,Interest Rate,3737.99
+2019-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),20258621642.4294
+2019-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),18.904090909090908
+2019-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.43318181818182
+2019-08-31,,,
+2019-08-31,,,
+2019-08-31,,,
+2019-08-31,,,
+2019-09-01,CPI_X,Cpi X,0.7029226785053644
+2019-09-01,CPI_Y,Cpi Y,5.36794846769471
+2019-09-01,EXCHANGE_RATE,Exchange Rate,98.9986833057513
+2019-09-01,INTEREST_RATE,Interest Rate,2910.75
+2019-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),20258621642.4294
+2019-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0771428571428571
+2019-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),16.806666666666665
+2019-09-30,,,
+2019-09-30,,,
+2019-09-30,,,
+2019-09-30,,,
+2019-10-01,CPI_X,Cpi X,0.6980161645848642
+2019-10-01,CPI_Y,Cpi Y,4.327576169221813
+2019-10-01,EXCHANGE_RATE,Exchange Rate,98.3109149735192
+2019-10-01,INTEREST_RATE,Interest Rate,2641.44
+2019-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),24083372926.8886
+2019-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),19.414782608695653
+2019-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),16.333913043478262
+2019-10-31,,,
+2019-10-31,,,
+2019-10-31,,,
+2019-10-31,,,
+2019-11-01,CPI_X,Cpi X,0.0729660707770886
+2019-11-01,CPI_Y,Cpi Y,1.079005120702268
+2019-11-01,EXCHANGE_RATE,Exchange Rate,99.432465809704
+2019-11-01,INTEREST_RATE,Interest Rate,1968.36
+2019-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),24083372926.8886
+2019-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.1795238095238095
+2019-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),14.597619047619048
+2019-11-30,,,
+2019-11-30,,,
+2019-11-30,,,
+2019-11-30,,,
+2019-12-01,CPI_X,Cpi X,-0.1822821728034998
+2019-12-01,CPI_Y,Cpi Y,-1.925172539048311
+2019-12-01,EXCHANGE_RATE,Exchange Rate,101.830795089619
+2019-12-01,INTEREST_RATE,Interest Rate,2758.76
+2019-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),24083372926.8886
+2019-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),26.576818181818183
+2019-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.504772727272728
+2019-12-31,,,
+2019-12-31,,,
+2019-12-31,,,
+2019-12-31,,,
+2020-01-01,CPI_X,Cpi X,0.1826150474799123
+2020-01-01,CPI_Y,Cpi Y,-2.779252965126571
+2020-01-01,EXCHANGE_RATE,Exchange Rate,99.029283611401
+2020-01-01,GDP_YOY_PCT,Gdp Yoy Pct,2.50108532395259
+2020-01-01,INTEREST_RATE,Interest Rate,3667.07
+2020-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,0.0873792186662963
+2020-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),23610307559.222
+2020-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),67.96173913043478
+2020-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),11.21195652173913
+2020-01-31,,,
+2020-01-31,,,
+2020-01-31,,,
+2020-01-31,,,
+2020-02-01,CPI_X,Cpi X,-0.2916514764855997
+2020-02-01,CPI_Y,Cpi Y,-5.196406552756738
+2020-02-01,EXCHANGE_RATE,Exchange Rate,98.4948277472765
+2020-02-01,INTEREST_RATE,Interest Rate,3176.42
+2020-02-29,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-02-29,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-02-29,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-02-29,24_International reserves (excluding gold),24_International reserves (excluding gold),23610307559.222
+2020-02-29,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-02-29,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.104
+2020-02-29,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),10.6665
+2020-02-29,,,
+2020-02-29,,,
+2020-02-29,,,
+2020-02-29,,,
+2020-03-01,CPI_X,Cpi X,0.8043875685557587
+2020-03-01,CPI_Y,Cpi Y,-8.131366350544432
+2020-03-01,EXCHANGE_RATE,Exchange Rate,94.2731028062579
+2020-03-01,INTEREST_RATE,Interest Rate,2957.0
+2020-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),23610307559.222
+2020-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),23.514545454545456
+2020-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),19.792727272727276
+2020-03-31,,,
+2020-03-31,,,
+2020-03-31,,,
+2020-03-31,,,
+2020-04-01,CPI_X,Cpi X,0.7979688066739209
+2020-04-01,CPI_Y,Cpi Y,-11.25131440588854
+2020-04-01,EXCHANGE_RATE,Exchange Rate,94.1051144166186
+2020-04-01,INTEREST_RATE,Interest Rate,3303.96
+2020-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),27085228964.1012
+2020-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),16.90909090909091
+2020-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.545454545454547
+2020-04-30,,,
+2020-04-30,,,
+2020-04-30,,,
+2020-04-30,,,
+2020-05-01,CPI_X,Cpi X,0.2878733357322778
+2020-05-01,CPI_Y,Cpi Y,-13.13095658312743
+2020-05-01,EXCHANGE_RATE,Exchange Rate,94.9528044946654
+2020-05-01,INTEREST_RATE,Interest Rate,2932.12
+2020-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),27085228964.1012
+2020-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),54.78523809523809
+2020-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.68404761904762
+2020-05-31,,,
+2020-05-31,,,
+2020-05-31,,,
+2020-05-31,,,
+2020-06-01,CPI_X,Cpi X,0.2152852529601722
+2020-06-01,CPI_Y,Cpi Y,-12.24489795918367
+2020-06-01,EXCHANGE_RATE,Exchange Rate,93.0813246545002
+2020-06-01,INTEREST_RATE,Interest Rate,5168.72
+2020-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),27085228964.1012
+2020-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),65.58636363636364
+2020-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),11.650454545454544
+2020-06-30,,,
+2020-06-30,,,
+2020-06-30,,,
+2020-06-30,,,
+2020-07-01,CPI_X,Cpi X,-0.6086645184389545
+2020-07-01,CPI_Y,Cpi Y,-9.10589959692195
+2020-07-01,EXCHANGE_RATE,Exchange Rate,90.6272487586909
+2020-07-01,INTEREST_RATE,Interest Rate,4281.75
+2020-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),24975954793.7481
+2020-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0639130434782608
+2020-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.313913043478262
+2020-07-31,,,
+2020-07-31,,,
+2020-07-31,,,
+2020-07-31,,,
+2020-08-01,CPI_X,Cpi X,-0.1801152737752161
+2020-08-01,CPI_Y,Cpi Y,-3.050471436494731
+2020-08-01,EXCHANGE_RATE,Exchange Rate,89.1938005700668
+2020-08-01,INTEREST_RATE,Interest Rate,4416.9
+2020-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),24975954793.7481
+2020-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),33.20333333333333
+2020-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.166666666666666
+2020-08-31,US_DGS3,US 3Y Treasury yield (%),0.1683333333333333
+2020-08-31,,,
+2020-08-31,,,
+2020-08-31,,,
+2020-08-31,,,
+2020-09-01,CPI_X,Cpi X,0.4691447130999639
+2020-09-01,CPI_Y,Cpi Y,0.6483882919599852
+2020-09-01,EXCHANGE_RATE,Exchange Rate,88.3020167511105
+2020-09-01,INTEREST_RATE,Interest Rate,2297.53
+2020-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),24975954793.7481
+2020-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0286363636363636
+2020-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),11.585909090909093
+2020-09-30,US_DGS3,US 3Y Treasury yield (%),0.1580952380952381
+2020-09-30,,,
+2020-09-30,,,
+2020-09-30,,,
+2020-09-30,,,
+2020-10-01,CPI_X,Cpi X,1.005747126436782
+2020-10-01,CPI_Y,Cpi Y,5.505952380952381
+2020-10-01,EXCHANGE_RATE,Exchange Rate,88.0350507640769
+2020-10-01,INTEREST_RATE,Interest Rate,2021.41
+2020-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),27549017200.0461
+2020-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),29.53227272727273
+2020-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),11.97
+2020-10-31,US_DGS3,US 3Y Treasury yield (%),0.1876190476190476
+2020-10-31,,,
+2020-10-31,,,
+2020-10-31,,,
+2020-10-31,,,
+2020-11-01,CPI_X,Cpi X,1.315789473684211
+2020-11-01,CPI_Y,Cpi Y,10.81961280984259
+2020-11-01,EXCHANGE_RATE,Exchange Rate,88.1104573050467
+2020-11-01,INTEREST_RATE,Interest Rate,2433.06
+2020-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),27549017200.0461
+2020-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),50.94666666666667
+2020-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.531904761904762
+2020-11-30,US_DGS3,US 3Y Treasury yield (%),0.2157894736842105
+2020-11-30,,,
+2020-11-30,,,
+2020-11-30,,,
+2020-11-30,,,
+2020-12-01,CPI_X,Cpi X,0.9126009126009126
+2020-12-01,CPI_Y,Cpi Y,13.55555555555556
+2020-12-01,EXCHANGE_RATE,Exchange Rate,87.2472830931596
+2020-12-01,INTEREST_RATE,Interest Rate,3789.38
+2020-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),27549017200.0461
+2020-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),21.096086956521734
+2020-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.612608695652172
+2020-12-31,US_DGS3,US 3Y Treasury yield (%),0.1881818181818181
+2020-12-31,,,
+2020-12-31,,,
+2020-12-31,,,
+2020-12-31,,,
+2021-01-01,CPI_X,Cpi X,1.28695652173913
+2021-01-01,CPI_Y,Cpi Y,18.33576110706482
+2021-01-01,EXCHANGE_RATE,Exchange Rate,87.3627021393002
+2021-01-01,GDP_YOY_PCT,Gdp Yoy Pct,28.947415064515923
+2021-01-01,INTEREST_RATE,Interest Rate,3036.89
+2021-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.0398620604479527
+2021-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),25608104643.3385
+2021-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),60.886
+2021-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.5915
+2021-01-31,US_DGS3,US 3Y Treasury yield (%),0.1984210526315789
+2021-01-31,,,
+2021-01-31,,,
+2021-01-31,,,
+2021-01-31,,,
+2021-02-01,CPI_X,Cpi X,0.9958791208791208
+2021-02-01,CPI_Y,Cpi Y,18.58045336306206
+2021-02-01,EXCHANGE_RATE,Exchange Rate,89.1492650090022
+2021-02-01,INTEREST_RATE,Interest Rate,3038.8
+2021-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),25608104643.3385
+2021-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-02-28,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0729999999999999
+2021-02-28,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.9115
+2021-02-28,US_DGS3,US 3Y Treasury yield (%),0.2142105263157895
+2021-02-28,,,
+2021-02-28,,,
+2021-02-28,,,
+2021-02-28,,,
+2021-03-01,CPI_X,Cpi X,1.700102006120367
+2021-03-01,CPI_Y,Cpi Y,22.00344102466068
+2021-03-01,EXCHANGE_RATE,Exchange Rate,91.4091853969121
+2021-03-01,INTEREST_RATE,Interest Rate,2577.03
+2021-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),25608104643.3385
+2021-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),22.9
+2021-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.75695652173913
+2021-03-31,US_DGS3,US 3Y Treasury yield (%),0.3165217391304348
+2021-03-31,,,
+2021-03-31,,,
+2021-03-31,,,
+2021-03-31,,,
+2021-04-01,CPI_X,Cpi X,0.7021063189568706
+2021-04-01,CPI_Y,Cpi Y,26.54028436018957
+2021-04-01,EXCHANGE_RATE,Exchange Rate,91.2796432726546
+2021-04-01,INTEREST_RATE,Interest Rate,3898.92
+2021-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),26854516121.7253
+2021-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0318181818181818
+2021-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.34318181818182
+2021-04-30,US_DGS3,US 3Y Treasury yield (%),0.3459090909090909
+2021-04-30,,,
+2021-04-30,,,
+2021-04-30,,,
+2021-04-30,,,
+2021-05-01,CPI_X,Cpi X,1.294820717131474
+2021-05-01,CPI_Y,Cpi Y,35.27021535960991
+2021-05-01,EXCHANGE_RATE,Exchange Rate,91.6090480651115
+2021-05-01,INTEREST_RATE,Interest Rate,3110.49
+2021-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),26854516121.7253
+2021-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),46.69857142857144
+2021-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.171666666666669
+2021-05-31,US_DGS3,US 3Y Treasury yield (%),0.324
+2021-05-31,,,
+2021-05-31,,,
+2021-05-31,,,
+2021-05-31,,,
+2021-06-01,CPI_X,Cpi X,0.1966568338249754
+2021-06-01,CPI_Y,Cpi Y,36.37290901672787
+2021-06-01,EXCHANGE_RATE,Exchange Rate,92.9310392733405
+2021-06-01,INTEREST_RATE,Interest Rate,3688.93
+2021-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),26854516121.7253
+2021-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),47.87590909090909
+2021-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),12.908863636363636
+2021-06-30,US_DGS3,US 3Y Treasury yield (%),0.3895454545454546
+2021-06-30,,,
+2021-06-30,,,
+2021-06-30,,,
+2021-06-30,,,
+2021-07-01,CPI_X,Cpi X,0.0981354268891069
+2021-07-01,CPI_Y,Cpi Y,35.55734730901028
+2021-07-01,EXCHANGE_RATE,Exchange Rate,94.8307271826484
+2021-07-01,INTEREST_RATE,Interest Rate,3620.82
+2021-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),27228063310.9605
+2021-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0454545454545454
+2021-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.037727272727272
+2021-07-31,US_DGS3,US 3Y Treasury yield (%),0.4033333333333334
+2021-07-31,,,
+2021-07-31,,,
+2021-07-31,,,
+2021-07-31,,,
+2021-08-01,CPI_X,Cpi X,-0.196078431372549
+2021-08-01,CPI_Y,Cpi Y,29.0045766590389
+2021-08-01,EXCHANGE_RATE,Exchange Rate,96.6726321816249
+2021-08-01,INTEREST_RATE,Interest Rate,3901.16
+2021-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),27228063310.9605
+2021-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),45.29260869565218
+2021-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.29608695652174
+2021-08-31,US_DGS3,US 3Y Treasury yield (%),0.4190909090909091
+2021-08-31,,,
+2021-08-31,,,
+2021-08-31,,,
+2021-08-31,,,
+2021-09-01,CPI_X,Cpi X,1.211525867714473
+2021-09-01,CPI_Y,Cpi Y,25.14264678814651
+2021-09-01,EXCHANGE_RATE,Exchange Rate,97.1825981098615
+2021-09-01,INTEREST_RATE,Interest Rate,2855.47
+2021-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),27228063310.9605
+2021-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0136363636363636
+2021-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.363636363636363
+2021-09-30,US_DGS3,US 3Y Treasury yield (%),0.4719047619047619
+2021-09-30,,,
+2021-09-30,,,
+2021-09-30,,,
+2021-09-30,,,
+2021-10-01,CPI_X,Cpi X,0.9058557101261728
+2021-10-01,CPI_Y,Cpi Y,18.79407616361072
+2021-10-01,EXCHANGE_RATE,Exchange Rate,99.12191488488
+2021-10-01,INTEREST_RATE,Interest Rate,4161.7
+2021-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),29383187653.8888
+2021-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),32.1895
+2021-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.528
+2021-10-31,US_DGS3,US 3Y Treasury yield (%),0.67
+2021-10-31,,,
+2021-10-31,,,
+2021-10-31,,,
+2021-10-31,,,
+2021-11-01,CPI_X,Cpi X,0.8015389547932029
+2021-11-01,CPI_Y,Cpi Y,10.00816326530612
+2021-11-01,EXCHANGE_RATE,Exchange Rate,100.361197126242
+2021-11-01,INTEREST_RATE,Interest Rate,5047.71
+2021-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),29383187653.8888
+2021-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),54.685909090909085
+2021-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.59909090909091
+2021-11-30,US_DGS3,US 3Y Treasury yield (%),0.8195
+2021-11-30,,,
+2021-11-30,,,
+2021-11-30,,,
+2021-11-30,,,
+2021-12-01,CPI_X,Cpi X,0.5725190839694656
+2021-12-01,CPI_Y,Cpi Y,9.76842791911285
+2021-12-01,EXCHANGE_RATE,Exchange Rate,99.2527352007114
+2021-12-01,INTEREST_RATE,Interest Rate,5749.54
+2021-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),29383187653.8888
+2021-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),26.35652173913044
+2021-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.82108695652174
+2021-12-31,US_DGS3,US 3Y Treasury yield (%),0.9527272727272728
+2021-12-31,,,
+2021-12-31,,,
+2021-12-31,,,
+2021-12-31,,,
+2022-01-01,CPI_X,Cpi X,1.328273244781784
+2022-01-01,CPI_Y,Cpi Y,4.292968148945992
+2022-01-01,EXCHANGE_RATE,Exchange Rate,96.6715507615139
+2022-01-01,GDP_YOY_PCT,Gdp Yoy Pct,-3.702637645664242
+2022-01-01,INTEREST_RATE,Interest Rate,4815.7
+2022-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,0.104839735388854
+2022-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),26442216010.1192
+2022-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),84.50142857142858
+2022-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),14.952380952380953
+2022-01-31,US_DGS3,US 3Y Treasury yield (%),1.249
+2022-01-31,,,
+2022-01-31,,,
+2022-01-31,,,
+2022-01-31,,,
+2022-02-01,CPI_X,Cpi X,1.591760299625468
+2022-02-01,CPI_Y,Cpi Y,6.424318395487308
+2022-02-01,EXCHANGE_RATE,Exchange Rate,96.1375704722866
+2022-02-01,INTEREST_RATE,Interest Rate,4758.95
+2022-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),26442216010.1192
+2022-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-02-28,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-1.0074999999999998
+2022-02-28,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),18.916
+2022-02-28,US_DGS3,US 3Y Treasury yield (%),1.651052631578947
+2022-02-28,,,
+2022-02-28,,,
+2022-02-28,,,
+2022-02-28,,,
+2022-03-01,CPI_X,Cpi X,4.485407066052227
+2022-03-01,CPI_Y,Cpi Y,6.957066750235036
+2022-03-01,EXCHANGE_RATE,Exchange Rate,100.679231533962
+2022-03-01,INTEREST_RATE,Interest Rate,5791.43
+2022-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),26442216010.1192
+2022-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-1.995217391304348
+2022-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),65.12521739130435
+2022-03-31,US_DGS3,US 3Y Treasury yield (%),2.085652173913044
+2022-03-31,,,
+2022-03-31,,,
+2022-03-31,,,
+2022-03-31,,,
+2022-04-01,CPI_X,Cpi X,3.116730373419582
+2022-04-01,CPI_Y,Cpi Y,7.147315855181024
+2022-04-01,EXCHANGE_RATE,Exchange Rate,100.037809719608
+2022-04-01,INTEREST_RATE,Interest Rate,4561.64
+2022-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),22270948433.5897
+2022-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.995238095238095
+2022-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),51.50095238095238
+2022-04-30,US_DGS3,US 3Y Treasury yield (%),2.724
+2022-04-30,,,
+2022-04-30,,,
+2022-04-30,,,
+2022-04-30,,,
+2022-05-01,CPI_X,Cpi X,2.680353578557171
+2022-05-01,CPI_Y,Cpi Y,3.544607990387504
+2022-05-01,EXCHANGE_RATE,Exchange Rate,101.318485676643
+2022-05-01,INTEREST_RATE,Interest Rate,4774.32
+2022-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),22270948433.5897
+2022-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0445454545454545
+2022-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),60.2475
+2022-05-31,US_DGS3,US 3Y Treasury yield (%),2.79
+2022-05-31,,,
+2022-05-31,,,
+2022-05-31,,,
+2022-05-31,,,
+2022-06-01,CPI_X,Cpi X,3.110247153568453
+2022-06-01,CPI_Y,Cpi Y,3.739715781600598
+2022-06-01,EXCHANGE_RATE,Exchange Rate,102.636141893494
+2022-06-01,INTEREST_RATE,Interest Rate,5579.44
+2022-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),22270948433.5897
+2022-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.1436363636363636
+2022-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),63.85318181818182
+2022-06-30,US_DGS3,US 3Y Treasury yield (%),3.145714285714286
+2022-06-30,,,
+2022-06-30,,,
+2022-06-30,,,
+2022-06-30,,,
+2022-07-01,CPI_X,Cpi X,0.7002423915970913
+2022-07-01,CPI_Y,Cpi Y,3.643122676579926
+2022-07-01,EXCHANGE_RATE,Exchange Rate,97.6454513820462
+2022-07-01,INTEREST_RATE,Interest Rate,6775.7
+2022-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),22501736128.5665
+2022-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.8552380952380952
+2022-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),63.68285714285714
+2022-07-31,US_DGS3,US 3Y Treasury yield (%),3.0315000000000003
+2022-07-31,,,
+2022-07-31,,,
+2022-07-31,,,
+2022-07-31,,,
+2022-08-01,CPI_X,Cpi X,1.096549879646964
+2022-08-01,CPI_Y,Cpi Y,3.858093126385809
+2022-08-01,EXCHANGE_RATE,Exchange Rate,86.9633948907894
+2022-08-01,INTEREST_RATE,Interest Rate,8768.14
+2022-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),22501736128.5665
+2022-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),4.5717647058823525
+2022-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),43.17117647058824
+2022-08-31,US_DGS3,US 3Y Treasury yield (%),3.2256521739130437
+2022-08-31,,,
+2022-08-31,,,
+2022-08-31,,,
+2022-08-31,,,
+2022-09-01,CPI_X,Cpi X,1.904761904761905
+2022-09-01,CPI_Y,Cpi Y,4.265333137226063
+2022-09-01,EXCHANGE_RATE,Exchange Rate,89.1549443602693
+2022-09-01,INTEREST_RATE,Interest Rate,5969.4
+2022-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),22501736128.5665
+2022-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.4614285714285717
+2022-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),24.571428571428573
+2022-09-30,US_DGS3,US 3Y Treasury yield (%),3.878571428571429
+2022-09-30,,,
+2022-09-30,,,
+2022-09-30,,,
+2022-09-30,,,
+2022-10-01,CPI_X,Cpi X,2.492211838006231
+2022-10-01,CPI_Y,Cpi Y,5.520926090828139
+2022-10-01,EXCHANGE_RATE,Exchange Rate,91.6370419263612
+2022-10-01,INTEREST_RATE,Interest Rate,7736.3
+2022-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),26929187392.0519
+2022-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),9.7
+2022-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),26.0
+2022-10-31,US_DGS3,US 3Y Treasury yield (%),4.3785
+2022-10-31,,,
+2022-10-31,,,
+2022-10-31,,,
+2022-10-31,,,
+2022-11-01,CPI_X,Cpi X,0.7092198581560284
+2022-11-01,CPI_Y,Cpi Y,5.728702879192639
+2022-11-01,EXCHANGE_RATE,Exchange Rate,89.9171230701852
+2022-11-01,INTEREST_RATE,Interest Rate,7744.28
+2022-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),26929187392.0519
+2022-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-11.5375
+2022-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),31.5
+2022-11-30,US_DGS3,US 3Y Treasury yield (%),4.336
+2022-11-30,,,
+2022-11-30,,,
+2022-11-30,,,
+2022-11-30,,,
+2022-12-01,CPI_X,Cpi X,0.7042253521126761
+2022-12-01,CPI_Y,Cpi Y,5.957510028227604
+2022-12-01,EXCHANGE_RATE,Exchange Rate,89.2107274128285
+2022-12-01,INTEREST_RATE,Interest Rate,6233.49
+2022-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),26929187392.0519
+2022-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),12.080000000000002
+2022-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),37.0
+2022-12-31,US_DGS3,US 3Y Treasury yield (%),4.046666666666667
+2022-12-31,,,
+2022-12-31,,,
+2022-12-31,,,
+2022-12-31,,,
+2023-01-01,CPI_X,Cpi X,0.7992007992007992
+2023-01-01,CPI_Y,Cpi Y,5.326054883446444
+2023-01-01,EXCHANGE_RATE,Exchange Rate,88.8660986715805
+2023-01-01,GDP_YOY_PCT,Gdp Yoy Pct,11.928955260638908
+2023-01-01,INTEREST_RATE,Interest Rate,9848.56
+2023-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.1018319084479751
+2023-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),32866465573.4247
+2023-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),2.2533333333333334
+2023-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),30.11111111111111
+2023-01-31,US_DGS3,US 3Y Treasury yield (%),3.913
+2023-01-31,,,
+2023-01-31,,,
+2023-01-31,,,
+2023-01-31,,,
+2023-02-01,CPI_X,Cpi X,0.6937561942517344
+2023-02-01,CPI_Y,Cpi Y,5.212014134275618
+2023-02-01,EXCHANGE_RATE,Exchange Rate,90.0779707321732
+2023-02-01,INTEREST_RATE,Interest Rate,8869.53
+2023-02-28,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-02-28,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-02-28,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-02-28,24_International reserves (excluding gold),24_International reserves (excluding gold),32866465573.4247
+2023-02-28,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-02-28,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0755555555555554
+2023-02-28,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),29.72222222222222
+2023-02-28,US_DGS3,US 3Y Treasury yield (%),4.234210526315789
+2023-02-28,,,
+2023-02-28,,,
+2023-02-28,,,
+2023-02-28,,,
+2023-03-01,CPI_X,Cpi X,1.500984251968504
+2023-03-01,CPI_Y,Cpi Y,4.585408731321418
+2023-03-01,EXCHANGE_RATE,Exchange Rate,91.1349151607901
+2023-03-01,INTEREST_RATE,Interest Rate,11772.17
+2023-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),32866465573.4247
+2023-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.2445454545454545
+2023-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),30.681818181818183
+2023-03-31,US_DGS3,US 3Y Treasury yield (%),4.085217391304347
+2023-03-31,,,
+2023-03-31,,,
+2023-03-31,,,
+2023-03-31,,,
+2023-04-01,CPI_X,Cpi X,0.1939393939393939
+2023-04-01,CPI_Y,Cpi Y,3.976114185843286
+2023-04-01,EXCHANGE_RATE,Exchange Rate,90.5214677881085
+2023-04-01,INTEREST_RATE,Interest Rate,11526.96
+2023-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),37371803631.261
+2023-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.9366666666666666
+2023-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),27.95833333333333
+2023-04-30,US_DGS3,US 3Y Treasury yield (%),3.758
+2023-04-30,,,
+2023-04-30,,,
+2023-04-30,,,
+2023-04-30,,,
+2023-05-01,CPI_X,Cpi X,0.5081054923784176
+2023-05-01,CPI_Y,Cpi Y,3.553814911517261
+2023-05-01,EXCHANGE_RATE,Exchange Rate,90.6491239021676
+2023-05-01,INTEREST_RATE,Interest Rate,11546.89
+2023-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),37371803631.261
+2023-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),10.971176470588237
+2023-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),20.80205882352941
+2023-05-31,US_DGS3,US 3Y Treasury yield (%),3.820454545454545
+2023-05-31,,,
+2023-05-31,,,
+2023-05-31,,,
+2023-05-31,,,
+2023-06-01,CPI_X,Cpi X,0.7944150216658642
+2023-06-01,CPI_Y,Cpi Y,15.18385003604903
+2023-06-01,EXCHANGE_RATE,Exchange Rate,92.288845267501
+2023-06-01,INTEREST_RATE,Interest Rate,12376.58
+2023-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),37371803631.261
+2023-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.8181818181818182
+2023-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),22.145454545454545
+2023-06-30,US_DGS3,US 3Y Treasury yield (%),4.266666666666668
+2023-06-30,,,
+2023-06-30,,,
+2023-06-30,,,
+2023-06-30,,,
+2023-07-01,CPI_X,Cpi X,-0.5970862192500597
+2023-07-01,CPI_Y,Cpi Y,14.72022955523673
+2023-07-01,EXCHANGE_RATE,Exchange Rate,92.4745241434026
+2023-07-01,INTEREST_RATE,Interest Rate,15822.66
+2023-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),38097457693.4001
+2023-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),12.24818181818182
+2023-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),21.028181818181817
+2023-07-31,US_DGS3,US 3Y Treasury yield (%),4.472
+2023-07-31,,,
+2023-07-31,,,
+2023-07-31,,,
+2023-07-31,,,
+2023-08-01,CPI_X,Cpi X,-1.393560788082653
+2023-08-01,CPI_Y,Cpi Y,14.14745231995445
+2023-08-01,EXCHANGE_RATE,Exchange Rate,93.0705750378467
+2023-08-01,INTEREST_RATE,Interest Rate,13125.59
+2023-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),38097457693.4001
+2023-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0752173913043478
+2023-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),21.093695652173917
+2023-08-31,US_DGS3,US 3Y Treasury yield (%),4.586956521739131
+2023-08-31,,,
+2023-08-31,,,
+2023-08-31,,,
+2023-08-31,,,
+2023-09-01,CPI_X,Cpi X,0.4873294346978558
+2023-09-01,CPI_Y,Cpi Y,13.24587388912399
+2023-09-01,EXCHANGE_RATE,Exchange Rate,94.3479576079065
+2023-09-01,INTEREST_RATE,Interest Rate,10713.09
+2023-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),38097457693.4001
+2023-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0838095238095237
+2023-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),21.494285714285716
+2023-09-30,US_DGS3,US 3Y Treasury yield (%),4.741
+2023-09-30,,,
+2023-09-30,,,
+2023-09-30,,,
+2023-09-30,,,
+2023-10-01,CPI_X,Cpi X,0.8001939864209505
+2023-10-01,CPI_Y,Cpi Y,13.13642756680731
+2023-10-01,EXCHANGE_RATE,Exchange Rate,95.3412552507623
+2023-10-01,INTEREST_RATE,Interest Rate,10753.74
+2023-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),38715818307.8863
+2023-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.3968181818181817
+2023-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),19.71909090909091
+2023-10-31,US_DGS3,US 3Y Treasury yield (%),4.885238095238096
+2023-10-31,,,
+2023-10-31,,,
+2023-10-31,,,
+2023-10-31,,,
+2023-11-01,CPI_X,Cpi X,0.5051719990377675
+2023-11-01,CPI_Y,Cpi Y,13.02638966872544
+2023-11-01,EXCHANGE_RATE,Exchange Rate,94.0337597486079
+2023-11-01,INTEREST_RATE,Interest Rate,8696.23
+2023-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),38715818307.8863
+2023-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.3059090909090909
+2023-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),19.196363636363635
+2023-11-30,US_DGS3,US 3Y Treasury yield (%),4.642380952380952
+2023-11-30,,,
+2023-11-30,,,
+2023-11-30,,,
+2023-11-30,,,
+2023-12-01,CPI_X,Cpi X,0.6941120153183341
+2023-12-01,CPI_Y,Cpi Y,12.78743690409422
+2023-12-01,EXCHANGE_RATE,Exchange Rate,91.289987799071
+2023-12-01,INTEREST_RATE,Interest Rate,9546.55
+2023-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),38715818307.8863
+2023-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.4547619047619048
+2023-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.714285714285715
+2023-12-31,US_DGS3,US 3Y Treasury yield (%),4.194
+2023-12-31,,,
+2023-12-31,,,
+2023-12-31,,,
+2023-12-31,,,
+2024-01-01,CPI_X,Cpi X,0.4040884240551462
+2024-01-01,CPI_Y,Cpi Y,12.78890600924499
+2024-01-01,EXCHANGE_RATE,Exchange Rate,89.542318078396
+2024-01-01,GDP_YOY_PCT,Gdp Yoy Pct,8.706304594275016
+2024-01-01,INTEREST_RATE,Interest Rate,8388.9
+2024-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.123407417472165
+2024-01-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-01-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-01-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-01-31,24_International reserves (excluding gold),24_International reserves (excluding gold),41838087389.2532
+2024-01-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0630434782608694
+2024-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.132826086956523
+2024-01-31,US_DGS3,US 3Y Treasury yield (%),4.105238095238095
+2024-01-31,,,
+2024-01-31,,,
+2024-01-31,,,
+2024-01-31,,,
+2024-02-01,CPI_X,Cpi X,0.3077651515151515
+2024-02-01,CPI_Y,Cpi Y,12.6784214945424
+2024-02-01,EXCHANGE_RATE,Exchange Rate,89.9979940210877
+2024-02-01,INTEREST_RATE,Interest Rate,7990.49
+2024-02-29,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-02-29,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-02-29,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-02-29,24_International reserves (excluding gold),24_International reserves (excluding gold),41838087389.2532
+2024-02-29,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-02-29,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0533333333333333
+2024-02-29,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.218571428571426
+2024-02-29,US_DGS3,US 3Y Treasury yield (%),4.33
+2024-02-29,,,
+2024-02-29,,,
+2024-02-29,,,
+2024-02-29,,,
+2024-03-01,CPI_X,Cpi X,0.4956337030918102
+2024-03-01,CPI_Y,Cpi Y,12.78890600924499
+2024-03-01,EXCHANGE_RATE,Exchange Rate,88.6392158254104
+2024-03-01,INTEREST_RATE,Interest Rate,9392.77
+2024-03-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-03-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-03-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-03-31,24_International reserves (excluding gold),24_International reserves (excluding gold),41838087389.2532
+2024-03-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0757142857142857
+2024-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.254761904761907
+2024-03-31,US_DGS3,US 3Y Treasury yield (%),4.376
+2024-03-31,,,
+2024-03-31,,,
+2024-03-31,,,
+2024-03-31,,,
+2024-04-01,CPI_X,Cpi X,0.1878816345702208
+2024-04-01,CPI_Y,Cpi Y,12.90096652192184
+2024-04-01,EXCHANGE_RATE,Exchange Rate,88.0186696960678
+2024-04-01,INTEREST_RATE,Interest Rate,8486.03
+2024-04-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-04-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-04-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-04-30,24_International reserves (excluding gold),24_International reserves (excluding gold),35888898145.8244
+2024-04-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0522727272727272
+2024-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),17.874545454545455
+2024-04-30,US_DGS3,US 3Y Treasury yield (%),4.708636363636364
+2024-04-30,,,
+2024-04-30,,,
+2024-04-30,,,
+2024-04-30,,,
+2024-05-01,CPI_X,Cpi X,0.6094702297233943
+2024-05-01,CPI_Y,Cpi Y,13.01302703459868
+2024-05-01,EXCHANGE_RATE,Exchange Rate,86.3074905748203
+2024-05-01,INTEREST_RATE,Interest Rate,7805.36
+2024-05-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-05-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-05-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-05-31,24_International reserves (excluding gold),24_International reserves (excluding gold),35888898145.8244
+2024-05-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.5526086956521742
+2024-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),25.18913043478261
+2024-05-31,US_DGS3,US 3Y Treasury yield (%),4.658181818181818
+2024-05-31,,,
+2024-05-31,,,
+2024-05-31,,,
+2024-05-31,,,
+2024-06-01,CPI_X,Cpi X,2.190121155638397
+2024-06-01,CPI_Y,Cpi Y,18.5778668002003
+2024-06-01,EXCHANGE_RATE,Exchange Rate,86.0271782612814
+2024-06-01,INTEREST_RATE,Interest Rate,6371.67
+2024-06-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-06-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-06-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-06-30,24_International reserves (excluding gold),24_International reserves (excluding gold),35888898145.8244
+2024-06-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.336
+2024-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),32.260000000000005
+2024-06-30,US_DGS3,US 3Y Treasury yield (%),4.504736842105263
+2024-06-30,,,
+2024-06-30,,,
+2024-06-30,,,
+2024-06-30,,,
+2024-07-01,CPI_X,Cpi X,0.0
+2024-07-01,CPI_Y,Cpi Y,18.58429214607304
+2024-07-01,EXCHANGE_RATE,Exchange Rate,84.9803912788238
+2024-07-01,INTEREST_RATE,Interest Rate,6344.15
+2024-07-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-07-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-07-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-07-31,24_International reserves (excluding gold),24_International reserves (excluding gold),36552112949.0099
+2024-07-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),1.0295652173913044
+2024-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),31.936304347826084
+2024-07-31,US_DGS3,US 3Y Treasury yield (%),4.294090909090909
+2024-07-31,,,
+2024-07-31,,,
+2024-07-31,,,
+2024-07-31,,,
+2024-08-01,CPI_X,Cpi X,0.615595075239398
+2024-08-01,CPI_Y,Cpi Y,18.46633416458853
+2024-08-01,EXCHANGE_RATE,Exchange Rate,84.7569257597326
+2024-08-01,INTEREST_RATE,Interest Rate,7603.83
+2024-08-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-08-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-08-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-08-31,24_International reserves (excluding gold),24_International reserves (excluding gold),36552112949.0099
+2024-08-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),4.546818181818182
+2024-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),31.84113636363636
+2024-08-31,US_DGS3,US 3Y Treasury yield (%),3.792727272727273
+2024-08-31,,,
+2024-08-31,,,
+2024-08-31,,,
+2024-08-31,,,
+2024-09-01,CPI_X,Cpi X,1.495581237253569
+2024-09-01,CPI_Y,Cpi Y,18.69706028898854
+2024-09-01,EXCHANGE_RATE,Exchange Rate,84.8237336392258
+2024-09-01,INTEREST_RATE,Interest Rate,6977.41
+2024-09-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-09-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-09-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-09-30,24_International reserves (excluding gold),24_International reserves (excluding gold),36552112949.0099
+2024-09-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-09-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.4461904761904761
+2024-09-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),24.443809523809527
+2024-09-30,US_DGS3,US 3Y Treasury yield (%),3.5055
+2024-09-30,,,
+2024-09-30,,,
+2024-09-30,,,
+2024-09-30,,,
+2024-10-01,CPI_X,Cpi X,1.808439383791025
+2024-10-01,CPI_Y,Cpi Y,18.58528095474888
+2024-10-01,EXCHANGE_RATE,Exchange Rate,86.717049601405
+2024-10-01,INTEREST_RATE,Interest Rate,3254.97
+2024-10-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,
+2024-10-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",
+2024-10-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",
+2024-10-31,24_International reserves (excluding gold),24_International reserves (excluding gold),41484541772.8406
+2024-10-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,
+2024-10-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0021739130434782
+2024-10-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),24.011739130434783
+2024-10-31,US_DGS3,US 3Y Treasury yield (%),3.9
+2024-10-31,,,
+2024-10-31,,,
+2024-10-31,,,
+2024-10-31,,,
+2024-11-01,CPI_X,Cpi X,1.885964912280702
+2024-11-01,CPI_Y,Cpi Y,18.70342771982116
+2024-11-01,EXCHANGE_RATE,Exchange Rate,89.1900086065949
+2024-11-01,INTEREST_RATE,Interest Rate,8624.2
+2024-11-30,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,
+2024-11-30,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",
+2024-11-30,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",
+2024-11-30,24_International reserves (excluding gold),24_International reserves (excluding gold),41484541772.8406
+2024-11-30,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,
+2024-11-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0561904761904761
+2024-11-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),23.962857142857143
+2024-11-30,US_DGS3,US 3Y Treasury yield (%),4.214210526315789
+2024-11-30,,,
+2024-11-30,,,
+2024-11-30,,,
+2024-11-30,,,
+2024-12-01,CPI_X,Cpi X,1.399052948773138
+2024-12-01,CPI_Y,Cpi Y,18.93336648433615
+2024-12-01,EXCHANGE_RATE,Exchange Rate,90.0864551117632
+2024-12-01,INTEREST_RATE,Interest Rate,10999.51
+2024-12-31,01_Cross-border loans from BIS reporting banks,01_Cross-border loans from BIS reporting banks,
+2024-12-31,"12_Liabilities to BIS banks (cons.), short term","12_Liabilities to BIS banks (cons.), short term",
+2024-12-31,"22_Liabilities to BIS banks, locational, total","22_Liabilities to BIS banks, locational, total",
+2024-12-31,24_International reserves (excluding gold),24_International reserves (excluding gold),41484541772.8406
+2024-12-31,27_Cross-border deposits with BIS rep. banks,27_Cross-border deposits with BIS rep. banks,
+2024-12-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0109090909090909
+2024-12-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),23.63
+2024-12-31,US_DGS3,US 3Y Treasury yield (%),4.216190476190476
+2024-12-31,,,
+2024-12-31,,,
+2024-12-31,,,
+2024-12-31,,,
+2025-01-01,CPI_X,Cpi X,1.20993419656124
+2025-01-01,CPI_Y,Cpi Y,19.06358668653751
+2025-01-01,EXCHANGE_RATE,Exchange Rate,90.8215534508996
+2025-01-01,GDP_YOY_PCT,Gdp Yoy Pct,9.62443032628726
+2025-01-01,INTEREST_RATE,Interest Rate,10397.82
+2025-01-01,RESERVES_PCT_GDP,Reserves Pct Gdp,-0.254502956556406
+2025-01-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.1317391304347826
+2025-01-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),8.501739130434782
+2025-01-31,US_DGS3,US 3Y Treasury yield (%),4.326190476190476
+2025-02-01,CPI_X,Cpi X,0.7969798657718121
+2025-02-01,CPI_Y,Cpi Y,19.29955290611028
+2025-02-01,EXCHANGE_RATE,Exchange Rate,91.7678673823844
+2025-02-01,INTEREST_RATE,Interest Rate,8869.7
+2025-02-28,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-3.599
+2025-02-28,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),13.8695
+2025-02-28,US_DGS3,US 3Y Treasury yield (%),4.221052631578948
+2025-03-01,CPI_X,Cpi X,1.49812734082397
+2025-03-01,CPI_Y,Cpi Y,20.25583705911575
+2025-03-01,EXCHANGE_RATE,Exchange Rate,91.1523227234208
+2025-03-01,INTEREST_RATE,Interest Rate,8112.13
+2025-03-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.1457142857142857
+2025-03-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),8.054761904761905
+2025-03-31,US_DGS3,US 3Y Treasury yield (%),3.9642857142857135
+2025-04-01,CPI_X,Cpi X,0.6970069700697007
+2025-04-01,CPI_Y,Cpi Y,20.13647642679901
+2025-04-01,EXCHANGE_RATE,Exchange Rate,90.4072546274064
+2025-04-01,INTEREST_RATE,Interest Rate,15322.28
+2025-04-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.1740909090909091
+2025-04-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),19.48909090909091
+2025-04-30,US_DGS3,US 3Y Treasury yield (%),3.784761904761905
+2025-05-01,CPI_X,Cpi X,1.302931596091205
+2025-05-01,CPI_Y,Cpi Y,20.12890431333664
+2025-05-01,EXCHANGE_RATE,Exchange Rate,90.0167584958557
+2025-05-01,INTEREST_RATE,Interest Rate,10492.93
+2025-05-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0154545454545454
+2025-05-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),25.439545454545453
+2025-05-31,US_DGS3,US 3Y Treasury yield (%),3.898571428571429
+2025-06-01,CPI_X,Cpi X,0.8038585209003215
+2025-06-01,CPI_Y,Cpi Y,2.428209459459459
+2025-06-01,EXCHANGE_RATE,Exchange Rate,89.0836197847166
+2025-06-01,INTEREST_RATE,Interest Rate,10823.57
+2025-06-30,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),0.0942857142857142
+2025-06-30,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),25.769523809523808
+2025-06-30,US_DGS3,US 3Y Treasury yield (%),3.8565
+2025-07-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.0347826086956521
+2025-07-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),26.065217391304348
+2025-07-31,US_DGS3,US 3Y Treasury yield (%),3.843181818181818
+2025-08-31,UKR_3Y_CHANGE_PCT,Ukraine 3Y bond yield change (%),-0.5700000000000001
+2025-08-31,UKR_3Y_YIELD,Ukraine 3Y bond yield (%),25.436666666666667
+2025-08-31,US_DGS3,US 3Y Treasury yield (%),3.6475

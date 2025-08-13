@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "analysis_type": "comprehensive_camels_calculation",
+    "timestamp": "20250804_221448",
+    "dataset_shape": [
+      5092,
+      38
+    ],
+    "unique_banks": 67,
+    "date_range": {
+      "start": "2019-01-01 00:00:00",
+      "end": "2025-04-01 00:00:00"
+    },
+    "total_camels_ratios": 20,
+    "original_camels_ratios": 9
+  },
+  "summary_statistics": {
+    "CAMELS_Net_Interest_Income_Ratio": {
+      "count": 3864,
+      "mean": 0.033655799943238536,
+      "std": 0.030083308360300026,
+      "min": -0.03397592275980261,
+      "q25": 0.012785590739156215,
+      "median": 0.026675519711964156,
+      "q75": 0.04577906348665487,
+      "max": 0.2564592339559646,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Net_Commission_Income_Ratio": {
+      "count": 3864,
+      "mean": 0.012425928276101304,
+      "std": 0.018361575164756307,
+      "min": -0.011112942692527343,
+      "q25": 0.002419944917390786,
+      "median": 0.006847988787550469,
+      "q75": 0.015816552354337383,
+      "max": 0.2304029617041169,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Net_Interest_Expense_Ratio": {
+      "count": 3865,
+      "mean": -0.0679319264969825,
+      "std": 0.20239114771213595,
+      "min": -9.712062035430192,
+      "q25": -0.06562545559714078,
+      "median": -0.03684010351468262,
+      "q75": -0.017212239980548275,
+      "max": 0.07163698684238884,
+      "missing_pct": 24.096622152395916
+    },
+    "CAMELS_Provisions_Ratio": {
+      "count": 3866,
+      "mean": -0.07189605160425291,
+      "std": 0.09233396621178665,
+      "min": -0.7214567905553516,
+      "q25": -0.08514333581836203,
+      "median": -0.042610455114076524,
+      "q75": -0.017761917837725724,
+      "max": -9.936479426323817e-05,
+      "missing_pct": 24.076983503534958
+    },
+    "CAMELS_Total_Equity_Ratio": {
+      "count": 3866,
+      "mean": 0.212683608051718,
+      "std": 0.17452675806816367,
+      "min": -0.4006762904217839,
+      "q25": 0.10148575264156005,
+      "median": 0.14664742116915375,
+      "q75": 0.26987446375313273,
+      "max": 0.9232571003867195,
+      "missing_pct": 24.076983503534958
+    },
+    "CAMELS_Common_Equity_Ratio": {
+      "count": 3866,
+      "mean": 0.2559423987096422,
+      "std": 0.5489717697696377,
+      "min": 0.002330312265434586,
+      "q25": 0.06375183178538911,
+      "median": 0.1304397690170344,
+      "q75": 0.24353412668688956,
+      "max": 5.522703380791986,
+      "missing_pct": 24.076983503534958
+    },
+    "CAMELS_ROA": {
+      "count": 3864,
+      "mean": 0.007257341217262214,
+      "std": 0.023220676206371697,
+      "min": -0.2853308037685667,
+      "q25": 0.001040692112346823,
+      "median": 0.006011338848930521,
+      "q75": 0.015253723490961215,
+      "max": 0.12104921398540984,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_ROE": {
+      "count": 3865,
+      "mean": 0.05987742053445852,
+      "std": 0.17508047204580246,
+      "min": -4.941252434279266,
+      "q25": 0.00604159759684843,
+      "median": 0.03896342706939229,
+      "q75": 0.10654992961988373,
+      "max": 1.7769819577651966,
+      "missing_pct": 24.096622152395916
+    },
+    "CAMELS_Interest_Income_Ratio": {
+      "count": 3864,
+      "mean": 0.05533656506351401,
+      "std": 0.03989128732333841,
+      "min": 1.951256170052953e-07,
+      "q25": 0.025357678318100776,
+      "median": 0.04820479127513706,
+      "q75": 0.07630289701161246,
+      "max": 0.3186734668547354,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Interest_Expense_Ratio": {
+      "count": 3864,
+      "mean": 0.02168076512027547,
+      "std": 0.018994573392849805,
+      "min": -0.0006075970619316367,
+      "q25": 0.007646776825674547,
+      "median": 0.017009076615466676,
+      "q75": 0.03022219975581876,
+      "max": 0.1542647093859363,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Cost_of_Deposits": {
+      "count": 3865,
+      "mean": 0.03124457976892739,
+      "std": 0.03268396195773737,
+      "min": -0.0008777882750993314,
+      "q25": 0.011930837835620196,
+      "median": 0.024307784086627714,
+      "q75": 0.04192849187238399,
+      "max": 0.6009583905262832,
+      "missing_pct": 24.096622152395916
+    },
+    "CAMELS_Commission_Income_Ratio": {
+      "count": 3864,
+      "mean": 0.019143273622846752,
+      "std": 0.030832889388812335,
+      "min": 1.8881240789205575e-05,
+      "q25": 0.0040492117557244,
+      "median": 0.010956787010586975,
+      "q75": 0.023655466729265166,
+      "max": 0.42721673467536897,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Commission_Expense_Ratio": {
+      "count": 3864,
+      "mean": 0.006717345346745449,
+      "std": 0.016466377374622674,
+      "min": 0.0,
+      "q25": 0.0008828599902007356,
+      "median": 0.002566516694587238,
+      "q75": 0.006328475948721572,
+      "max": 0.2590289594980527,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Net_Interest_Margin": {
+      "count": 3864,
+      "mean": 0.033655799943238536,
+      "std": 0.030083308360300026,
+      "min": -0.0339759227598026,
+      "q25": 0.012785590739156215,
+      "median": 0.026675519711964156,
+      "q75": 0.045779063486654885,
+      "max": 0.2564592339559646,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Operating_Expense_Ratio": {
+      "count": 3864,
+      "mean": 0.041807316710700114,
+      "std": 0.04067473848338148,
+      "min": 0.00017626638898572014,
+      "q25": 0.01426741484204267,
+      "median": 0.030788884018049537,
+      "q75": 0.0546957542612215,
+      "max": 0.34557076589117286,
+      "missing_pct": 24.11626080125687
+    },
+    "CAMELS_Loan_Loss_Provision_Ratio": {
+      "count": 3797,
+      "mean": -0.26749508909584646,
+      "std": 0.5315275561333608,
+      "min": -7.098654794688118,
+      "q25": -0.25058767369597207,
+      "median": -0.12439663340212107,
+      "q75": -0.05176410431514435,
+      "max": 0.0,
+      "missing_pct": 25.43205027494108
+    },
+    "CAMELS_Deposit_Ratio": {
+      "count": 3867,
+      "mean": 0.841483627111655,
+      "std": 0.17896989183296702,
+      "min": 0.0,
+      "q25": 0.7830818153429996,
+      "median": 0.9223944491033236,
+      "q75": 0.9574768390310069,
+      "max": 0.9945904723022477,
+      "missing_pct": 24.057344854674
+    },
+    "CAMELS_Loan_Asset_Ratio": {
+      "count": 3866,
+      "mean": 0.3174772308461882,
+      "std": 0.17668123316332185,
+      "min": 0.0,
+      "q25": 0.19276380712182492,
+      "median": 0.31221740744761717,
+      "q75": 0.4424352036199411,
+      "max": 0.8192670505357058,
+      "missing_pct": 24.076983503534958
+    },
+    "CAMELS_Loan_Deposit_Ratio": {
+      "count": 3863,
+      "mean": 0.6419630521104678,
+      "std": 0.94598873222589,
+      "min": 0.0,
+      "q25": 0.3126514563426349,
+      "median": 0.4894114200576016,
+      "q75": 0.7426360140298459,
+      "max": 29.7449186615899,
+      "missing_pct": 24.135899450117833
+    },
+    "CAMELS_Cash_Ratio": {
+      "count": 3866,
+      "mean": 0.07508413388858613,
+      "std": 0.047116927048735414,
+      "min": 3.854868753878461e-05,
+      "q25": 0.04436178527447565,
+      "median": 0.06539825960808468,
+      "q75": 0.09569674089967552,
+      "max": 0.38707705639310586,
+      "missing_pct": 24.076983503534958
+    }
+  },
+  "ratio_definitions": {
+    "CAMELS_Net_Interest_Income_Ratio": "Net Interest Income / Total Assets",
+    "CAMELS_Net_Commission_Income_Ratio": "Net Commission Income / Total Assets",
+    "CAMELS_Net_Interest_Expense_Ratio": "Net Interest Expenses / Total Liabilities (negative)",
+    "CAMELS_Provisions_Ratio": "Provisions / Total Assets",
+    "CAMELS_Total_Equity_Ratio": "Total Equity / Total Assets",
+    "CAMELS_Common_Equity_Ratio": "Common (Tier 1) Equity / Total Assets",
+    "CAMELS_ROA": "Return on Assets (Net Profit / Total Assets)",
+    "CAMELS_ROE": "Return on Equity (Net Profit / Total Equity)",
+    "CAMELS_Interest_Income_Ratio": "Interest Income / Total Assets",
+    "CAMELS_Interest_Expense_Ratio": "Interest Expenses / Total Assets",
+    "CAMELS_Cost_of_Deposits": "Interest Expenses / Total Liabilities",
+    "CAMELS_Commission_Income_Ratio": "Commission Income / Total Assets",
+    "CAMELS_Commission_Expense_Ratio": "Commission Expenses / Total Assets",
+    "CAMELS_Net_Interest_Margin": "Net Interest Margin / Total Assets",
+    "CAMELS_Operating_Expense_Ratio": "Operating Expenses / Total Assets",
+    "CAMELS_Loan_Loss_Provision_Ratio": "Loan Loss Provisions / Total Loans",
+    "CAMELS_Deposit_Ratio": "Deposits / Total Liabilities",
+    "CAMELS_Loan_Asset_Ratio": "Loans / Total Assets",
+    "CAMELS_Loan_Deposit_Ratio": "Loans / Deposits",
+    "CAMELS_Cash_Ratio": "Cash and Cash Equivalents / Total Assets"
+  }
+}

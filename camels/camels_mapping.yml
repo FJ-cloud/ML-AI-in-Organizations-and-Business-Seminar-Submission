@@ -1,0 +1,167 @@
+# CAMELS Ratios Mapping Configuration
+# Maps each of the 8 core CAMELS ratios to exact column names in the Ukrainian banks dataset
+# Based on IMF FSI Guide and BIS recommendations for bank health assessment
+
+metadata:
+  version: "1.0"
+  description: "Column mappings for 8 high-impact CAMELS ratios"
+  dataset_columns_total: 118
+  columns_used: 14
+  imf_reference: "IMF Financial Soundness Indicators Guide 2019"
+  last_updated: "2025-01-04"
+
+# Core columns that will be used across multiple ratios
+core_columns:
+  # Asset columns
+  total_assets: "assets_total_assets"
+  cash_and_equivalents: "assets_cash_and_cash_equivalents"
+  loans_to_customers: "assets_loans_and_receivables_from_customers"
+  
+  # Liability columns  
+  customer_deposits: "liabilities_amounts_due_to_customers"
+  total_liabilities: "liabilities_total_liabilities"
+  
+  # Equity columns
+  total_equity: "equity_total_equity_capital"
+  
+  # Financial results columns
+  profit_after_tax: "financial_results_profit_loss_after_tax"
+  total_income: "financial_results_total_income"
+  total_expenses: "financial_results_total_expenses"
+  
+  # Provision columns
+  provisions_legal_entities: "assets_including_provision_for_impairment_of_loans_and_receivables_from_legal_entities"
+  provisions_individuals: "assets_including_provision_for_impairment_of_loans_and_receivables_from_individuals"
+
+# The 8 high-impact CAMELS ratios
+ratios:
+  
+  # 1. Capital Adequacy
+  capital_ratio:
+    name: "Capital Ratio (Tier 1 to Assets / Leverage Ratio)"
+    camels_pillar: "Capital"
+    formula: "Equity ÷ Total Assets"
+    numerator: "equity_total_equity_capital"
+    denominator: "assets_total_assets"
+    interpretation: "First line of defence against losses; rises when a bank deleverages"
+    imf_category: "Core FSI"
+    target_range: [0.08, 0.20]  # Typical range: 8-20%
+    
+  # 2. Asset Quality  
+  npl_ratio:
+    name: "Non-performing Loans Ratio"
+    camels_pillar: "Asset Quality"
+    formula: "Non-performing Loans ÷ Gross Loans"
+    numerator_components:
+      - "assets_including_provision_for_impairment_of_loans_and_receivables_from_legal_entities"
+      - "assets_including_provision_for_impairment_of_loans_and_receivables_from_individuals"
+    denominator: "assets_loans_and_receivables_from_customers"
+    calculation: "sum_numerator_components / denominator"
+    interpretation: "Captures credit-loss pressure, especially acute in wartime economies"
+    imf_category: "Core FSI"
+    warning_threshold: 0.05  # NPL > 5% is concerning
+    
+  # 3. Management Efficiency
+  cost_income_ratio:
+    name: "Cost-to-Income Ratio"
+    camels_pillar: "Management (Efficiency)"
+    formula: "Operating expenses ÷ Gross income"
+    numerator: "financial_results_total_expenses"
+    denominator: "financial_results_total_income"
+    interpretation: "Shows how well management controls overheads when revenue dips"
+    imf_category: "Core FSI"
+    target_range: [0.40, 0.60]  # Efficient banks: 40-60%
+    
+  # 4. Earnings - ROA
+  roa:
+    name: "Return on Assets (ROA)"
+    camels_pillar: "Earnings"
+    formula: "Net profit ÷ Total assets"
+    numerator: "financial_results_profit_loss_after_tax"
+    denominator: "assets_total_assets"
+    interpretation: "Headline profitability metric used by IMF, BIS and investors"
+    imf_category: "Core FSI"
+    target_range: [0.005, 0.020]  # Healthy ROA: 0.5-2.0%
+    already_calculated: true  # This column already exists in dataset
+    column_name: "ROA"
+    
+  # 5. Earnings - ROE
+  roe:
+    name: "Return on Equity (ROE)"
+    camels_pillar: "Earnings"
+    formula: "Net profit ÷ Total equity"
+    numerator: "financial_results_profit_loss_after_tax"
+    denominator: "equity_total_equity_capital"
+    interpretation: "Complements ROA by showing rewards to shareholders"
+    imf_category: "Core FSI"
+    target_range: [0.10, 0.15]  # Healthy ROE: 10-15%
+    
+  # 6. Liquidity - Liquid Assets Ratio
+  liquid_assets_ratio:
+    name: "Liquid Assets Ratio"
+    camels_pillar: "Liquidity"
+    formula: "Liquid Assets ÷ Total Assets"  
+    numerator: "assets_cash_and_cash_equivalents"
+    denominator: "assets_total_assets"
+    interpretation: "Immediate buffer against deposit runs or payment shocks"
+    imf_category: "Core FSI"
+    target_range: [0.15, 0.30]  # Adequate liquidity: 15-30%
+    
+  # 7. Liquidity - Loan to Deposit Ratio
+  loan_deposit_ratio:
+    name: "Loan-to-Deposit Ratio (LDR)"
+    camels_pillar: "Liquidity"
+    formula: "Loans ÷ Customer deposits"
+    numerator: "assets_loans_and_receivables_from_customers"
+    denominator: "liabilities_amounts_due_to_customers"
+    interpretation: "Tests funding tightness; high values spell liquidity strain"
+    imf_category: "Core FSI"
+    warning_threshold: 1.0  # LDR > 100% indicates potential liquidity stress
+    
+  # 8. Sensitivity to Market Risk - Net Open FX Position
+  net_open_fx_ratio:
+    name: "Net Open FX Position ÷ Capital"
+    camels_pillar: "Sensitivity to Market Risk"
+    formula: "Net Open FX Position ÷ Capital"
+    numerator: "FX_Gap"  # This needs to be derived
+    denominator: "equity_total_equity_capital"
+    interpretation: "Flags vulnerability to hryvnia swings; war amplifies this channel"
+    imf_category: "Core FSI"
+    note: "FX_Gap needs to be calculated from available FX-related columns"
+    requires_derivation: true
+
+# Additional metadata for implementation
+implementation:
+  missing_value_handling:
+    method: "exclude_from_calculation"
+    min_valid_observations: 12  # Require at least 12 months of data per bank
+    
+  outlier_handling:
+    method: "winsorize"
+    percentiles: [0.01, 0.99]  # Winsorize at 1st and 99th percentiles
+    
+  temporal_features:
+    lags:
+      - "ROA_lag1"
+      - "NPL_ratio_lag1" 
+      - "Capital_ratio_lag1"
+    periods: 1  # 1 month lag
+    
+  interaction_terms:
+    war_interactions:
+      - formula: "WAR × NPL_ratio"
+        description: "War amplifies credit risk impact"
+      - formula: "WAR × Net_Open_FX_ratio"  
+        description: "War amplifies FX risk impact"
+        
+  war_period:
+    start_date: "2022-02-24"  # Russian invasion date
+    column_name: "WAR"
+    
+# Data quality requirements
+quality_checks:
+  required_coverage: 0.75  # At least 75% of observations must have valid data
+  extreme_value_flags:
+    roa_bounds: [-0.50, 0.50]  # ROA outside ±50% flagged
+    roe_bounds: [-2.0, 2.0]    # ROE outside ±200% flagged
+    capital_ratio_bounds: [0.0, 1.0]  # Capital ratio outside 0-100% flagged 

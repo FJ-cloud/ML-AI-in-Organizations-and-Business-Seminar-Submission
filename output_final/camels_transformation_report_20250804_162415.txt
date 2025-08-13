@@ -1,0 +1,97 @@
+CAMELS TRANSFORMATION SUMMARY REPORT
+==================================================
+Generated: 2025-08-04 16:24:17
+
+DATA PROCESSING SUMMARY
+-------------------------
+Original dataset shape: (5092, 119)
+After cleaning shape: (5092, 119)
+Features dataset shape: (5092, 18)
+Duplicates removed: 0
+
+CAMELS RATIOS IMPLEMENTED
+-------------------------
+1. Capital_Ratio: Equity ÷ Total Assets (Capital Adequacy)
+2. NPL_Ratio: Non-performing Loans ÷ Gross Loans (Asset Quality)
+3. Cost_Income_Ratio: Operating Expenses ÷ Gross Income (Management)
+4. ROA: Net Profit ÷ Total Assets (Earnings)
+5. ROE: Net Profit ÷ Total Equity (Earnings)
+6. Liquid_Assets_Ratio: Liquid Assets ÷ Total Assets (Liquidity)
+7. Loan_Deposit_Ratio: Loans ÷ Customer Deposits (Liquidity)
+8. Net_Open_FX_Ratio: FX Gap ÷ Capital (Market Risk)
+
+FEATURE COLUMNS CREATED
+-------------------------
+ 1. bank_name
+ 2. date
+ 3. failed
+ 4. failure_date
+ 5. processing_timestamp
+ 6. Capital_Ratio
+ 7. NPL_Ratio
+ 8. Cost_Income_Ratio
+ 9. ROA
+10. ROE
+11. Liquid_Assets_Ratio
+12. Loan_Deposit_Ratio
+13. Net_Open_FX_Ratio
+14. ROA_lag1
+15. Capital_ratio_lag1
+16. WAR
+17. WAR_x_NPL_Ratio
+18. WAR_x_Net_Open_FX_Ratio
+
+Total features: 18
+
+CAMELS RATIOS SUMMARY STATISTICS
+-----------------------------------
+               Capital_Ratio    NPL_Ratio  Cost_Income_Ratio          ROA          ROE  Liquid_Assets_Ratio  Loan_Deposit_Ratio  Net_Open_FX_Ratio
+count            3866.000000  3797.000000        3866.000000  3864.000000  3865.000000          3866.000000         3863.000000        3867.000000
+mean                0.212684    -0.267495           0.612445     0.007257     0.059877             0.075084            0.641963           0.000000
+std                 0.174527     0.531528          10.115391     0.023221     0.175080             0.047117            0.945989           0.000000
+min                -0.400676    -7.098655        -473.393234    -0.285331    -4.941252             0.000039            0.000000           0.000000
+1%                  0.029388    -3.130438          -0.161565    -0.072821    -0.324931             0.008125            0.000000           0.000000
+5%                  0.061838    -0.947601           0.207732    -0.020895    -0.088643             0.018474            0.047265           0.000000
+25%                 0.101486    -0.250588           0.608023     0.001041     0.006042             0.044362            0.312651           0.000000
+50%                 0.146647    -0.124397           0.825834     0.006011     0.038963             0.065398            0.489411           0.000000
+75%                 0.269874    -0.051764           0.960359     0.015254     0.106550             0.095697            0.742636           0.000000
+95%                 0.652679    -0.002299           1.495965     0.038975     0.293920             0.160135            1.314576           0.000000
+99%                 0.810694    -0.000241           2.943975     0.060056     0.463657             0.240780            4.628446           0.000000
+max                 0.923257     0.000000          39.948044     0.121049     1.776982             0.387077           29.744919           0.000000
+missing_count    1226.000000  1295.000000        1226.000000  1228.000000  1227.000000          1226.000000         1229.000000        1225.000000
+missing_pct        24.076984    25.432050          24.076984    24.116261    24.096622            24.076984           24.135899          24.057345
+
+DATA QUALITY VALIDATION
+-------------------------
+Overall status: PASSED
+
+Warnings (1):
+  - NPL_Ratio: Coverage 74.6% below required 75.0%
+
+PROCESSING LOG
+---------------
+[2025-08-04 16:24:15] ============================================================
+[2025-08-04 16:24:15] STARTING CAMELS TRANSFORMATION PIPELINE
+[2025-08-04 16:24:15] ============================================================
+[2025-08-04 16:24:15] Loading dataset from: ../output_final/ukrainian_banks_panel_dataset_FINAL.csv
+[2025-08-04 16:24:15] Loaded dataset: 5,092 records, 119 columns
+[2025-08-04 16:24:15] Cleaning and deduplicating data...
+[2025-08-04 16:24:15] Starting CAMELS ratios calculation...
+[2025-08-04 16:24:15] CAMELS ratios calculation completed
+[2025-08-04 16:24:15] Adding temporal features (lagged variables)...
+[2025-08-04 16:24:15] Temporal features added successfully
+[2025-08-04 16:24:15] Adding war interaction terms...
+[2025-08-04 16:24:15] War interaction terms added successfully
+[2025-08-04 16:24:15] Applying outlier handling (winsorization)...
+[2025-08-04 16:24:15] Outlier handling completed successfully
+[2025-08-04 16:24:15] Validating final results...
+[2025-08-04 16:24:15] Data quality warnings found:
+[2025-08-04 16:24:15]   WARNING: NPL_Ratio: Coverage 74.6% below required 75.0%
+[2025-08-04 16:24:15] Creating clean features dataset...
+[2025-08-04 16:24:15] Features dataset created: 5,092 records, 18 features
+[2025-08-04 16:24:15] Saving results...
+[2025-08-04 16:24:16] Features dataset saved: ../output_final/camels_features_20250804_162415.parquet
+[2025-08-04 16:24:16] Features dataset (CSV) saved: ../output_final/camels_features_20250804_162415.csv
+[2025-08-04 16:24:16] Full dataset with CAMELS saved: ../output_final/ukrainian_banks_with_camels_20250804_162415.csv
+[2025-08-04 16:24:17] Updated main dataset: ../output_final/ukrainian_banks_panel_dataset_FINAL.csv
+[2025-08-04 16:24:17] Generating summary report...

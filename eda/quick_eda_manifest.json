@@ -1,0 +1,23 @@
+{
+  "dataset": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_221401.csv",
+  "generated_at": "2025-08-08T23:19:15.170243",
+  "class_imbalance_summary_json": "/home/fj/UkrainianInsolvencyPredictor/eda/class_imbalance_summary.json",
+  "failures_per_month_png": "/home/fj/UkrainianInsolvencyPredictor/eda/failures_per_month.png",
+  "failures_first_per_bank_by_month_csv": "/home/fj/UkrainianInsolvencyPredictor/eda/failures_first_per_bank_by_month.csv",
+  "univariate_distribution_pngs": [
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_ROA.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_Capital_Ratio.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_NPL_Ratio.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_Cost_Income_Ratio.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_ROE.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_Liquid_Assets_Ratio.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_Loan_Deposit_Ratio.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_WAR.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_us_3y_yield.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_ukraine_3y_yield.png",
+    "/home/fj/UkrainianInsolvencyPredictor/eda/dist_24_International_reserves_(excluding_gold).png"
+  ],
+  "pearson_corr_heatmap_png": "/home/fj/UkrainianInsolvencyPredictor/eda/pearson_corr_heatmap.png",
+  "bank_heterogeneity_csv": "/home/fj/UkrainianInsolvencyPredictor/eda/bank_heterogeneity_shares.csv",
+  "bank_heterogeneity_png": "/home/fj/UkrainianInsolvencyPredictor/eda/bank_heterogeneity_shares.png"
+}

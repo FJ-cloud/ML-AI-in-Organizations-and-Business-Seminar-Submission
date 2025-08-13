@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+catboost==1.2.5 

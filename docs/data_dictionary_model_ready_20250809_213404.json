@@ -1,0 +1,312 @@
+{
+  "generated_at": "20250809_213404",
+  "model_ready_file": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250809_212523.csv",
+  "columns": [
+    {
+      "name": "bank_name",
+      "category": "id",
+      "source": "panel",
+      "description": "Canonical bank name after consolidation."
+    },
+    {
+      "name": "date_m",
+      "category": "id",
+      "source": "panel",
+      "description": "Month end date (period end, monthly granularity)."
+    },
+    {
+      "name": "year_month",
+      "category": "id",
+      "source": "panel",
+      "description": "YYYY-MM string for monthly period."
+    },
+    {
+      "name": "failed",
+      "category": "target",
+      "source": "panel",
+      "description": "Binary target: 1 if bank failed, else 0."
+    },
+    {
+      "name": "WAR",
+      "category": "policy_flag",
+      "source": "constructed",
+      "description": "War dummy: 1 from 2022-03-01 onwards, else 0."
+    },
+    {
+      "name": "Capital_Ratio",
+      "category": "camels",
+      "source": "derived (balance sheet)",
+      "description": "Equity to Total Assets ratio (capital adequacy proxy)."
+    },
+    {
+      "name": "Cost_Income_Ratio",
+      "category": "camels",
+      "source": "derived (P&L)",
+      "description": "Operating expenses to operating income."
+    },
+    {
+      "name": "Liquid_Assets_Ratio",
+      "category": "camels",
+      "source": "derived (liquidity)",
+      "description": "Liquid assets to total assets."
+    },
+    {
+      "name": "Loan_Deposit_Ratio",
+      "category": "camels",
+      "source": "derived (funding)",
+      "description": "Loans to customer deposits."
+    },
+    {
+      "name": "NPL_Ratio",
+      "category": "camels",
+      "source": "derived (loan book)",
+      "description": "Non-performing loans to gross loans."
+    },
+    {
+      "name": "Net_Open_FX_Ratio",
+      "category": "camels",
+      "source": "derived (FX exposure)",
+      "description": "Net open FX position to equity."
+    },
+    {
+      "name": "ROA",
+      "category": "camels",
+      "source": "derived (P&L / assets)",
+      "description": "Return on Assets: net income / total assets."
+    },
+    {
+      "name": "ROE",
+      "category": "camels",
+      "source": "derived (P&L / equity)",
+      "description": "Return on Equity: net income / equity."
+    },
+    {
+      "name": "01_Cross-border loans from BIS reporting banks",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Cross-border loans from BIS reporting banks (JEHD/BIS)."
+    },
+    {
+      "name": "12_Liabilities to BIS banks (cons.), short term",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Short-term liabilities to BIS reporting banks, consolidated (JEHD/BIS)."
+    },
+    {
+      "name": "22_Liabilities to BIS banks, locational, total",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Total locational liabilities to BIS banks (JEHD/BIS)."
+    },
+    {
+      "name": "24_International reserves (excluding gold)",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "International reserves excluding gold (JEHD)."
+    },
+    {
+      "name": "27_Cross-border deposits with BIS rep. banks",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Cross-border deposits with BIS reporting banks (JEHD/BIS)."
+    },
+    {
+      "name": "cpi_x",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Consumer Price Index (variant X from merged macro sources)."
+    },
+    {
+      "name": "cpi_y",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Consumer Price Index (variant Y from merged macro sources)."
+    },
+    {
+      "name": "exchange_rate",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Exchange rate (local currency per USD) from merged macro sources."
+    },
+    {
+      "name": "gdp_yoy_pct",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "GDP year-over-year growth rate (WEO/IMF)."
+    },
+    {
+      "name": "interest_rate",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Policy or money market interest rate (from merged macro sources)."
+    },
+    {
+      "name": "reserves_pct_gdp",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "International reserves as % of GDP (derived from WEO/IMF)."
+    },
+    {
+      "name": "ukraine_3y_change_pct",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Monthly percent change in Ukraine 3-year yield."
+    },
+    {
+      "name": "ukraine_3y_yield",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Ukraine 3-year government bond yield (%)."
+    },
+    {
+      "name": "ukraine_3y_yield_z",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Z-scored Ukraine 3y yield (standardized)."
+    },
+    {
+      "name": "us_3y_yield",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "United States Treasury 3-year yield (%)."
+    },
+    {
+      "name": "us_3y_yield_z",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Z-scored US 3y yield (standardized)."
+    },
+    {
+      "name": "yield_spread_ukr_us_3y",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Yield spread: Ukraine 3y minus US 3y (pp)."
+    },
+    {
+      "name": "yield_spread_ukr_us_3y_z",
+      "category": "macro",
+      "source": "JEHD/IMF/BIS/WEO/market",
+      "description": "Z-scored yield spread (standardized)."
+    },
+    {
+      "name": "01_Cross-border loans from BIS reporting banks_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 01_Cross-border loans from BIS reporting banks. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "01_Cross-border loans from BIS reporting banks_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 01_Cross-border loans from BIS reporting banks. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "12_Liabilities to BIS banks (cons.), short term_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 12_Liabilities to BIS banks (cons.), short term. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "12_Liabilities to BIS banks (cons.), short term_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 12_Liabilities to BIS banks (cons.), short term. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "22_Liabilities to BIS banks, locational, total_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 22_Liabilities to BIS banks, locational, total. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "22_Liabilities to BIS banks, locational, total_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 22_Liabilities to BIS banks, locational, total. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "24_International reserves (excluding gold)_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 24_International reserves (excluding gold). Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "24_International reserves (excluding gold)_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 24_International reserves (excluding gold). Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "27_Cross-border deposits with BIS rep. banks_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 27_Cross-border deposits with BIS rep. banks. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "27_Cross-border deposits with BIS rep. banks_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of 27_Cross-border deposits with BIS rep. banks. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "ukraine_3y_change_pct_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of ukraine_3y_change_pct. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "ukraine_3y_change_pct_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of ukraine_3y_change_pct. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "ukraine_3y_yield_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of ukraine_3y_yield. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "ukraine_3y_yield_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of ukraine_3y_yield. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "us_3y_yield_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of us_3y_yield. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "us_3y_yield_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of us_3y_yield. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "yield_spread_ukr_us_3y_lag1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of yield_spread_ukr_us_3y. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "yield_spread_ukr_us_3y_lag1.1",
+      "category": "macro_lag",
+      "source": "constructed",
+      "description": "Lag-1 month of yield_spread_ukr_us_3y. Duplicate suffix .1 indicates de-duplication needed in future cleanup."
+    },
+    {
+      "name": "failure_date",
+      "category": "other",
+      "source": "merged",
+      "description": "Derived/feature column from merged macro/panel sources."
+    },
+    {
+      "name": "last_reporting_date",
+      "category": "other",
+      "source": "merged",
+      "description": "Derived/feature column from merged macro/panel sources."
+    }
+  ]
+}

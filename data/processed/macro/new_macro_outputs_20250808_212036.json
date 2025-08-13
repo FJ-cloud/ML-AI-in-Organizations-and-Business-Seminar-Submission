@@ -1,0 +1,13 @@
+{
+  "jehd": {
+    "long_csv": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_long_20250808_212036.csv",
+    "wide_csv": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_wide_20250808_212036.csv",
+    "meta": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_meta_20250808_212036.json"
+  },
+  "us_dgs3": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/us_dgs3_monthly_20250808_212036.csv",
+  "ukr_3y": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/ukraine_3y_monthly_20250808_212036.csv",
+  "macro_only": {
+    "macro_only_wide": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_wide_20250808_212036.csv",
+    "macro_only_long": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_long_20250808_212036.csv"
+  }
+}

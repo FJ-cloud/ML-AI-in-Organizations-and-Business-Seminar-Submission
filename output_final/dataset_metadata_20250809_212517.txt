@@ -1,0 +1,39 @@
+Ukrainian Banks Panel Dataset - Metadata
+==================================================
+
+BASIC STATISTICS
+----------------
+Total rows: 5,092
+Total columns: 118
+Unique banks: 67
+Date range: 2019-01-01 to 2025-04-01
+Months covered: 76
+
+BANK STATISTICS
+---------------
+Total banks: 67
+Active banks: 67
+Failed banks: 21
+
+DATA AVAILABILITY
+-----------------
+Total possible observations: 5,092
+Actual observations: 3,869
+Availability rate: 75.98%
+Missing rate: 24.02%
+
+COLUMN ANALYSIS
+---------------
+Metadata columns: 8
+Assets columns: 37
+Liabilities columns: 20
+Equity columns: 11
+Financial results columns: 42
+Other columns: 0
+
+PROCESSING INFORMATION
+---------------------
+Processing timestamp: 2025-08-09T21:25:18.642001
+Pipeline version: 2.0.0
+
+✅ FINAL CLEAN DATASET - READY FOR MACHINE LEARNING!

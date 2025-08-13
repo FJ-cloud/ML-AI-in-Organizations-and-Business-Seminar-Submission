@@ -1,0 +1,240 @@
+{
+  "basic_statistics": {
+    "total_rows": 5092,
+    "total_columns": 118,
+    "unique_banks": 67,
+    "date_range": {
+      "start": "2019-01-01",
+      "end": "2025-04-01",
+      "months": 76
+    }
+  },
+  "bank_statistics": {
+    "total_banks": 67,
+    "active_banks": 67,
+    "failed_banks": 21
+  },
+  "data_availability": {
+    "total_possible_observations": 5092,
+    "actual_observations": "3869",
+    "availability_rate_percent": 75.98,
+    "missing_rate_percent": 24.02
+  },
+  "column_analysis": {
+    "metadata_columns": [
+      "bank_name",
+      "date",
+      "year_month",
+      "bank_present",
+      "processing_timestamp",
+      "failed",
+      "failure_date",
+      "last_reporting_date"
+    ],
+    "assets_columns": [
+      "assets_present",
+      "assets_",
+      "assets_nkb",
+      "assets_cash_and_cash_equivalents",
+      "assets_including_cash",
+      "assets_including_bank_metals",
+      "assets_including_provisions_against_cash_and_bank_metals_with_unconfirmed_availability",
+      "assets_including_amounts_due_from_nbu",
+      "assets_financial_assets_designated_at_fair_value_through_pro\ufb01t_or_loss",
+      "assets_including_refinanced_by_nbu",
+      "assets_amounts_due_from_other_banks",
+      "assets_provision_for_impairment_of_amounts_due_from_other_banks",
+      "assets_loans_and_receivables_from_customers",
+      "assets_including_loans_and_receivables_from_legal_entities",
+      "assets_including_provision_for_impairment_of_loans_and_receivables_from_legal_entities",
+      "assets_including_loans_and_receivables_from_individuals",
+      "assets_including_provision_for_impairment_of_loans_and_receivables_from_individuals",
+      "assets_securities_at_fair_value_through_other_comprehensive_income",
+      "assets_including_refinanced_by_nbu.1",
+      "assets_provision_for_impairment_of_securities_at_fair_value_through_other_comprehensive_income",
+      "assets_securities_at_amortised_cost",
+      "assets_provision_for_impairment_of_securities_at_amortised_cost",
+      "assets_including_refinanced_by_nbu.2",
+      "assets_investments_in_associates_and_subsidiaries",
+      "assets_investment_property",
+      "assets_current_income_tax_receivables",
+      "assets_deferred_tax_asset",
+      "assets_fixed_assets_and_intangible_assets",
+      "assets_other_financial_assets",
+      "assets_provision_against_other_financial_assets",
+      "assets_other_assets",
+      "assets_provision_against_other_assets",
+      "assets_net_assets_total",
+      "assets_provisions_total",
+      "assets_total_assets",
+      "assets_iglb_refinanced_by_nbu",
+      "assets_\u0437_\u043f"
+    ],
+    "liabilities_columns": [
+      "liabilities_present",
+      "liabilities_",
+      "liabilities_nkb",
+      "liabilities_amounts_due_to_the_national_bank_of_ukraine",
+      "liabilities_amounts_due_to_banks",
+      "liabilities_amounts_due_to_customers",
+      "liabilities_including_amounts_due_to_legal_entities",
+      "liabilities_including_demand_deposits_from_legal_entities",
+      "liabilities_including_amounts_due_to_individuals",
+      "liabilities_including_demand_deposits_from_individuals",
+      "liabilities_financial_liabilities_at_fair_value_through_profit_or_loss",
+      "liabilities_debt_securities_issued_by_the_bank",
+      "liabilities_other_funds_raised",
+      "liabilities_current_income_tax_liabilities",
+      "liabilities_deferred_tax_liabilities",
+      "liabilities_provision_against_liabilities",
+      "liabilities_other_financial_liabilities",
+      "liabilities_other_liabilities",
+      "liabilities_subordinated_debt",
+      "liabilities_total_liabilities"
+    ],
+    "equity_columns": [
+      "equity_present",
+      "equity_",
+      "equity_nkb",
+      "equity_authorized_capital",
+      "equity_share_premium_reserve",
+      "equity_unregistered_authorized_capital",
+      "equity_other_additional_capital",
+      "equity_reserve_and_other_bank_s_funds",
+      "equity_revaluation_reserves",
+      "equity_retained_earnings_uncovered_loss",
+      "equity_total_equity_capital"
+    ],
+    "financial_results_columns": [
+      "financial_results_present",
+      "financial_results_",
+      "financial_results_nkb",
+      "financial_results_interest_income",
+      "financial_results_interest_income_from_operations_with_legal_entities",
+      "financial_results_interest_income_from_operations_with_individuals",
+      "financial_results_interest_expenses",
+      "financial_results_interest_expenses_from_operations_with_legal_entities",
+      "financial_results_interest_expenses_from_operations_with_individuals",
+      "financial_results_other_interest_expenses",
+      "financial_results_net_interest_income_net_interest_expenses",
+      "financial_results_commission_income",
+      "financial_results_commission_expenses",
+      "financial_results_net_commission_income_net_commission_expenses",
+      "financial_results_gains_and_losses_from_trading",
+      "financial_results_gains_and_losses_from_revaluation",
+      "financial_results_gains_and_losses_from_purchase_and_sale_operations",
+      "financial_results_gains_and_losses_from_trading_of_financial_assets_and_liabilities",
+      "financial_results_other_operating_income",
+      "financial_results_other_income",
+      "financial_results_total_income",
+      "financial_results_allocations_to_provisions",
+      "financial_results_net_increase_decrease_in_provisions_for_impairment_of_loans_and_amounts_due_from_other_banks",
+      "financial_results_net_increase_decrease_in_provisions_for_impairment_of_loans_to_customers",
+      "financial_results_net_increase_decrease_in_provisions_for_impairment_of_receivables_of_banks",
+      "financial_results_net_increase_decrease_in_provisions_for_covering_risks_and_losses",
+      "financial_results_net_increase_decrease_in_provision_for_impairment_of_receivables_of_securities",
+      "financial_results_administrative_and_other_operating_expenses",
+      "financial_results_payroll_costs",
+      "financial_results_tax_on_payroll",
+      "financial_results_other_staff_costs",
+      "financial_results_maintenance_costs_on_fixed_assets",
+      "financial_results_maintenance_and_administrative_expenses",
+      "financial_results_marketing_and_advertising_expenses",
+      "financial_results_rent_expenses",
+      "financial_results_other_administrative_and_other_operating_expenses",
+      "financial_results_total_expenses",
+      "financial_results_profit_loss_before_tax",
+      "financial_results_income_tax_expense",
+      "financial_results_profit_loss_after_tax",
+      "financial_results_\u0456nterest_income_from_operations_with_securities",
+      "financial_results_interest_income_from_operations_with_securities"
+    ],
+    "other_columns": []
+  },
+  "processing_information": {
+    "processing_timestamp": "2025-08-01T14:54:24.719190",
+    "pipeline_version": "2.0.0",
+    "configuration": {
+      "categories": {
+        "financial_results": {
+          "patterns": [
+            "(?i)^financial[ _]+results?_?$",
+            "(?i)^fin[ _]*results?_?$",
+            "(?i)^financial.*res_?$"
+          ]
+        },
+        "assets": {
+          "patterns": [
+            "(?i)^assets?$",
+            "(?i)^total[ _]+assets?$"
+          ]
+        },
+        "liabilities": {
+          "patterns": [
+            "(?i)^liabilities?$",
+            "(?i)^total[ _]+liab"
+          ]
+        },
+        "equity": {
+          "patterns": [
+            "(?i)^equity$",
+            "(?i)^shareholders?[ _]+equity$",
+            "(?i)^total[ _]+equity$"
+          ]
+        }
+      },
+      "cleaning": {
+        "header_rows": 4,
+        "skip_footer": 0,
+        "drop_rows": [
+          0,
+          {
+            "pattern": "^Source:"
+          }
+        ],
+        "drop_columns": [
+          {
+            "pattern": "^Unnamed:\\s*\\d+_level_\\d+$"
+          },
+          {
+            "pattern": "^Unnamed$"
+          },
+          "Notes",
+          "\u2116",
+          "NKB"
+        ],
+        "row_filters": [
+          {
+            "column": "bank",
+            "patterns": [
+              "(?i)^source:.*",
+              "(?i)^note:.*",
+              "(?i)^notes:.*",
+              "(?i)^\\*.*",
+              "(?i)^-+$",
+              "(?i)^\\s*$",
+              "(?i)^total[ _]+number[ _]+of[ _]+banks.*",
+              "(?i)^grand[ _]+total.*"
+            ]
+          }
+        ],
+        "dtype": {}
+      },
+      "fuzzy_threshold": 80,
+      "output_dir": "output_final",
+      "save_intermediate": true,
+      "save_metadata": true,
+      "compression": null,
+      "min_banks_per_file": 10,
+      "max_banks_per_file": 200,
+      "required_columns": [
+        "bank_name",
+        "date",
+        "year_month"
+      ],
+      "failure_detection": {
+        "min_consecutive_missing": 6
+      }
+    }
+  }
+}

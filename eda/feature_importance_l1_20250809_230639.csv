@@ -1,0 +1,41 @@
+feature,coef,abs_coef
+sarimax_score,6.2684405256318785,6.2684405256318785
+"12_Liabilities to BIS banks (cons.), short term",0.0,0.0
+us_3y_yield_lag1,0.0,0.0
+ukraine_3y_yield_lag1,0.0,0.0
+ukraine_3y_change_pct_lag1,0.0,0.0
+24_International reserves (excluding gold)_lag1,0.0,0.0
+"12_Liabilities to BIS banks (cons.), short term_lag1",0.0,0.0
+"22_Liabilities to BIS banks, locational, total_lag1",0.0,0.0
+01_Cross-border loans from BIS reporting banks_lag1,0.0,0.0
+27_Cross-border deposits with BIS rep. banks_lag1,0.0,0.0
+yield_spread_ukr_us_3y_lag1.1,0.0,0.0
+us_3y_yield_lag1.1,0.0,0.0
+ukraine_3y_yield_lag1.1,0.0,0.0
+ukraine_3y_change_pct_lag1.1,0.0,0.0
+24_International reserves (excluding gold)_lag1.1,0.0,0.0
+"12_Liabilities to BIS banks (cons.), short term_lag1.1",0.0,0.0
+"22_Liabilities to BIS banks, locational, total_lag1.1",0.0,0.0
+01_Cross-border loans from BIS reporting banks_lag1.1,0.0,0.0
+27_Cross-border deposits with BIS rep. banks_lag1.1,0.0,0.0
+yield_spread_ukr_us_3y_lag1,0.0,0.0
+24_International reserves (excluding gold),0.0,0.0
+us_3y_yield_z,0.0,0.0
+ROA,0.0,0.0
+"22_Liabilities to BIS banks, locational, total",0.0,0.0
+01_Cross-border loans from BIS reporting banks,0.0,0.0
+27_Cross-border deposits with BIS rep. banks,0.0,0.0
+WAR,0.0,0.0
+Capital_Ratio,0.0,0.0
+NPL_Ratio,0.0,0.0
+Cost_Income_Ratio,0.0,0.0
+ROE,0.0,0.0
+ukraine_3y_yield_z,0.0,0.0
+Liquid_Assets_Ratio,0.0,0.0
+Loan_Deposit_Ratio,0.0,0.0
+Net_Open_FX_Ratio,0.0,0.0
+us_3y_yield,0.0,0.0
+ukraine_3y_yield,0.0,0.0
+ukraine_3y_change_pct,0.0,0.0
+yield_spread_ukr_us_3y,0.0,0.0
+yield_spread_ukr_us_3y_z,0.0,0.0

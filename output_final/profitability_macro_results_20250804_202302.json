@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "analysis_type": "macro_enhanced_profitability_prediction",
+    "timestamp": "20250804_202302",
+    "focus": "ROA prediction for surviving banks",
+    "original_data_shape": [
+      4260,
+      16
+    ],
+    "integrated_data_shape": [
+      4260,
+      19
+    ],
+    "model_data_shape": [
+      3864,
+      17
+    ],
+    "unique_banks": 67,
+    "date_range": {
+      "start": "2019-01-01 00:00:00",
+      "end": "2025-04-01 00:00:00"
+    }
+  },
+  "model_results": {
+    "financial_baseline": {
+      "r_squared": 0.3871053546342892,
+      "r_squared_within": 0.3820867603742406,
+      "r_squared_between": -4.92242955515038,
+      "f_statistic": 460.5640247205789,
+      "f_pvalue": 1.1102230246251565e-16,
+      "nobs": 3792,
+      "n_banks": 66,
+      "coefficients": {
+        "Capital_Ratio": 0.0041123924930917145,
+        "NPL_Ratio": 0.004897680580502916,
+        "Cost_Income_Ratio": -0.026557866866447354,
+        "Liquid_Assets_Ratio": -0.010909558243272936,
+        "Loan_Deposit_Ratio": 0.0002651016986288262
+      },
+      "pvalues": {
+        "Capital_Ratio": 0.7703938460945792,
+        "NPL_Ratio": 0.10665178876085601,
+        "Cost_Income_Ratio": 1.670996674363323e-11,
+        "Liquid_Assets_Ratio": 0.3699517977529916,
+        "Loan_Deposit_Ratio": 0.8121140670766174
+      },
+      "std_errors": {
+        "Capital_Ratio": 0.014089254387186471,
+        "NPL_Ratio": 0.003034826363769112,
+        "Cost_Income_Ratio": 0.0039323680340211005,
+        "Liquid_Assets_Ratio": 0.012166686435563491,
+        "Loan_Deposit_Ratio": 0.001115199419638053
+      }
+    },
+    "macro_only": {
+      "r_squared": 0.0,
+      "r_squared_within": -0.03217025932915085,
+      "r_squared_between": 0.05361327676073313,
+      "f_statistic": 0.0,
+      "f_pvalue": 1.0,
+      "nobs": 3864,
+      "n_banks": 67,
+      "coefficients": {
+        "gdp_deflator_lag1": 6.533884162595298e-07,
+        "gdp_growth_rate": -7.697483812585814e-05,
+        "cpi_change_rate": 0.002356416665853315
+      },
+      "pvalues": {
+        "gdp_deflator_lag1": 1.0,
+        "gdp_growth_rate": 0.9999999999999998,
+        "cpi_change_rate": 0.9999999999999993
+      },
+      "std_errors": {
+        "gdp_deflator_lag1": 19983216452.103584,
+        "gdp_growth_rate": 1031851700534.9138,
+        "cpi_change_rate": 2444154848611.1343
+      }
+    },
+    "financial_macro": {
+      "r_squared": 0.3871053546342891,
+      "r_squared_within": 0.3820867603742406,
+      "r_squared_between": -4.922429555150381,
+      "f_statistic": 460.5640247205788,
+      "f_pvalue": 1.1102230246251565e-16,
+      "nobs": 3792,
+      "n_banks": 66,
+      "coefficients": {
+        "Capital_Ratio": 0.004112392493091714,
+        "NPL_Ratio": 0.004897680580502916,
+        "Cost_Income_Ratio": -0.026557866866447358,
+        "Liquid_Assets_Ratio": -0.010909558243272933,
+        "Loan_Deposit_Ratio": 0.000265101698628826
+      },
+      "pvalues": {
+        "Capital_Ratio": 0.7703938460945792,
+        "NPL_Ratio": 0.10665178876085557,
+        "Cost_Income_Ratio": 1.670996674363323e-11,
+        "Liquid_Assets_Ratio": 0.3699517977529916,
+        "Loan_Deposit_Ratio": 0.8121140670766174
+      },
+      "std_errors": {
+        "Capital_Ratio": 0.014089254387186473,
+        "NPL_Ratio": 0.0030348263637691103,
+        "Cost_Income_Ratio": 0.003932368034021104,
+        "Liquid_Assets_Ratio": 0.01216668643556349,
+        "Loan_Deposit_Ratio": 0.0011151994196380525
+      }
+    },
+    "enhanced": {
+      "r_squared": 0.6480975581506284,
+      "r_squared_within": 0.6455742879151318,
+      "r_squared_between": -7.362493370951734,
+      "f_statistic": 819.09459756142,
+      "f_pvalue": 1.1102230246251565e-16,
+      "nobs": 3706,
+      "n_banks": 66,
+      "coefficients": {
+        "Total_Assets_Log": 0.0031943434104006103,
+        "Cost_Income_Ratio": -0.014921472872707174,
+        "Capital_ratio_lag1": -0.03764088547819453,
+        "Liquid_Assets_Ratio": -0.003932460366636502,
+        "ROA_lag1": 0.4552107674964461,
+        "Capital_Ratio": 0.04935413506987239,
+        "Loan_Deposit_Ratio": -0.0003383123210721503,
+        "NPL_Ratio": -0.0014906752166454573
+      },
+      "pvalues": {
+        "Total_Assets_Log": 0.027577200556013315,
+        "Cost_Income_Ratio": 2.621174716610497e-06,
+        "Capital_ratio_lag1": 0.01288709878437122,
+        "Liquid_Assets_Ratio": 0.5290166672744783,
+        "ROA_lag1": 1.7985612998927536e-14,
+        "Capital_Ratio": 0.004454891224596524,
+        "Loan_Deposit_Ratio": 0.6167963391524656,
+        "NPL_Ratio": 0.22109834710748388
+      },
+      "std_errors": {
+        "Total_Assets_Log": 0.0014492367333815898,
+        "Cost_Income_Ratio": 0.0031706669991109627,
+        "Capital_ratio_lag1": 0.015128181961772921,
+        "Liquid_Assets_Ratio": 0.006246268269604994,
+        "ROA_lag1": 0.05914370450616303,
+        "Capital_Ratio": 0.017342600052190574,
+        "Loan_Deposit_Ratio": 0.0006760299147757326,
+        "NPL_Ratio": 0.0012180435779253309
+      }
+    }
+  },
+  "macro_variable_effects": {
+    "financial_baseline": {},
+    "macro_only": {
+      "gdp_deflator_lag1": {
+        "coefficient": 6.533884162595298e-07,
+        "p_value": 1.0,
+        "significant": false,
+        "effect": "positive"
+      },
+      "gdp_growth_rate": {
+        "coefficient": -7.697483812585814e-05,
+        "p_value": 0.9999999999999998,
+        "significant": false,
+        "effect": "negative"
+      },
+      "cpi_change_rate": {
+        "coefficient": 0.002356416665853315,
+        "p_value": 0.9999999999999993,
+        "significant": false,
+        "effect": "positive"
+      }
+    },
+    "financial_macro": {},
+    "enhanced": {}
+  }
+}

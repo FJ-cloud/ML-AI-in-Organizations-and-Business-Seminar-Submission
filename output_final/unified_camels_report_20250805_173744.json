@@ -1,0 +1,790 @@
+{
+  "analysis_metadata": {
+    "analysis_type": "unified_camels_system",
+    "timestamp": "20250805_173744",
+    "total_ratios_calculated": 33,
+    "ratio_categories": {
+      "Profitability & Earnings": 11,
+      "Capital & Solvency": 4,
+      "Asset Quality": 6,
+      "Liquidity & Funding": 8,
+      "Efficiency & Management": 3,
+      "Advanced Performance": 1
+    }
+  },
+  "ratio_categories": {
+    "Profitability & Earnings": [
+      [
+        "ROA",
+        {
+          "description": "Net Income / Total Assets - Overall profitability",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.007257341217262214,
+          "std": 0.023220676206371697,
+          "min": -0.2853308037685667,
+          "max": 0.12104921398540984
+        }
+      ],
+      [
+        "Cost_Income_Ratio",
+        {
+          "description": "Operating Expenses / Total Income - Efficiency",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.11810586563703944,
+          "std": 27.421439169762337,
+          "min": -1343.9836779408686,
+          "max": 43.43130184989275
+        }
+      ],
+      [
+        "ROE",
+        {
+          "description": "Net Income / Total Equity - Shareholder returns",
+          "valid_count": 3865,
+          "total_count": 5092,
+          "coverage_pct": 75.90337784760408,
+          "mean": 0.05987742053445851,
+          "std": 0.1750804720458025,
+          "min": -4.941252434279266,
+          "max": 1.7769819577651966
+        }
+      ],
+      [
+        "CAMELS_Net_Interest_Income_Ratio",
+        {
+          "description": "Net Interest Income / Assets - Core earning power",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.033655799943238536,
+          "std": 0.03008330836030003,
+          "min": -0.03397592275980261,
+          "max": 0.2564592339559646
+        }
+      ],
+      [
+        "CAMELS_Interest_Income_Ratio",
+        {
+          "description": "Interest Income / Assets - Asset yield",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.05533656506351401,
+          "std": 0.03989128732333841,
+          "min": 1.951256170052953e-07,
+          "max": 0.3186734668547354
+        }
+      ],
+      [
+        "CAMELS_Net_Interest_Margin",
+        {
+          "description": "(Interest Income - Expenses) / Assets - Interest spread",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.033655799943238536,
+          "std": 0.03008330836030003,
+          "min": -0.0339759227598026,
+          "max": 0.2564592339559646
+        }
+      ],
+      [
+        "CAMELS_Net_Commission_Income_Ratio",
+        {
+          "description": "Net Commission Income / Assets - Fee earnings",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.012425928276101304,
+          "std": 0.018361575164756307,
+          "min": -0.011112942692527343,
+          "max": 0.2304029617041169
+        }
+      ],
+      [
+        "CAMELS_Commission_Income_Ratio",
+        {
+          "description": "Commission Income / Assets - Fee generation",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.019143273622846752,
+          "std": 0.030832889388812335,
+          "min": 1.8881240789205575e-05,
+          "max": 0.42721673467536897
+        }
+      ],
+      [
+        "CAMELS_Asset_Turnover",
+        {
+          "description": "Total Income / Assets - Asset productivity",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.05782285893980788,
+          "std": 0.047238466699579866,
+          "min": -0.14411773687106932,
+          "max": 0.35913880761137357
+        }
+      ],
+      [
+        "CAMELS_Income_Diversity_Ratio",
+        {
+          "description": "Non-Interest Income / Total Income - Revenue diversification",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.31947831443567276,
+          "std": 1.8873846596483297,
+          "min": -20.769161382300084,
+          "max": 101.4753693547719
+        }
+      ],
+      [
+        "CAMELS_Profit_Margin",
+        {
+          "description": "Net Profit / Total Income - Profitability efficiency",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.3525744993570541,
+          "std": 10.114795408554976,
+          "min": -38.82558417938781,
+          "max": 474.393234340357
+        }
+      ]
+    ],
+    "Capital & Solvency": [
+      [
+        "Capital_Ratio",
+        {
+          "description": "Total Equity / Total Assets - Capital strength",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.212683608051718,
+          "std": 0.17452675806816365,
+          "min": -0.4006762904217839,
+          "max": 0.9232571003867195
+        }
+      ],
+      [
+        "CAMELS_Total_Equity_Ratio",
+        {
+          "description": "Total Equity / Assets - Capital buffer",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.212683608051718,
+          "std": 0.17452675806816365,
+          "min": -0.4006762904217839,
+          "max": 0.9232571003867195
+        }
+      ],
+      [
+        "CAMELS_Common_Equity_Ratio",
+        {
+          "description": "Authorized Capital / Assets - Core capital",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.25594239870964214,
+          "std": 0.5489717697696378,
+          "min": 0.002330312265434586,
+          "max": 5.522703380791986
+        }
+      ],
+      [
+        "CAMELS_Equity_Multiplier",
+        {
+          "description": "Assets / Equity - Financial leverage",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 7.70394639661505,
+          "std": 6.202795559736142,
+          "min": -7.769914200443106,
+          "max": 95.98017892825183
+        }
+      ]
+    ],
+    "Asset Quality": [
+      [
+        "NPL_Ratio",
+        {
+          "description": "Provisions / Total Loans - Asset quality",
+          "valid_count": 3797,
+          "total_count": 5092,
+          "coverage_pct": 74.56794972505891,
+          "mean": -0.49879433351250874,
+          "std": 9.535608070831902,
+          "min": -586.6769486677398,
+          "max": -0.0005725950537072892
+        }
+      ],
+      [
+        "Loan_Deposit_Ratio",
+        {
+          "description": "Loans / Deposits - Credit intermediation",
+          "valid_count": 3863,
+          "total_count": 5092,
+          "coverage_pct": 75.86410054988217,
+          "mean": 0.6419630521104679,
+          "std": 0.94598873222589,
+          "min": 0.0,
+          "max": 29.7449186615899
+        }
+      ],
+      [
+        "CAMELS_Provisions_Ratio",
+        {
+          "description": "Total Provisions / Assets - Credit loss coverage",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": -0.07189605160425293,
+          "std": 0.09233396621178665,
+          "min": -0.7214567905553516,
+          "max": -9.936479426323817e-05
+        }
+      ],
+      [
+        "CAMELS_Loan_Loss_Provision_Ratio",
+        {
+          "description": "Loan Provisions / Total Loans - Loan quality",
+          "valid_count": 3797,
+          "total_count": 5092,
+          "coverage_pct": 74.56794972505891,
+          "mean": -0.2674950890958465,
+          "std": 0.5315275561333608,
+          "min": -7.098654794688118,
+          "max": 0.0
+        }
+      ],
+      [
+        "CAMELS_Loan_Asset_Ratio",
+        {
+          "description": "Loans / Assets - Asset utilization",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.3174772308461882,
+          "std": 0.17668123316332185,
+          "min": 0.0,
+          "max": 0.8192670505357058
+        }
+      ],
+      [
+        "CAMELS_Loan_Deposit_Ratio",
+        {
+          "description": "Loans / Deposits - Credit intermediation efficiency",
+          "valid_count": 3863,
+          "total_count": 5092,
+          "coverage_pct": 75.86410054988217,
+          "mean": 0.6419630521104679,
+          "std": 0.94598873222589,
+          "min": 0.0,
+          "max": 29.7449186615899
+        }
+      ]
+    ],
+    "Liquidity & Funding": [
+      [
+        "Liquid_Assets_Ratio",
+        {
+          "description": "Cash & Equivalents / Total Assets - Liquidity",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.07508413388858613,
+          "std": 0.047116927048735414,
+          "min": 3.854868753878461e-05,
+          "max": 0.38707705639310586
+        }
+      ],
+      [
+        "CAMELS_Interest_Expense_Ratio",
+        {
+          "description": "Interest Expenses / Assets - Funding cost",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.02168076512027547,
+          "std": 0.018994573392849805,
+          "min": -0.0006075970619316367,
+          "max": 0.1542647093859363
+        }
+      ],
+      [
+        "CAMELS_Cash_Ratio",
+        {
+          "description": "Cash & Equivalents / Assets - Immediate liquidity",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.07508413388858613,
+          "std": 0.047116927048735414,
+          "min": 3.854868753878461e-05,
+          "max": 0.38707705639310586
+        }
+      ],
+      [
+        "CAMELS_Deposit_Ratio",
+        {
+          "description": "Deposits / Liabilities - Funding stability",
+          "valid_count": 3867,
+          "total_count": 5092,
+          "coverage_pct": 75.942655145326,
+          "mean": 0.8414836271116551,
+          "std": 0.17896989183296702,
+          "min": 0.0,
+          "max": 0.9945904723022477
+        }
+      ],
+      [
+        "CAMELS_Cash_Deposit_Ratio",
+        {
+          "description": "Cash / Deposits - Liquidity buffer",
+          "valid_count": 3863,
+          "total_count": 5092,
+          "coverage_pct": 75.86410054988217,
+          "mean": 0.16143113739593856,
+          "std": 0.41239507241322604,
+          "min": 4.307451280839911e-05,
+          "max": 16.354035073788882
+        }
+      ],
+      [
+        "CAMELS_Cost_of_Deposits",
+        {
+          "description": "Interest Expenses / Liabilities - Funding cost rate",
+          "valid_count": 3865,
+          "total_count": 5092,
+          "coverage_pct": 75.90337784760408,
+          "mean": 0.03124457976892739,
+          "std": 0.03268396195773737,
+          "min": -0.0008777882750993314,
+          "max": 0.6009583905262832
+        }
+      ],
+      [
+        "CAMELS_Deposits_Assets_Ratio",
+        {
+          "description": "Deposits / Assets - Funding structure",
+          "valid_count": 3866,
+          "total_count": 5092,
+          "coverage_pct": 75.92301649646504,
+          "mean": 0.6091244779142162,
+          "std": 0.19963425351442532,
+          "min": 0.0,
+          "max": 1.0761561835301525
+        }
+      ],
+      [
+        "CAMELS_Wholesale_Funding_Ratio",
+        {
+          "description": "(Liabilities - Deposits) / Liabilities - Market funding dependency",
+          "valid_count": 3867,
+          "total_count": 5092,
+          "coverage_pct": 75.942655145326,
+          "mean": 0.15851637288834491,
+          "std": 0.17896989183296702,
+          "min": 0.005409527697752308,
+          "max": 1.0
+        }
+      ]
+    ],
+    "Efficiency & Management": [
+      [
+        "CAMELS_Operating_Expense_Ratio",
+        {
+          "description": "Operating Expenses / Assets - Cost efficiency",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.04180731671070011,
+          "std": 0.04067473848338148,
+          "min": 0.00017626638898572014,
+          "max": 0.34557076589117286
+        }
+      ],
+      [
+        "CAMELS_Commission_Expense_Ratio",
+        {
+          "description": "Commission Expenses / Assets - Service costs",
+          "valid_count": 3864,
+          "total_count": 5092,
+          "coverage_pct": 75.88373919874313,
+          "mean": 0.006717345346745449,
+          "std": 0.016466377374622674,
+          "min": 0.0,
+          "max": 0.2590289594980527
+        }
+      ],
+      [
+        "CAMELS_Net_Interest_Expense_Ratio",
+        {
+          "description": "Net Interest Expenses / Liabilities (negative)",
+          "valid_count": 3865,
+          "total_count": 5092,
+          "coverage_pct": 75.90337784760408,
+          "mean": -0.0679319264969825,
+          "std": 0.20239114771213595,
+          "min": -9.712062035430192,
+          "max": 0.07163698684238884
+        }
+      ]
+    ],
+    "Advanced Performance": [
+      [
+        "WAR",
+        {
+          "description": "Weighted Average Risk - Composite risk measure",
+          "valid_count": 5092,
+          "total_count": 5092,
+          "coverage_pct": 100.0,
+          "mean": 0.34650772369705873,
+          "std": 5.3809094914028535,
+          "min": -268.6706105753214,
+          "max": 8.331072065733903
+        }
+      ]
+    ]
+  },
+  "all_ratios": {
+    "ROA": {
+      "description": "Net Income / Total Assets - Overall profitability",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.007257341217262214,
+      "std": 0.023220676206371697,
+      "min": -0.2853308037685667,
+      "max": 0.12104921398540984
+    },
+    "Capital_Ratio": {
+      "description": "Total Equity / Total Assets - Capital strength",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.212683608051718,
+      "std": 0.17452675806816365,
+      "min": -0.4006762904217839,
+      "max": 0.9232571003867195
+    },
+    "NPL_Ratio": {
+      "description": "Provisions / Total Loans - Asset quality",
+      "valid_count": 3797,
+      "total_count": 5092,
+      "coverage_pct": 74.56794972505891,
+      "mean": -0.49879433351250874,
+      "std": 9.535608070831902,
+      "min": -586.6769486677398,
+      "max": -0.0005725950537072892
+    },
+    "Cost_Income_Ratio": {
+      "description": "Operating Expenses / Total Income - Efficiency",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.11810586563703944,
+      "std": 27.421439169762337,
+      "min": -1343.9836779408686,
+      "max": 43.43130184989275
+    },
+    "ROE": {
+      "description": "Net Income / Total Equity - Shareholder returns",
+      "valid_count": 3865,
+      "total_count": 5092,
+      "coverage_pct": 75.90337784760408,
+      "mean": 0.05987742053445851,
+      "std": 0.1750804720458025,
+      "min": -4.941252434279266,
+      "max": 1.7769819577651966
+    },
+    "Liquid_Assets_Ratio": {
+      "description": "Cash & Equivalents / Total Assets - Liquidity",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.07508413388858613,
+      "std": 0.047116927048735414,
+      "min": 3.854868753878461e-05,
+      "max": 0.38707705639310586
+    },
+    "Loan_Deposit_Ratio": {
+      "description": "Loans / Deposits - Credit intermediation",
+      "valid_count": 3863,
+      "total_count": 5092,
+      "coverage_pct": 75.86410054988217,
+      "mean": 0.6419630521104679,
+      "std": 0.94598873222589,
+      "min": 0.0,
+      "max": 29.7449186615899
+    },
+    "WAR": {
+      "description": "Weighted Average Risk - Composite risk measure",
+      "valid_count": 5092,
+      "total_count": 5092,
+      "coverage_pct": 100.0,
+      "mean": 0.34650772369705873,
+      "std": 5.3809094914028535,
+      "min": -268.6706105753214,
+      "max": 8.331072065733903
+    },
+    "CAMELS_Net_Interest_Income_Ratio": {
+      "description": "Net Interest Income / Assets - Core earning power",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.033655799943238536,
+      "std": 0.03008330836030003,
+      "min": -0.03397592275980261,
+      "max": 0.2564592339559646
+    },
+    "CAMELS_Interest_Income_Ratio": {
+      "description": "Interest Income / Assets - Asset yield",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.05533656506351401,
+      "std": 0.03989128732333841,
+      "min": 1.951256170052953e-07,
+      "max": 0.3186734668547354
+    },
+    "CAMELS_Interest_Expense_Ratio": {
+      "description": "Interest Expenses / Assets - Funding cost",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.02168076512027547,
+      "std": 0.018994573392849805,
+      "min": -0.0006075970619316367,
+      "max": 0.1542647093859363
+    },
+    "CAMELS_Net_Interest_Margin": {
+      "description": "(Interest Income - Expenses) / Assets - Interest spread",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.033655799943238536,
+      "std": 0.03008330836030003,
+      "min": -0.0339759227598026,
+      "max": 0.2564592339559646
+    },
+    "CAMELS_Net_Commission_Income_Ratio": {
+      "description": "Net Commission Income / Assets - Fee earnings",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.012425928276101304,
+      "std": 0.018361575164756307,
+      "min": -0.011112942692527343,
+      "max": 0.2304029617041169
+    },
+    "CAMELS_Commission_Income_Ratio": {
+      "description": "Commission Income / Assets - Fee generation",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.019143273622846752,
+      "std": 0.030832889388812335,
+      "min": 1.8881240789205575e-05,
+      "max": 0.42721673467536897
+    },
+    "CAMELS_Total_Equity_Ratio": {
+      "description": "Total Equity / Assets - Capital buffer",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.212683608051718,
+      "std": 0.17452675806816365,
+      "min": -0.4006762904217839,
+      "max": 0.9232571003867195
+    },
+    "CAMELS_Common_Equity_Ratio": {
+      "description": "Authorized Capital / Assets - Core capital",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.25594239870964214,
+      "std": 0.5489717697696378,
+      "min": 0.002330312265434586,
+      "max": 5.522703380791986
+    },
+    "CAMELS_Equity_Multiplier": {
+      "description": "Assets / Equity - Financial leverage",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 7.70394639661505,
+      "std": 6.202795559736142,
+      "min": -7.769914200443106,
+      "max": 95.98017892825183
+    },
+    "CAMELS_Provisions_Ratio": {
+      "description": "Total Provisions / Assets - Credit loss coverage",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": -0.07189605160425293,
+      "std": 0.09233396621178665,
+      "min": -0.7214567905553516,
+      "max": -9.936479426323817e-05
+    },
+    "CAMELS_Loan_Loss_Provision_Ratio": {
+      "description": "Loan Provisions / Total Loans - Loan quality",
+      "valid_count": 3797,
+      "total_count": 5092,
+      "coverage_pct": 74.56794972505891,
+      "mean": -0.2674950890958465,
+      "std": 0.5315275561333608,
+      "min": -7.098654794688118,
+      "max": 0.0
+    },
+    "CAMELS_Loan_Asset_Ratio": {
+      "description": "Loans / Assets - Asset utilization",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.3174772308461882,
+      "std": 0.17668123316332185,
+      "min": 0.0,
+      "max": 0.8192670505357058
+    },
+    "CAMELS_Cash_Ratio": {
+      "description": "Cash & Equivalents / Assets - Immediate liquidity",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.07508413388858613,
+      "std": 0.047116927048735414,
+      "min": 3.854868753878461e-05,
+      "max": 0.38707705639310586
+    },
+    "CAMELS_Deposit_Ratio": {
+      "description": "Deposits / Liabilities - Funding stability",
+      "valid_count": 3867,
+      "total_count": 5092,
+      "coverage_pct": 75.942655145326,
+      "mean": 0.8414836271116551,
+      "std": 0.17896989183296702,
+      "min": 0.0,
+      "max": 0.9945904723022477
+    },
+    "CAMELS_Loan_Deposit_Ratio": {
+      "description": "Loans / Deposits - Credit intermediation efficiency",
+      "valid_count": 3863,
+      "total_count": 5092,
+      "coverage_pct": 75.86410054988217,
+      "mean": 0.6419630521104679,
+      "std": 0.94598873222589,
+      "min": 0.0,
+      "max": 29.7449186615899
+    },
+    "CAMELS_Cash_Deposit_Ratio": {
+      "description": "Cash / Deposits - Liquidity buffer",
+      "valid_count": 3863,
+      "total_count": 5092,
+      "coverage_pct": 75.86410054988217,
+      "mean": 0.16143113739593856,
+      "std": 0.41239507241322604,
+      "min": 4.307451280839911e-05,
+      "max": 16.354035073788882
+    },
+    "CAMELS_Operating_Expense_Ratio": {
+      "description": "Operating Expenses / Assets - Cost efficiency",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.04180731671070011,
+      "std": 0.04067473848338148,
+      "min": 0.00017626638898572014,
+      "max": 0.34557076589117286
+    },
+    "CAMELS_Commission_Expense_Ratio": {
+      "description": "Commission Expenses / Assets - Service costs",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.006717345346745449,
+      "std": 0.016466377374622674,
+      "min": 0.0,
+      "max": 0.2590289594980527
+    },
+    "CAMELS_Cost_of_Deposits": {
+      "description": "Interest Expenses / Liabilities - Funding cost rate",
+      "valid_count": 3865,
+      "total_count": 5092,
+      "coverage_pct": 75.90337784760408,
+      "mean": 0.03124457976892739,
+      "std": 0.03268396195773737,
+      "min": -0.0008777882750993314,
+      "max": 0.6009583905262832
+    },
+    "CAMELS_Net_Interest_Expense_Ratio": {
+      "description": "Net Interest Expenses / Liabilities (negative)",
+      "valid_count": 3865,
+      "total_count": 5092,
+      "coverage_pct": 75.90337784760408,
+      "mean": -0.0679319264969825,
+      "std": 0.20239114771213595,
+      "min": -9.712062035430192,
+      "max": 0.07163698684238884
+    },
+    "CAMELS_Asset_Turnover": {
+      "description": "Total Income / Assets - Asset productivity",
+      "valid_count": 3864,
+      "total_count": 5092,
+      "coverage_pct": 75.88373919874313,
+      "mean": 0.05782285893980788,
+      "std": 0.047238466699579866,
+      "min": -0.14411773687106932,
+      "max": 0.35913880761137357
+    },
+    "CAMELS_Income_Diversity_Ratio": {
+      "description": "Non-Interest Income / Total Income - Revenue diversification",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.31947831443567276,
+      "std": 1.8873846596483297,
+      "min": -20.769161382300084,
+      "max": 101.4753693547719
+    },
+    "CAMELS_Profit_Margin": {
+      "description": "Net Profit / Total Income - Profitability efficiency",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.3525744993570541,
+      "std": 10.114795408554976,
+      "min": -38.82558417938781,
+      "max": 474.393234340357
+    },
+    "CAMELS_Deposits_Assets_Ratio": {
+      "description": "Deposits / Assets - Funding structure",
+      "valid_count": 3866,
+      "total_count": 5092,
+      "coverage_pct": 75.92301649646504,
+      "mean": 0.6091244779142162,
+      "std": 0.19963425351442532,
+      "min": 0.0,
+      "max": 1.0761561835301525
+    },
+    "CAMELS_Wholesale_Funding_Ratio": {
+      "description": "(Liabilities - Deposits) / Liabilities - Market funding dependency",
+      "valid_count": 3867,
+      "total_count": 5092,
+      "coverage_pct": 75.942655145326,
+      "mean": 0.15851637288834491,
+      "std": 0.17896989183296702,
+      "min": 0.005409527697752308,
+      "max": 1.0
+    }
+  }
+}

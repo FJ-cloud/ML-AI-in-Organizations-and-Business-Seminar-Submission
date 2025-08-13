@@ -1,0 +1,26 @@
+{
+  "model":"hgb",
+  "best_variant":"hgb_lr0.02_d8",
+  "cv_pr_auc":0.3924083401,
+  "train":{
+    "pr_auc":1.0,
+    "roc_auc":1.0,
+    "brier":0.0002509557,
+    "n":2731
+  },
+  "test":{
+    "pr_auc":0.0193562984,
+    "roc_auc":0.629641837,
+    "brier":0.0078551512,
+    "n":1529
+  },
+  "topk":{
+    "10":{
+      "recall":0.3333333333,
+      "precision":0.0125,
+      "captured":4,
+      "alerts":320,
+      "positives":12
+    }
+  }
+}

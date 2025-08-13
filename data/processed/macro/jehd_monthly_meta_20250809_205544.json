@@ -1,0 +1,15 @@
+{
+  "source_file": "7caca554-a0de-48de-9346-5f090263bcd3_Data.csv",
+  "series_count": 5,
+  "date_min": "2016-10-31",
+  "date_max": "2024-12-31",
+  "rows": 891,
+  "columns_wide": [
+    "date",
+    "Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL",
+    "Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL",
+    "Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL",
+    "Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL",
+    "Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA"
+  ]
+}

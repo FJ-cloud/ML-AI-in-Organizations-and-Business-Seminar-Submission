@@ -1,0 +1,43 @@
+{
+  "created_at": "2025-08-10 00:59:24",
+  "model": "hybrid_sarimax + l1_logistic",
+  "data": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250809_212523.csv",
+  "split_date": "2022-08-31",
+  "sarimax_order": "0,0,0",
+  "k": 20,
+  "selected_features": [
+    "12_Liabilities to BIS banks (cons.), short term",
+    "us_3y_yield_lag1",
+    "ukraine_3y_yield_lag1",
+    "ukraine_3y_change_pct_lag1",
+    "24_International reserves (excluding gold)_lag1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1",
+    "22_Liabilities to BIS banks, locational, total_lag1",
+    "01_Cross-border loans from BIS reporting banks_lag1",
+    "27_Cross-border deposits with BIS rep. banks_lag1",
+    "yield_spread_ukr_us_3y_lag1.1",
+    "us_3y_yield_lag1.1",
+    "ukraine_3y_yield_lag1.1",
+    "ukraine_3y_change_pct_lag1.1",
+    "24_International reserves (excluding gold)_lag1.1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1.1",
+    "22_Liabilities to BIS banks, locational, total_lag1.1",
+    "01_Cross-border loans from BIS reporting banks_lag1.1",
+    "27_Cross-border deposits with BIS rep. banks_lag1.1",
+    "yield_spread_ukr_us_3y_lag1",
+    "24_International reserves (excluding gold)"
+  ],
+  "test_metrics": {
+    "roc_auc": 0.6323592124,
+    "pr_auc": 0.613709392,
+    "brier": 0.211566335,
+    "n": 2144
+  },
+  "train_metrics": {
+    "roc_auc": 0.9970976685,
+    "pr_auc": 0.9501951004,
+    "brier": 0.0113406498,
+    "n": 2948
+  },
+  "note": "Use scaled features + SARIMAX score internally; importance from logistic coefficients"
+}

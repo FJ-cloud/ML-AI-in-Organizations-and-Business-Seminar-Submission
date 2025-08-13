@@ -1,0 +1,116 @@
+{
+  "schema": {
+    "date_col": "date_m",
+    "id_col": "bank_name",
+    "target_col": "will_fail_within_1m",
+    "n_rows": 4260,
+    "n_cols": 46,
+    "n_features": 31
+  },
+  "features_used": [
+    "failed",
+    "WAR",
+    "Capital_Ratio",
+    "NPL_Ratio",
+    "Cost_Income_Ratio",
+    "ROA",
+    "ROE",
+    "Liquid_Assets_Ratio",
+    "Loan_Deposit_Ratio",
+    "Net_Open_FX_Ratio",
+    "24_International reserves (excluding gold)",
+    "12_Liabilities to BIS banks (cons.), short term",
+    "22_Liabilities to BIS banks, locational, total",
+    "01_Cross-border loans from BIS reporting banks",
+    "27_Cross-border deposits with BIS rep. banks",
+    "us_3y_yield",
+    "ukraine_3y_yield",
+    "ukraine_3y_change_pct",
+    "yield_spread_ukr_us_3y",
+    "ukraine_3y_yield_z",
+    "us_3y_yield_z",
+    "yield_spread_ukr_us_3y_z",
+    "yield_spread_ukr_us_3y_lag1",
+    "us_3y_yield_lag1",
+    "ukraine_3y_yield_lag1",
+    "ukraine_3y_change_pct_lag1",
+    "24_International reserves (excluding gold)_lag1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1",
+    "22_Liabilities to BIS banks, locational, total_lag1",
+    "01_Cross-border loans from BIS reporting banks_lag1",
+    "27_Cross-border deposits with BIS rep. banks_lag1"
+  ],
+  "fold_reports": [
+    {
+      "fold": 1,
+      "train_end": "2020-06-30",
+      "val_month": "2020-07-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 8.646079148614457e-07
+    },
+    {
+      "fold": 2,
+      "train_end": "2020-07-31",
+      "val_month": "2020-08-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 8.392103594935938e-07
+    },
+    {
+      "fold": 3,
+      "train_end": "2020-08-31",
+      "val_month": "2020-09-30",
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.007082985723159241
+    },
+    {
+      "fold": 4,
+      "train_end": "2020-09-30",
+      "val_month": "2020-10-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 7.68775723492284e-07
+    },
+    {
+      "fold": 5,
+      "train_end": "2020-10-31",
+      "val_month": "2020-11-30",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 7.060458232415582e-07
+    },
+    {
+      "fold": 6,
+      "train_end": "2020-11-30",
+      "val_month": "2020-12-31",
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier": 0.006709285947147934
+    }
+  ],
+  "overall_prob_quality": {
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "brier": 0.0022997402900516955,
+    "n_valid": 375,
+    "positives": 2,
+    "negatives": 373
+  },
+  "threshold_selection": {
+    "precision_floor": 0.7,
+    "feasible": true,
+    "threshold": 0.3320310452455968,
+    "precision": 1.0,
+    "recall": 1.0,
+    "tp": 2,
+    "fp": 0,
+    "tn": 373,
+    "fn": 0
+  },
+  "artifacts": {
+    "run_summary_json": "run_summary.json",
+    "topk_csv": "next_month_high_risk_topk.csv"
+  }
+}

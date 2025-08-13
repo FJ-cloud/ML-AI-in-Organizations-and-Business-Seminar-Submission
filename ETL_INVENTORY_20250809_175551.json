@@ -1,0 +1,1247 @@
+{
+  "generated_at": "2025-08-09T17:55:51.747191",
+  "base": "/home/fj/UkrainianInsolvencyPredictor",
+  "directories": {
+    "raw_balance_sheets": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/.~lock.aggregation_2019-04-01_eng.xlsx#",
+          "size_bytes": 102,
+          "modified": "2025-06-25T17:10:50.322577",
+          "name": ".~lock.aggregation_2019-04-01_eng.xlsx#",
+          "ext": ".xlsx#"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/.~lock.aggregation_2020-02-01_eng.xlsx#",
+          "size_bytes": 102,
+          "modified": "2025-06-22T17:01:27.582869",
+          "name": ".~lock.aggregation_2020-02-01_eng.xlsx#",
+          "ext": ".xlsx#"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/.~lock.aggregation_2022-02-01_eng.xlsx#",
+          "size_bytes": 102,
+          "modified": "2025-06-13T13:56:59.045992",
+          "name": ".~lock.aggregation_2022-02-01_eng.xlsx#",
+          "ext": ".xlsx#"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/.~lock.aggregation_2024-01-01_eng.xlsx#",
+          "size_bytes": 102,
+          "modified": "2025-06-13T13:57:19.287630",
+          "name": ".~lock.aggregation_2024-01-01_eng.xlsx#",
+          "ext": ".xlsx#"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-01-01_eng.csv",
+          "size_bytes": 26128,
+          "modified": "2025-06-21T18:59:04.071352",
+          "name": "aggregation_2019-01-01_eng.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-01-01_eng.xlsx",
+          "size_bytes": 198424,
+          "modified": "2019-05-03T10:15:48",
+          "name": "aggregation_2019-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-02-01_eng.xlsx",
+          "size_bytes": 189030,
+          "modified": "2019-03-04T14:34:16",
+          "name": "aggregation_2019-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-03-01_eng.xlsx",
+          "size_bytes": 190754,
+          "modified": "2019-04-01T08:31:14",
+          "name": "aggregation_2019-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-04-01_eng.xlsx",
+          "size_bytes": 190799,
+          "modified": "2019-05-08T09:36:08",
+          "name": "aggregation_2019-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-05-01_eng.xlsx",
+          "size_bytes": 197743,
+          "modified": "2019-06-03T08:13:38",
+          "name": "aggregation_2019-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-06-01_eng.xlsx",
+          "size_bytes": 185043,
+          "modified": "2019-07-04T10:33:14",
+          "name": "aggregation_2019-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-07-01_eng.xlsx",
+          "size_bytes": 185942,
+          "modified": "2019-08-02T15:13:26",
+          "name": "aggregation_2019-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-08-01_eng.xlsx",
+          "size_bytes": 185603,
+          "modified": "2019-09-04T13:13:14",
+          "name": "aggregation_2019-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-09-01_eng.xlsx",
+          "size_bytes": 186601,
+          "modified": "2019-10-03T09:32:08",
+          "name": "aggregation_2019-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-10-01_eng.xlsx",
+          "size_bytes": 187394,
+          "modified": "2019-11-07T17:38:28",
+          "name": "aggregation_2019-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-11-01_eng.xlsx",
+          "size_bytes": 185716,
+          "modified": "2019-12-04T12:26:54",
+          "name": "aggregation_2019-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2019-12-01_eng.xlsx",
+          "size_bytes": 193096,
+          "modified": "2020-01-03T17:39:08",
+          "name": "aggregation_2019-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-01-01_eng.xlsx",
+          "size_bytes": 171789,
+          "modified": "2020-07-06T10:18:24",
+          "name": "aggregation_2020-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-02-01_eng.xlsx",
+          "size_bytes": 176946,
+          "modified": "2020-03-04T13:57:00",
+          "name": "aggregation_2020-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-03-01_eng.xlsx",
+          "size_bytes": 177441,
+          "modified": "2020-03-26T19:24:04",
+          "name": "aggregation_2020-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-04-01_eng.xlsx",
+          "size_bytes": 178240,
+          "modified": "2020-07-06T09:10:24",
+          "name": "aggregation_2020-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-05-01_eng.xlsx",
+          "size_bytes": 178798,
+          "modified": "2020-05-29T13:11:02",
+          "name": "aggregation_2020-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-06-01_eng.xlsx",
+          "size_bytes": 179339,
+          "modified": "2020-07-06T14:42:18",
+          "name": "aggregation_2020-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-07-01_eng.xlsx",
+          "size_bytes": 179663,
+          "modified": "2020-08-04T09:08:10",
+          "name": "aggregation_2020-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-08-01_eng.xlsx",
+          "size_bytes": 179856,
+          "modified": "2020-09-04T09:44:02",
+          "name": "aggregation_2020-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-09-01_eng.xlsx",
+          "size_bytes": 183077,
+          "modified": "2020-10-05T13:35:58",
+          "name": "aggregation_2020-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-10-01_eng.xlsx",
+          "size_bytes": 180195,
+          "modified": "2020-11-05T13:03:30",
+          "name": "aggregation_2020-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-11-01_eng.xlsx",
+          "size_bytes": 182782,
+          "modified": "2020-12-07T19:24:14",
+          "name": "aggregation_2020-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2020-12-01_eng.xlsx",
+          "size_bytes": 185110,
+          "modified": "2021-01-12T19:30:26",
+          "name": "aggregation_2020-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-01-01_eng.xlsx",
+          "size_bytes": 180955,
+          "modified": "2021-05-05T06:43:52",
+          "name": "aggregation_2021-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-02-01_eng.xlsx",
+          "size_bytes": 178180,
+          "modified": "2021-03-05T13:53:36",
+          "name": "aggregation_2021-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-03-01_eng.xlsx",
+          "size_bytes": 178956,
+          "modified": "2021-04-05T13:37:02",
+          "name": "aggregation_2021-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-04-01_eng.xlsx",
+          "size_bytes": 179628,
+          "modified": "2021-05-07T08:31:48",
+          "name": "aggregation_2021-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-05-01_eng.xlsx",
+          "size_bytes": 180176,
+          "modified": "2021-05-26T12:07:58",
+          "name": "aggregation_2021-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-06-01_eng.xlsx",
+          "size_bytes": 180475,
+          "modified": "2021-07-08T10:14:06",
+          "name": "aggregation_2021-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-07-01_eng.xlsx",
+          "size_bytes": 180683,
+          "modified": "2021-08-03T14:02:42",
+          "name": "aggregation_2021-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-08-01_eng.xlsx",
+          "size_bytes": 179160,
+          "modified": "2021-09-07T14:09:02",
+          "name": "aggregation_2021-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-09-01_eng.xlsx",
+          "size_bytes": 182444,
+          "modified": "2021-10-03T17:31:54",
+          "name": "aggregation_2021-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-10-01_eng.xlsx",
+          "size_bytes": 177728,
+          "modified": "2021-11-03T19:19:10",
+          "name": "aggregation_2021-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-11-01_eng.xlsx",
+          "size_bytes": 177520,
+          "modified": "2021-12-04T16:43:08",
+          "name": "aggregation_2021-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2021-12-01_eng.xlsx",
+          "size_bytes": 177919,
+          "modified": "2022-01-05T19:37:38",
+          "name": "aggregation_2021-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-01-01_eng.xlsx",
+          "size_bytes": 201753,
+          "modified": "2022-08-15T14:38:36",
+          "name": "aggregation_2022-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-02-01_eng.xlsx",
+          "size_bytes": 183123,
+          "modified": "2022-03-09T14:02:52",
+          "name": "aggregation_2022-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-03-01_eng.xlsx",
+          "size_bytes": 194621,
+          "modified": "2022-04-04T19:17:14",
+          "name": "aggregation_2022-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-04-01_eng.xlsx",
+          "size_bytes": 197011,
+          "modified": "2022-08-15T15:34:12",
+          "name": "aggregation_2022-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-05-01_eng.xlsx",
+          "size_bytes": 196108,
+          "modified": "2022-06-02T15:57:02",
+          "name": "aggregation_2022-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-06-01_eng.xlsx",
+          "size_bytes": 196182,
+          "modified": "2022-07-07T17:08:24",
+          "name": "aggregation_2022-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-07-01_eng.xlsx",
+          "size_bytes": 200830,
+          "modified": "2022-08-15T15:50:26",
+          "name": "aggregation_2022-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-08-01_eng.xlsx",
+          "size_bytes": 194711,
+          "modified": "2022-09-01T10:38:12",
+          "name": "aggregation_2022-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-09-01_eng.xlsx",
+          "size_bytes": 198175,
+          "modified": "2022-10-06T10:02:28",
+          "name": "aggregation_2022-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-10-01_eng.xlsx",
+          "size_bytes": 199692,
+          "modified": "2022-11-14T14:43:48",
+          "name": "aggregation_2022-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-11-01_eng.xlsx",
+          "size_bytes": 193528,
+          "modified": "2022-11-30T23:35:44",
+          "name": "aggregation_2022-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2022-12-01_eng.xlsx",
+          "size_bytes": 193519,
+          "modified": "2023-01-03T15:29:28",
+          "name": "aggregation_2022-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-01-01_eng.xlsx",
+          "size_bytes": 195526,
+          "modified": "2023-07-31T08:26:18",
+          "name": "aggregation_2023-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-02-01_eng.xlsx",
+          "size_bytes": 191823,
+          "modified": "2023-03-06T12:50:28",
+          "name": "aggregation_2023-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-03-01_eng.xlsx",
+          "size_bytes": 188991,
+          "modified": "2023-04-04T12:45:48",
+          "name": "aggregation_2023-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-04-01_eng.xlsx",
+          "size_bytes": 190777,
+          "modified": "2023-10-20T12:03:16",
+          "name": "aggregation_2023-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-05-01_eng.xlsx",
+          "size_bytes": 189577,
+          "modified": "2023-06-03T13:12:54",
+          "name": "aggregation_2023-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-06-01_eng.xlsx",
+          "size_bytes": 189548,
+          "modified": "2023-07-03T15:36:40",
+          "name": "aggregation_2023-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-07-01_eng.xlsx",
+          "size_bytes": 190233,
+          "modified": "2023-08-09T13:45:44",
+          "name": "aggregation_2023-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-08-01_eng.xlsx",
+          "size_bytes": 188273,
+          "modified": "2023-09-05T09:38:04",
+          "name": "aggregation_2023-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-09-01_eng.xlsx",
+          "size_bytes": 188086,
+          "modified": "2023-10-05T12:06:52",
+          "name": "aggregation_2023-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-10-01_eng.xlsx",
+          "size_bytes": 187383,
+          "modified": "2023-11-09T13:26:48",
+          "name": "aggregation_2023-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-11-01_eng.xlsx",
+          "size_bytes": 186832,
+          "modified": "2023-12-02T14:34:10",
+          "name": "aggregation_2023-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2023-12-01_eng.xlsx",
+          "size_bytes": 187051,
+          "modified": "2024-02-09T12:25:06",
+          "name": "aggregation_2023-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-01-01_eng.xlsx",
+          "size_bytes": 188027,
+          "modified": "2025-03-04T19:36:50",
+          "name": "aggregation_2024-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-02-01_eng.xlsx",
+          "size_bytes": 185178,
+          "modified": "2024-03-02T15:54:54",
+          "name": "aggregation_2024-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-03-01_eng.xlsx",
+          "size_bytes": 185411,
+          "modified": "2024-04-04T15:52:14",
+          "name": "aggregation_2024-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-04-01_eng.xlsx",
+          "size_bytes": 186442,
+          "modified": "2025-03-04T19:44:24",
+          "name": "aggregation_2024-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-05-01_eng.xlsx",
+          "size_bytes": 186343,
+          "modified": "2024-05-30T14:49:52",
+          "name": "aggregation_2024-05-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-06-01_eng.xlsx",
+          "size_bytes": 186025,
+          "modified": "2024-07-01T11:37:14",
+          "name": "aggregation_2024-06-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-07-01_eng.xlsx",
+          "size_bytes": 186056,
+          "modified": "2025-03-04T19:50:44",
+          "name": "aggregation_2024-07-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-08-01_eng.xlsx",
+          "size_bytes": 185353,
+          "modified": "2024-09-02T09:53:44",
+          "name": "aggregation_2024-08-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-09-01_eng.xlsx",
+          "size_bytes": 185221,
+          "modified": "2024-10-03T15:01:36",
+          "name": "aggregation_2024-09-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-10-01_eng.xlsx",
+          "size_bytes": 186266,
+          "modified": "2025-03-04T19:55:28",
+          "name": "aggregation_2024-10-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-11-01_eng.xlsx",
+          "size_bytes": 185723,
+          "modified": "2024-12-03T15:29:28",
+          "name": "aggregation_2024-11-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2024-12-01_eng.xlsx",
+          "size_bytes": 185923,
+          "modified": "2025-01-02T12:44:54",
+          "name": "aggregation_2024-12-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2025-01-01_eng.xlsx",
+          "size_bytes": 181090,
+          "modified": "2025-05-14T09:52:08",
+          "name": "aggregation_2025-01-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2025-02-01_eng.xlsx",
+          "size_bytes": 184524,
+          "modified": "2025-03-04T18:34:54",
+          "name": "aggregation_2025-02-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2025-03-01_eng.xlsx",
+          "size_bytes": 179692,
+          "modified": "2025-04-01T16:20:30",
+          "name": "aggregation_2025-03-01_eng.xlsx",
+          "ext": ".xlsx"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/raw_balance_sheets/aggregation_2025-04-01_eng.xlsx",
+          "size_bytes": 178931,
+          "modified": "2025-05-14T08:31:26",
+          "name": "aggregation_2025-04-01_eng.xlsx",
+          "ext": ".xlsx"
+        }
+      ]
+    },
+    "macro_raw": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-04T14_41_20.658129229Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "size_bytes": 376,
+          "modified": "2025-08-04T16:41:22.421854",
+          "name": "dataset_2025-08-04T14_41_20.658129229Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-04T14_46_21.991284889Z_DEFAULT_INTEGRATION_IMF.STA_CPI_4.0.0.csv",
+          "size_bytes": 2768,
+          "modified": "2025-08-04T16:46:23.276246",
+          "name": "dataset_2025-08-04T14_46_21.991284889Z_DEFAULT_INTEGRATION_IMF.STA_CPI_4.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_42_24.057107794Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "size_bytes": 401,
+          "modified": "2025-08-05T13:11:27.500328",
+          "name": "dataset_2025-08-05T09_42_24.057107794Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_44_06.474974290Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "size_bytes": 405,
+          "modified": "2025-08-05T13:11:27.451328",
+          "name": "dataset_2025-08-05T09_44_06.474974290Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_45_49.020843831Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "size_bytes": 409,
+          "modified": "2025-08-05T13:11:27.439328",
+          "name": "dataset_2025-08-05T09_45_49.020843831Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_46_55.085471562Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "size_bytes": 381,
+          "modified": "2025-08-05T13:11:27.406328",
+          "name": "dataset_2025-08-05T09_46_55.085471562Z_DEFAULT_INTEGRATION_IMF.RES_WEO_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_49_11.132723374Z_DEFAULT_INTEGRATION_IMF.STA_CPI_4.0.0.csv",
+          "size_bytes": 3883,
+          "modified": "2025-08-05T13:11:27.382328",
+          "name": "dataset_2025-08-05T09_49_11.132723374Z_DEFAULT_INTEGRATION_IMF.STA_CPI_4.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_50_07.638515818Z_DEFAULT_INTEGRATION_IMF.STA_EER_6.0.0.csv",
+          "size_bytes": 3676,
+          "modified": "2025-08-05T13:11:27.373328",
+          "name": "dataset_2025-08-05T09_50_07.638515818Z_DEFAULT_INTEGRATION_IMF.STA_EER_6.0.0.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/MacroEconomicData/dataset_2025-08-05T09_53_19.282234935Z_DEFAULT_INTEGRATION_IMF.STA_IRFCL_10.0.0.csv",
+          "size_bytes": 2851,
+          "modified": "2025-08-05T13:11:27.353328",
+          "name": "dataset_2025-08-05T09_53_19.282234935Z_DEFAULT_INTEGRATION_IMF.STA_IRFCL_10.0.0.csv",
+          "ext": ".csv"
+        }
+      ]
+    },
+    "new_data": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/newData",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/newData/.~lock.7caca554-a0de-48de-9346-5f090263bcd3_Data.csv#",
+          "size_bytes": 102,
+          "modified": "2025-08-08T20:06:56.930472",
+          "name": ".~lock.7caca554-a0de-48de-9346-5f090263bcd3_Data.csv#",
+          "ext": ".csv#"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/newData/7caca554-a0de-48de-9346-5f090263bcd3_Data.csv",
+          "size_bytes": 3410,
+          "modified": "2025-08-08T17:17:51",
+          "name": "7caca554-a0de-48de-9346-5f090263bcd3_Data.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/newData/DGS3.csv",
+          "size_bytes": 20682,
+          "modified": "2025-08-08T17:26:33.645626",
+          "name": "DGS3.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/newData/Ukraine 3-Year Bond Yield Historical Data(5).csv",
+          "size_bytes": 98462,
+          "modified": "2025-08-08T20:38:23.072410",
+          "name": "Ukraine 3-Year Bond Yield Historical Data(5).csv",
+          "ext": ".csv"
+        }
+      ]
+    },
+    "macro_processed": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/final_macro_indicators.csv",
+          "size_bytes": 2114,
+          "modified": "2025-08-05T17:24:17.689197",
+          "name": "final_macro_indicators.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_long_20250808_205409.csv",
+          "size_bytes": 61239,
+          "modified": "2025-08-08T20:54:09.644189",
+          "name": "jehd_monthly_long_20250808_205409.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_long_20250808_210159.csv",
+          "size_bytes": 44517,
+          "modified": "2025-08-08T21:04:22.425429",
+          "name": "jehd_monthly_long_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_long_20250808_211527.csv",
+          "size_bytes": 44517,
+          "modified": "2025-08-08T21:15:56.079123",
+          "name": "jehd_monthly_long_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_long_20250808_212036.csv",
+          "size_bytes": 44517,
+          "modified": "2025-08-08T21:20:52.290699",
+          "name": "jehd_monthly_long_20250808_212036.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_meta_20250808_205409.json",
+          "size_bytes": 436,
+          "modified": "2025-08-08T20:54:09.661189",
+          "name": "jehd_monthly_meta_20250808_205409.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_meta_20250808_210159.json",
+          "size_bytes": 436,
+          "modified": "2025-08-08T21:01:59.262664",
+          "name": "jehd_monthly_meta_20250808_210159.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_meta_20250808_211527.json",
+          "size_bytes": 436,
+          "modified": "2025-08-08T21:15:27.381970",
+          "name": "jehd_monthly_meta_20250808_211527.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_meta_20250808_212036.json",
+          "size_bytes": 436,
+          "modified": "2025-08-08T21:20:36.206614",
+          "name": "jehd_monthly_meta_20250808_212036.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_wide_20250808_205409.csv",
+          "size_bytes": 8055,
+          "modified": "2025-08-08T20:54:09.655189",
+          "name": "jehd_monthly_wide_20250808_205409.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_wide_20250808_210159.csv",
+          "size_bytes": 5886,
+          "modified": "2025-08-08T21:04:22.449429",
+          "name": "jehd_monthly_wide_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_wide_20250808_211527.csv",
+          "size_bytes": 5886,
+          "modified": "2025-08-08T21:15:56.109123",
+          "name": "jehd_monthly_wide_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/jehd_monthly_wide_20250808_212036.csv",
+          "size_bytes": 5886,
+          "modified": "2025-08-08T21:20:52.299699",
+          "name": "jehd_monthly_wide_20250808_212036.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_long_20250808_210159.csv",
+          "size_bytes": 59777,
+          "modified": "2025-08-08T21:04:22.564430",
+          "name": "macro_only_long_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_long_20250808_211527.csv",
+          "size_bytes": 61865,
+          "modified": "2025-08-08T21:15:56.250124",
+          "name": "macro_only_long_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_long_20250808_212036.csv",
+          "size_bytes": 61865,
+          "modified": "2025-08-08T21:20:52.329699",
+          "name": "macro_only_long_20250808_212036.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_wide_20250808_210159.csv",
+          "size_bytes": 9700,
+          "modified": "2025-08-08T21:04:22.519430",
+          "name": "macro_only_wide_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_wide_20250808_211527.csv",
+          "size_bytes": 9700,
+          "modified": "2025-08-08T21:15:56.194124",
+          "name": "macro_only_wide_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/macro_only_wide_20250808_212036.csv",
+          "size_bytes": 9729,
+          "modified": "2025-08-08T21:20:52.316699",
+          "name": "macro_only_wide_20250808_212036.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/new_macro_outputs_20250808_205409.json",
+          "size_bytes": 587,
+          "modified": "2025-08-08T20:54:09.871190",
+          "name": "new_macro_outputs_20250808_205409.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/new_macro_outputs_20250808_210159.json",
+          "size_bytes": 851,
+          "modified": "2025-08-08T21:01:59.647666",
+          "name": "new_macro_outputs_20250808_210159.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/new_macro_outputs_20250808_211527.json",
+          "size_bytes": 851,
+          "modified": "2025-08-08T21:15:27.760972",
+          "name": "new_macro_outputs_20250808_211527.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/new_macro_outputs_20250808_212036.json",
+          "size_bytes": 851,
+          "modified": "2025-08-08T21:20:36.334614",
+          "name": "new_macro_outputs_20250808_212036.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/ukraine_3y_monthly_20250808_205409.csv",
+          "size_bytes": 4039,
+          "modified": "2025-08-08T20:54:09.871190",
+          "name": "ukraine_3y_monthly_20250808_205409.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/ukraine_3y_monthly_20250808_210159.csv",
+          "size_bytes": 3658,
+          "modified": "2025-08-08T21:04:22.494430",
+          "name": "ukraine_3y_monthly_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/ukraine_3y_monthly_20250808_211527.csv",
+          "size_bytes": 3658,
+          "modified": "2025-08-08T21:15:56.164124",
+          "name": "ukraine_3y_monthly_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/ukraine_3y_monthly_20250808_212036.csv",
+          "size_bytes": 3658,
+          "modified": "2025-08-08T21:20:52.308699",
+          "name": "ukraine_3y_monthly_20250808_212036.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/us_dgs3_monthly_20250808_205409.csv",
+          "size_bytes": 1654,
+          "modified": "2025-08-08T20:54:09.752189",
+          "name": "us_dgs3_monthly_20250808_205409.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/us_dgs3_monthly_20250808_210159.csv",
+          "size_bytes": 1575,
+          "modified": "2025-08-08T21:04:22.470429",
+          "name": "us_dgs3_monthly_20250808_210159.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/us_dgs3_monthly_20250808_211527.csv",
+          "size_bytes": 1575,
+          "modified": "2025-08-08T21:15:56.135123",
+          "name": "us_dgs3_monthly_20250808_211527.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/macro/us_dgs3_monthly_20250808_212036.csv",
+          "size_bytes": 1575,
+          "modified": "2025-08-08T21:20:52.303699",
+          "name": "us_dgs3_monthly_20250808_212036.csv",
+          "ext": ".csv"
+        }
+      ]
+    },
+    "merged": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_212615.csv",
+          "size_bytes": 3618979,
+          "modified": "2025-08-08T21:26:15.553445",
+          "name": "camels_with_macro_wide_balanced_20250808_212615.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_213123.csv",
+          "size_bytes": 3618979,
+          "modified": "2025-08-08T21:31:23.545137",
+          "name": "camels_with_macro_wide_balanced_20250808_213123.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_213528.csv",
+          "size_bytes": 3503392,
+          "modified": "2025-08-08T21:35:28.984485",
+          "name": "camels_with_macro_wide_balanced_20250808_213528.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_214413.csv",
+          "size_bytes": 3503392,
+          "modified": "2025-08-08T21:44:14.247349",
+          "name": "camels_with_macro_wide_balanced_20250808_214413.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_214749.csv",
+          "size_bytes": 3464210,
+          "modified": "2025-08-08T21:47:49.798510",
+          "name": "camels_with_macro_wide_balanced_20250808_214749.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_215301.csv",
+          "size_bytes": 3464105,
+          "modified": "2025-08-08T21:53:01.487188",
+          "name": "camels_with_macro_wide_balanced_20250808_215301.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250808_221401.csv",
+          "size_bytes": 3456671,
+          "modified": "2025-08-08T22:14:01.789860",
+          "name": "camels_with_macro_wide_balanced_20250808_221401.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250809_140915.csv",
+          "size_bytes": 1594148,
+          "modified": "2025-08-09T14:09:15.906795",
+          "name": "camels_with_macro_wide_balanced_20250809_140915.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/camels_with_macro_wide_balanced_20250809_141826.csv",
+          "size_bytes": 6066044,
+          "modified": "2025-08-09T14:18:27.670445",
+          "name": "camels_with_macro_wide_balanced_20250809_141826.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/merged/merged_camels_macro_20250805_174008.csv",
+          "size_bytes": 3088111,
+          "modified": "2025-08-05T17:40:08.576992",
+          "name": "merged_camels_macro_20250805_174008.csv",
+          "ext": ".csv"
+        }
+      ]
+    },
+    "model_ready": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250808_233637.csv",
+          "size_bytes": 3860572,
+          "modified": "2025-08-08T23:36:37.781276",
+          "name": "model_lag1_20250808_233637.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250808_234143.csv",
+          "size_bytes": 4057197,
+          "modified": "2025-08-08T23:41:44.130718",
+          "name": "model_lag1_20250808_234143.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250808_234143_schema.json",
+          "size_bytes": 8491,
+          "modified": "2025-08-09T00:00:12.213928",
+          "name": "model_lag1_20250808_234143_schema.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_nolag_20250808_233636.csv",
+          "size_bytes": 3373233,
+          "modified": "2025-08-08T23:36:37.272274",
+          "name": "model_nolag_20250808_233636.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_nolag_20250808_234143.csv",
+          "size_bytes": 3569858,
+          "modified": "2025-08-08T23:41:43.653716",
+          "name": "model_nolag_20250808_234143.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_nolag_20250808_234143_schema.json",
+          "size_bytes": 6974,
+          "modified": "2025-08-09T00:00:12.089927",
+          "name": "model_nolag_20250808_234143_schema.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_nolag_20250809_141023.csv",
+          "size_bytes": 1707378,
+          "modified": "2025-08-09T14:10:23.573120",
+          "name": "model_nolag_20250809_141023.csv",
+          "ext": ".csv"
+        }
+      ]
+    },
+    "output_final": {
+      "dir": "/home/fj/UkrainianInsolvencyPredictor/output_final",
+      "exists": true,
+      "files": [
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/camels_features_20250804_162415.csv",
+          "size_bytes": 1076062,
+          "modified": "2025-08-04T16:24:16.105085",
+          "name": "camels_features_20250804_162415.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/camels_features_20250804_162415.parquet",
+          "size_bytes": 357895,
+          "modified": "2025-08-04T16:24:16.032084",
+          "name": "camels_features_20250804_162415.parquet",
+          "ext": ".parquet"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/camels_methodology_20250804_162415.md",
+          "size_bytes": 4709,
+          "modified": "2025-08-04T16:24:17.156091",
+          "name": "camels_methodology_20250804_162415.md",
+          "ext": ".md"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/camels_transformation_report_20250804_162415.txt",
+          "size_bytes": 5415,
+          "modified": "2025-08-04T16:24:17.155091",
+          "name": "camels_transformation_report_20250804_162415.txt",
+          "ext": ".txt"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/comprehensive_camels_dataset_20250804_221448.csv",
+          "size_bytes": 2685079,
+          "modified": "2025-08-04T22:14:48.509625",
+          "name": "comprehensive_camels_dataset_20250804_221448.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/comprehensive_camels_statistics_20250804_221448.json",
+          "size_bytes": 8677,
+          "modified": "2025-08-04T22:14:48.512625",
+          "name": "comprehensive_camels_statistics_20250804_221448.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/macro_enhanced_analysis_20250804_201145.png",
+          "size_bytes": 360981,
+          "modified": "2025-08-04T20:11:49.306935",
+          "name": "macro_enhanced_analysis_20250804_201145.png",
+          "ext": ".png"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/profitability_macro_analysis_20250804_202302.png",
+          "size_bytes": 1321614,
+          "modified": "2025-08-04T20:23:08.003350",
+          "name": "profitability_macro_analysis_20250804_202302.png",
+          "ext": ".png"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/profitability_macro_dataset_20250804_202302.csv",
+          "size_bytes": 1100088,
+          "modified": "2025-08-04T20:23:08.110350",
+          "name": "profitability_macro_dataset_20250804_202302.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/profitability_macro_results_20250804_202302.json",
+          "size_bytes": 5668,
+          "modified": "2025-08-04T20:23:08.008350",
+          "name": "profitability_macro_results_20250804_202302.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250702_114923.csv",
+          "size_bytes": 6271981,
+          "modified": "2025-07-02T11:49:26.863167",
+          "name": "ukrainian_banks_panel_dataset_20250702_114923.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250702_122753.csv",
+          "size_bytes": 4940292,
+          "modified": "2025-07-02T12:27:56.059933",
+          "name": "ukrainian_banks_panel_dataset_20250702_122753.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250702_123433.csv",
+          "size_bytes": 4902294,
+          "modified": "2025-07-02T12:34:36.139532",
+          "name": "ukrainian_banks_panel_dataset_20250702_123433.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250702_124040.csv",
+          "size_bytes": 4905040,
+          "modified": "2025-07-02T12:40:43.764839",
+          "name": "ukrainian_banks_panel_dataset_20250702_124040.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250801_154654.csv",
+          "size_bytes": 4843532,
+          "modified": "2025-08-01T15:46:59.616871",
+          "name": "ukrainian_banks_panel_dataset_20250801_154654.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_20250801_155255.csv",
+          "size_bytes": 4843532,
+          "modified": "2025-08-01T15:52:58.237373",
+          "name": "ukrainian_banks_panel_dataset_20250801_155255.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_CONSOLIDATED.csv",
+          "size_bytes": 4843930,
+          "modified": "2025-08-01T14:26:30.136157",
+          "name": "ukrainian_banks_panel_dataset_CONSOLIDATED.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_FINAL.csv",
+          "size_bytes": 5627548,
+          "modified": "2025-08-04T16:24:17.143091",
+          "name": "ukrainian_banks_panel_dataset_FINAL.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_FINAL_backup.csv",
+          "size_bytes": 4905040,
+          "modified": "2025-07-02T12:40:42.058829",
+          "name": "ukrainian_banks_panel_dataset_FINAL_backup.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_panel_dataset_with_ROA_20250804_161537.csv",
+          "size_bytes": 4926626,
+          "modified": "2025-08-04T16:15:38.178937",
+          "name": "ukrainian_banks_panel_dataset_with_ROA_20250804_161537.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/ukrainian_banks_with_camels_20250804_162415.csv",
+          "size_bytes": 5627548,
+          "modified": "2025-08-04T16:24:16.596088",
+          "name": "ukrainian_banks_with_camels_20250804_162415.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_dataset_20250804_225021.csv",
+          "size_bytes": 3147285,
+          "modified": "2025-08-04T22:50:22.212670",
+          "name": "unified_camels_dataset_20250804_225021.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_dataset_20250805_173744.csv",
+          "size_bytes": 3147285,
+          "modified": "2025-08-05T17:37:45.505258",
+          "name": "unified_camels_dataset_20250805_173744.csv",
+          "ext": ".csv"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_definitions_20250804_225021.txt",
+          "size_bytes": 6592,
+          "modified": "2025-08-04T22:50:22.214669",
+          "name": "unified_camels_definitions_20250804_225021.txt",
+          "ext": ".txt"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_definitions_20250805_173744.txt",
+          "size_bytes": 6592,
+          "modified": "2025-08-05T17:37:45.510258",
+          "name": "unified_camels_definitions_20250805_173744.txt",
+          "ext": ".txt"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_report_20250804_225021.json",
+          "size_bytes": 24917,
+          "modified": "2025-08-04T22:50:22.213670",
+          "name": "unified_camels_report_20250804_225021.json",
+          "ext": ".json"
+        },
+        {
+          "path": "/home/fj/UkrainianInsolvencyPredictor/output_final/unified_camels_report_20250805_173744.json",
+          "size_bytes": 24917,
+          "modified": "2025-08-05T17:37:45.509258",
+          "name": "unified_camels_report_20250805_173744.json",
+          "ext": ".json"
+        }
+      ]
+    }
+  },
+  "extra_files": {
+    "etl_logs": [
+      {
+        "path": "/home/fj/UkrainianInsolvencyPredictor/imf_data_processing.log",
+        "size_bytes": 4955,
+        "modified": "2025-08-05T17:06:44.681862",
+        "name": "imf_data_processing.log"
+      },
+      {
+        "path": "/home/fj/UkrainianInsolvencyPredictor/macro_data_processing.log",
+        "size_bytes": 2560,
+        "modified": "2025-08-05T17:00:38.499590",
+        "name": "macro_data_processing.log"
+      }
+    ]
+  }
+}

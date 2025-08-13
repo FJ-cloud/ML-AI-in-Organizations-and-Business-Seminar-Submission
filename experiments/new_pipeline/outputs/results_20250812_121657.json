@@ -1,0 +1,89 @@
+{
+  "config":{
+    "split_date":"2022-08-31",
+    "horizon_months":0,
+    "roll_windows":[
+      3,
+      6
+    ],
+    "feature_freq_threshold":0.6,
+    "use_catboost":true,
+    "target_col":"will_fail_within_1m",
+    "drop_post_failure":true
+  },
+  "csv":"\/home\/fj\/UkrainianInsolvencyPredictor\/data\/processed\/model_ready\/model_lag1_20250812_105343.csv",
+  "split_date":"2022-08-31",
+  "selected_features_count":2,
+  "selected_features":[
+    "NPL_Ratio_std3",
+    "ukraine_3y_change_pct_std3"
+  ],
+  "stability_counts_top":{
+    "NPL_Ratio_std3":3,
+    "ukraine_3y_change_pct_std3":3,
+    "ROE":2,
+    "ukraine_3y_yield_lag1":2,
+    "27_Cross-border deposits with BIS rep. banks_lag1":2,
+    "us_3y_yield_lag1_std3":2,
+    "24_International reserves (excluding gold)_lag1_std3":2,
+    "ROA":1,
+    "Liquid_Assets_Ratio":1,
+    "Loan_Deposit_Ratio":1,
+    "gdp_yoy_pct":1,
+    "24_International reserves (excluding gold)_lag1":1,
+    "Cost_Income_Ratio_std3":1,
+    "Net_Open_FX_Ratio_std3":1,
+    "22_Liabilities to BIS banks, locational, total_std3":1,
+    "01_Cross-border loans from BIS reporting banks_std3":1,
+    "27_Cross-border deposits with BIS rep. banks_ma3":1,
+    "ukraine_3y_yield_std3":1,
+    "exchange_rate_ma3":1,
+    "interest_rate_ma3":1,
+    "interest_rate_std3":1,
+    "gdp_yoy_pct_std3":1,
+    "yield_spread_ukr_us_3y_std3":1,
+    "ukraine_3y_yield_lag1_std3":1,
+    "24_International reserves (excluding gold)_lag1_ma3":1,
+    "12_Liabilities to BIS banks (cons.), short term_lag1_ma3":1,
+    "22_Liabilities to BIS banks, locational, total_lag1_std3":1,
+    "01_Cross-border loans from BIS reporting banks_lag1_ma3":1,
+    "NPL_Ratio_ma6":1,
+    "ROA_ma6":1,
+    "24_International reserves (excluding gold)_ma6":1,
+    "WAR":0,
+    "Capital_Ratio":0,
+    "NPL_Ratio":0,
+    "Cost_Income_Ratio":0,
+    "Net_Open_FX_Ratio":0,
+    "24_International reserves (excluding gold)":0,
+    "12_Liabilities to BIS banks (cons.), short term":0,
+    "22_Liabilities to BIS banks, locational, total":0,
+    "01_Cross-border loans from BIS reporting banks":0,
+    "27_Cross-border deposits with BIS rep. banks":0,
+    "us_3y_yield":0,
+    "ukraine_3y_yield":0,
+    "ukraine_3y_change_pct":0,
+    "cpi_x":0,
+    "cpi_y":0,
+    "exchange_rate":0,
+    "interest_rate":0,
+    "reserves_pct_gdp":0,
+    "yield_spread_ukr_us_3y":0
+  },
+  "target_col":"will_fail_within_1m",
+  "dropped_post_failure":true,
+  "metrics":{
+    "train":{
+      "roc_auc":0.8705071602,
+      "pr_auc":0.042411098,
+      "brier":0.1535325589,
+      "n":2731
+    },
+    "test":{
+      "roc_auc":0.1804548451,
+      "pr_auc":0.0048595197,
+      "brier":0.5672597755,
+      "n":1529
+    }
+  }
+}

@@ -1,0 +1,649 @@
+date,series_code,indicator,value
+2019-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19605960748.7947
+2019-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-01-31,,,
+2019-01-31,,,
+2019-01-31,,,
+2019-01-31,,,
+2019-02-28,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19605960748.7947
+2019-02-28,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-02-28,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-02-28,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-02-28,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-02-28,,,
+2019-02-28,,,
+2019-02-28,,,
+2019-02-28,,,
+2019-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19605960748.7947
+2019-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3220601000.0
+2019-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8681047000.0
+2019-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5041696000.0
+2019-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,9990184000.0
+2019-03-31,,,
+2019-03-31,,,
+2019-03-31,,,
+2019-03-31,,,
+2019-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19532677313.6943
+2019-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-04-30,,,
+2019-04-30,,,
+2019-04-30,,,
+2019-04-30,,,
+2019-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19532677313.6943
+2019-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-05-31,,,
+2019-05-31,,,
+2019-05-31,,,
+2019-05-31,,,
+2019-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),19532677313.6943
+2019-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3958575000.0
+2019-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9245535000.0
+2019-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5208214000.0
+2019-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,10058673000.0
+2019-06-30,,,
+2019-06-30,,,
+2019-06-30,,,
+2019-06-30,,,
+2019-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),20258621642.4294
+2019-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-07-31,,,
+2019-07-31,,,
+2019-07-31,,,
+2019-07-31,,,
+2019-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),20258621642.4294
+2019-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-08-31,,,
+2019-08-31,,,
+2019-08-31,,,
+2019-08-31,,,
+2019-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),20258621642.4294
+2019-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3659383000.0
+2019-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9319903000.0
+2019-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4997850000.0
+2019-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11100139000.0
+2019-09-30,,,
+2019-09-30,,,
+2019-09-30,,,
+2019-09-30,,,
+2019-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24083372926.8886
+2019-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-10-31,,,
+2019-10-31,,,
+2019-10-31,,,
+2019-10-31,,,
+2019-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24083372926.8886
+2019-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-11-30,,,
+2019-11-30,,,
+2019-11-30,,,
+2019-11-30,,,
+2019-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24083372926.8886
+2019-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3563906000.0
+2019-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9792511000.0
+2019-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5383297000.0
+2019-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,11858522000.0
+2019-12-31,,,
+2019-12-31,,,
+2019-12-31,,,
+2019-12-31,,,
+2020-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),23610307559.222
+2020-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-01-31,,,
+2020-01-31,,,
+2020-01-31,,,
+2020-01-31,,,
+2020-02-29,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),23610307559.222
+2020-02-29,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-02-29,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-02-29,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-02-29,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-02-29,,,
+2020-02-29,,,
+2020-02-29,,,
+2020-02-29,,,
+2020-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),23610307559.222
+2020-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3348745000.0
+2020-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8642496000.0
+2020-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4825692000.0
+2020-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12376958000.0
+2020-03-31,,,
+2020-03-31,,,
+2020-03-31,,,
+2020-03-31,,,
+2020-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27085228964.1012
+2020-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-04-30,,,
+2020-04-30,,,
+2020-04-30,,,
+2020-04-30,,,
+2020-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27085228964.1012
+2020-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-05-31,,,
+2020-05-31,,,
+2020-05-31,,,
+2020-05-31,,,
+2020-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27085228964.1012
+2020-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2761844000.0
+2020-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8627921000.0
+2020-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4681315000.0
+2020-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12827626000.0
+2020-06-30,,,
+2020-06-30,,,
+2020-06-30,,,
+2020-06-30,,,
+2020-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24975954793.7481
+2020-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-07-31,,,
+2020-07-31,,,
+2020-07-31,,,
+2020-07-31,,,
+2020-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24975954793.7481
+2020-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-08-31,,,
+2020-08-31,,,
+2020-08-31,,,
+2020-08-31,,,
+2020-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),24975954793.7481
+2020-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2457948000.0
+2020-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8672449000.0
+2020-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4954678000.0
+2020-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13636566000.0
+2020-09-30,,,
+2020-09-30,,,
+2020-09-30,,,
+2020-09-30,,,
+2020-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27549017200.0461
+2020-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-10-31,,,
+2020-10-31,,,
+2020-10-31,,,
+2020-10-31,,,
+2020-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27549017200.0461
+2020-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-11-30,,,
+2020-11-30,,,
+2020-11-30,,,
+2020-11-30,,,
+2020-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27549017200.0461
+2020-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2613834000.0
+2020-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9001237000.0
+2020-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5168196000.0
+2020-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,12931895000.0
+2020-12-31,,,
+2020-12-31,,,
+2020-12-31,,,
+2020-12-31,,,
+2021-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),25608104643.3385
+2021-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-01-31,,,
+2021-01-31,,,
+2021-01-31,,,
+2021-01-31,,,
+2021-02-28,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),25608104643.3385
+2021-02-28,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-02-28,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-02-28,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-02-28,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-02-28,,,
+2021-02-28,,,
+2021-02-28,,,
+2021-02-28,,,
+2021-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),25608104643.3385
+2021-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2784207000.0
+2021-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8818795000.0
+2021-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4741029000.0
+2021-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13367278000.0
+2021-03-31,,,
+2021-03-31,,,
+2021-03-31,,,
+2021-03-31,,,
+2021-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26854516121.7253
+2021-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-04-30,,,
+2021-04-30,,,
+2021-04-30,,,
+2021-04-30,,,
+2021-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26854516121.7253
+2021-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-05-31,,,
+2021-05-31,,,
+2021-05-31,,,
+2021-05-31,,,
+2021-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26854516121.7253
+2021-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3022089000.0
+2021-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9019049000.0
+2021-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4805352000.0
+2021-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14570493000.0
+2021-06-30,,,
+2021-06-30,,,
+2021-06-30,,,
+2021-06-30,,,
+2021-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27228063310.9605
+2021-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-07-31,,,
+2021-07-31,,,
+2021-07-31,,,
+2021-07-31,,,
+2021-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27228063310.9605
+2021-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-08-31,,,
+2021-08-31,,,
+2021-08-31,,,
+2021-08-31,,,
+2021-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),27228063310.9605
+2021-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2842583000.0
+2021-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",8945059000.0
+2021-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4743544000.0
+2021-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15046470000.0
+2021-09-30,,,
+2021-09-30,,,
+2021-09-30,,,
+2021-09-30,,,
+2021-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),29383187653.8888
+2021-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-10-31,,,
+2021-10-31,,,
+2021-10-31,,,
+2021-10-31,,,
+2021-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),29383187653.8888
+2021-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-11-30,,,
+2021-11-30,,,
+2021-11-30,,,
+2021-11-30,,,
+2021-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),29383187653.8888
+2021-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",3070103000.0
+2021-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",9003785000.0
+2021-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,5215585000.0
+2021-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13559285000.0
+2021-12-31,,,
+2021-12-31,,,
+2021-12-31,,,
+2021-12-31,,,
+2022-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26442216010.1192
+2022-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-01-31,,,
+2022-01-31,,,
+2022-01-31,,,
+2022-01-31,,,
+2022-02-28,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26442216010.1192
+2022-02-28,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-02-28,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-02-28,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-02-28,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-02-28,,,
+2022-02-28,,,
+2022-02-28,,,
+2022-02-28,,,
+2022-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26442216010.1192
+2022-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2462281000.0
+2022-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5671992000.0
+2022-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4406756000.0
+2022-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14314007000.0
+2022-03-31,,,
+2022-03-31,,,
+2022-03-31,,,
+2022-03-31,,,
+2022-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22270948433.5897
+2022-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-04-30,,,
+2022-04-30,,,
+2022-04-30,,,
+2022-04-30,,,
+2022-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22270948433.5897
+2022-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-05-31,,,
+2022-05-31,,,
+2022-05-31,,,
+2022-05-31,,,
+2022-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22270948433.5897
+2022-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",2095093000.0
+2022-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5433944000.0
+2022-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4494717000.0
+2022-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13644734000.0
+2022-06-30,,,
+2022-06-30,,,
+2022-06-30,,,
+2022-06-30,,,
+2022-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22501736128.5665
+2022-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-07-31,,,
+2022-07-31,,,
+2022-07-31,,,
+2022-07-31,,,
+2022-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22501736128.5665
+2022-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-08-31,,,
+2022-08-31,,,
+2022-08-31,,,
+2022-08-31,,,
+2022-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),22501736128.5665
+2022-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1991636000.0
+2022-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4991090000.0
+2022-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4211177000.0
+2022-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14025794000.0
+2022-09-30,,,
+2022-09-30,,,
+2022-09-30,,,
+2022-09-30,,,
+2022-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26929187392.0519
+2022-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-10-31,,,
+2022-10-31,,,
+2022-10-31,,,
+2022-10-31,,,
+2022-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26929187392.0519
+2022-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-11-30,,,
+2022-11-30,,,
+2022-11-30,,,
+2022-11-30,,,
+2022-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),26929187392.0519
+2022-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1911834000.0
+2022-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5162180000.0
+2022-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4348059000.0
+2022-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13332315000.0
+2022-12-31,,,
+2022-12-31,,,
+2022-12-31,,,
+2022-12-31,,,
+2023-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),32866465573.4247
+2023-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-01-31,,,
+2023-01-31,,,
+2023-01-31,,,
+2023-01-31,,,
+2023-02-28,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),32866465573.4247
+2023-02-28,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-02-28,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-02-28,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-02-28,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-02-28,,,
+2023-02-28,,,
+2023-02-28,,,
+2023-02-28,,,
+2023-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),32866465573.4247
+2023-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1808220000.0
+2023-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5258548000.0
+2023-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4393108000.0
+2023-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,15015123000.0
+2023-03-31,,,
+2023-03-31,,,
+2023-03-31,,,
+2023-03-31,,,
+2023-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),37371803631.261
+2023-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-04-30,,,
+2023-04-30,,,
+2023-04-30,,,
+2023-04-30,,,
+2023-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),37371803631.261
+2023-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-05-31,,,
+2023-05-31,,,
+2023-05-31,,,
+2023-05-31,,,
+2023-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),37371803631.261
+2023-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1746553000.0
+2023-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5190273000.0
+2023-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4295935000.0
+2023-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14684546000.0
+2023-06-30,,,
+2023-06-30,,,
+2023-06-30,,,
+2023-06-30,,,
+2023-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38097457693.4001
+2023-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-07-31,,,
+2023-07-31,,,
+2023-07-31,,,
+2023-07-31,,,
+2023-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38097457693.4001
+2023-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-08-31,,,
+2023-08-31,,,
+2023-08-31,,,
+2023-08-31,,,
+2023-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38097457693.4001
+2023-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1968080000.0
+2023-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5165496000.0
+2023-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,4192816000.0
+2023-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14246203000.0
+2023-09-30,,,
+2023-09-30,,,
+2023-09-30,,,
+2023-09-30,,,
+2023-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38715818307.8863
+2023-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-10-31,,,
+2023-10-31,,,
+2023-10-31,,,
+2023-10-31,,,
+2023-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38715818307.8863
+2023-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-11-30,,,
+2023-11-30,,,
+2023-11-30,,,
+2023-11-30,,,
+2023-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),38715818307.8863
+2023-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1522273000.0
+2023-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4220455000.0
+2023-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3188029000.0
+2023-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14248517000.0
+2023-12-31,,,
+2023-12-31,,,
+2023-12-31,,,
+2023-12-31,,,
+2024-01-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41838087389.2532
+2024-01-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-01-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-01-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-01-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-01-31,,,
+2024-01-31,,,
+2024-01-31,,,
+2024-01-31,,,
+2024-02-29,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41838087389.2532
+2024-02-29,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-02-29,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-02-29,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-02-29,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-02-29,,,
+2024-02-29,,,
+2024-02-29,,,
+2024-02-29,,,
+2024-03-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41838087389.2532
+2024-03-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1596438000.0
+2024-03-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",4391311000.0
+2024-03-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3270725000.0
+2024-03-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14568783000.0
+2024-03-31,,,
+2024-03-31,,,
+2024-03-31,,,
+2024-03-31,,,
+2024-04-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),35888898145.8244
+2024-04-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-04-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-04-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-04-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-04-30,,,
+2024-04-30,,,
+2024-04-30,,,
+2024-04-30,,,
+2024-05-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),35888898145.8244
+2024-05-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-05-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-05-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-05-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-05-31,,,
+2024-05-31,,,
+2024-05-31,,,
+2024-05-31,,,
+2024-06-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),35888898145.8244
+2024-06-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1407906000.0
+2024-06-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5670701000.0
+2024-06-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3282944000.0
+2024-06-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,14818863000.0
+2024-06-30,,,
+2024-06-30,,,
+2024-06-30,,,
+2024-06-30,,,
+2024-07-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),36552112949.0099
+2024-07-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-07-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-07-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-07-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-07-31,,,
+2024-07-31,,,
+2024-07-31,,,
+2024-07-31,,,
+2024-08-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),36552112949.0099
+2024-08-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-08-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-08-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-08-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-08-31,,,
+2024-08-31,,,
+2024-08-31,,,
+2024-08-31,,,
+2024-09-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),36552112949.0099
+2024-09-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",1411973000.0
+2024-09-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",5679027000.0
+2024-09-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,3299542000.0
+2024-09-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,13799159000.0
+2024-09-30,,,
+2024-09-30,,,
+2024-09-30,,,
+2024-09-30,,,
+2024-10-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41484541772.8406
+2024-10-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",
+2024-10-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",
+2024-10-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,
+2024-10-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,
+2024-10-31,,,
+2024-10-31,,,
+2024-10-31,,,
+2024-10-31,,,
+2024-11-30,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41484541772.8406
+2024-11-30,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",
+2024-11-30,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",
+2024-11-30,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,
+2024-11-30,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,
+2024-11-30,,,
+2024-11-30,,,
+2024-11-30,,,
+2024-11-30,,,
+2024-12-31,Q.1C0.1C0.C.9A.MOA.RXGT.1.ALL.MV.TO1.ALL,24_International reserves (excluding gold),41484541772.8406
+2024-12-31,Q.5B0.5B0.C.5A.BKC.ASTT.1.STR.MX.TO1.ALL,"12_Liabilities to BIS banks (cons.), short term",
+2024-12-31,Q.5B0.5B0.C.5A.BKL.ASTT.1.ALL.MX.TO1.ALL,"22_Liabilities to BIS banks, locational, total",
+2024-12-31,Q.5B0.5B0.C.5A.BKL.LDPT.1.ALL.NV.TO1.ALL,01_Cross-border loans from BIS reporting banks,
+2024-12-31,Q.5B0.5B0.D.5A.ALL.DFXB.1.ALL.NV.TO1.BMA,27_Cross-border deposits with BIS rep. banks,
+2024-12-31,,,
+2024-12-31,,,
+2024-12-31,,,
+2024-12-31,,,

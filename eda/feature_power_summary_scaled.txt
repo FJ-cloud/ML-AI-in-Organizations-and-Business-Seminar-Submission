@@ -1,0 +1,68 @@
+Dataset: /home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250808_234143.csv
+Train <= 2022-09-30, Test > 2022-09-30
+
+Top 20 Univariate AUC (orientation-invariant on test, scaled):
+ukraine_3y_change_pct: 0.995
+us_3y_yield: 0.995
+us_3y_yield_z: 0.995
+ukraine_3y_change_pct_lag1: 0.987
+us_3y_yield_lag1: 0.987
+24_International reserves (excluding gold): 0.932
+ukraine_3y_yield: 0.932
+ukraine_3y_yield_z: 0.932
+ukraine_3y_yield_lag1: 0.917
+24_International reserves (excluding gold)_lag1: 0.906
+yield_spread_ukr_us_3y: 0.901
+yield_spread_ukr_us_3y_z: 0.901
+01_Cross-border loans from BIS reporting banks_lag1: 0.896
+12_Liabilities to BIS banks (cons.), short term_lag1: 0.892
+22_Liabilities to BIS banks, locational, total_lag1: 0.892
+yield_spread_ukr_us_3y_lag1: 0.886
+12_Liabilities to BIS banks (cons.), short term: 0.885
+22_Liabilities to BIS banks, locational, total: 0.885
+01_Cross-border loans from BIS reporting banks: 0.885
+Loan_Deposit_Ratio: 0.877
+
+Top 20 Lasso |coef| (train, scaled):
+CAMELS_Interest_Income_Ratio: 1.20603
+CAMELS_Net_Interest_Margin: 0.89501
+liabilities_total_liabilities: 0.80289
+CAMELS_Commission_Income_Ratio: 0.63261
+CAMELS_Interest_Expense_Ratio: 0.55004
+Capital_Ratio: 0.43159
+equity_total_equity_capital: 0.40343
+CAMELS_Net_Commission_Income_Ratio: 0.37035
+CAMELS_Commission_Expense_Ratio: 0.34675
+assets_total_assets: 0.20648
+CAMELS_Deposits_Assets_Ratio: 0.16530
+CAMELS_Provisions_Ratio: 0.15659
+CAMELS_Wholesale_Funding_Ratio: 0.11503
+CAMELS_Cost_of_Deposits: 0.06498
+CAMELS_Equity_Multiplier: 0.06304
+ukraine_3y_yield: 0.03486
+ukraine_3y_yield_z: 0.03242
+yield_spread_ukr_us_3y_z: 0.03192
+CAMELS_Loan_Loss_Provision_Ratio: 0.03148
+22_Liabilities to BIS banks, locational, total: 0.03102
+
+Top 20 Mutual Information (train, scaled):
+CAMELS_Income_Diversity_Ratio: 0.14431
+CAMELS_Commission_Income_Ratio: 0.14325
+ROE: 0.14156
+CAMELS_Loan_Deposit_Ratio: 0.14142
+CAMELS_Common_Equity_Ratio: 0.14028
+WAR: 0.13998
+CAMELS_Total_Equity_Ratio: 0.13971
+CAMELS_Commission_Expense_Ratio: 0.13681
+ukraine_3y_change_pct: 0.13677
+CAMELS_Wholesale_Funding_Ratio: 0.13624
+CAMELS_Net_Interest_Margin: 0.13618
+Liquid_Assets_Ratio: 0.13607
+CAMELS_Cash_Deposit_Ratio: 0.13584
+CAMELS_Cash_Ratio: 0.13549
+liabilities_total_liabilities: 0.13519
+CAMELS_Net_Interest_Expense_Ratio: 0.13500
+CAMELS_Asset_Turnover: 0.13489
+CAMELS_Operating_Expense_Ratio: 0.13427
+assets_total_assets: 0.13417
+Capital_Ratio: 0.13404

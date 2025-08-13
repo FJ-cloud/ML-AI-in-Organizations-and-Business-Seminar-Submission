@@ -1,0 +1,116 @@
+{
+  "schema": {
+    "date_col": "date_m",
+    "id_col": "bank_name",
+    "target_col": "will_fail_within_1m",
+    "n_rows": 4260,
+    "n_cols": 46,
+    "n_features": 30
+  },
+  "features_used": [
+    "WAR",
+    "Capital_Ratio",
+    "NPL_Ratio",
+    "Cost_Income_Ratio",
+    "ROA",
+    "ROE",
+    "Liquid_Assets_Ratio",
+    "Loan_Deposit_Ratio",
+    "Net_Open_FX_Ratio",
+    "24_International reserves (excluding gold)",
+    "12_Liabilities to BIS banks (cons.), short term",
+    "22_Liabilities to BIS banks, locational, total",
+    "01_Cross-border loans from BIS reporting banks",
+    "27_Cross-border deposits with BIS rep. banks",
+    "us_3y_yield",
+    "ukraine_3y_yield",
+    "ukraine_3y_change_pct",
+    "yield_spread_ukr_us_3y",
+    "ukraine_3y_yield_z",
+    "us_3y_yield_z",
+    "yield_spread_ukr_us_3y_z",
+    "yield_spread_ukr_us_3y_lag1",
+    "us_3y_yield_lag1",
+    "ukraine_3y_yield_lag1",
+    "ukraine_3y_change_pct_lag1",
+    "24_International reserves (excluding gold)_lag1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1",
+    "22_Liabilities to BIS banks, locational, total_lag1",
+    "01_Cross-border loans from BIS reporting banks_lag1",
+    "27_Cross-border deposits with BIS rep. banks_lag1"
+  ],
+  "fold_reports": [
+    {
+      "fold": 1,
+      "train_end": "2020-06-30",
+      "val_month": "2020-07-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 1.2560403392363502e-06
+    },
+    {
+      "fold": 2,
+      "train_end": "2020-07-31",
+      "val_month": "2020-08-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 4.016917810257729e-07
+    },
+    {
+      "fold": 3,
+      "train_end": "2020-08-31",
+      "val_month": "2020-09-30",
+      "roc_auc": 0.8548387096774194,
+      "pr_auc": 0.1,
+      "brier": 0.015862624718512703
+    },
+    {
+      "fold": 4,
+      "train_end": "2020-09-30",
+      "val_month": "2020-10-31",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 1.536593320890332e-07
+    },
+    {
+      "fold": 5,
+      "train_end": "2020-10-31",
+      "val_month": "2020-11-30",
+      "roc_auc": NaN,
+      "pr_auc": -0.0,
+      "brier": 2.058935640278094e-07
+    },
+    {
+      "fold": 6,
+      "train_end": "2020-11-30",
+      "val_month": "2020-12-31",
+      "roc_auc": 0.7704918032786885,
+      "pr_auc": 0.06666666666666667,
+      "brier": 0.016116115923854108
+    }
+  ],
+  "overall_prob_quality": {
+    "roc_auc": 0.67828418230563,
+    "pr_auc": 0.01199859254046446,
+    "brier": 0.0053297900638623755,
+    "n_valid": 375,
+    "positives": 2,
+    "negatives": 373
+  },
+  "threshold_selection": {
+    "precision_floor": 0.7,
+    "feasible": false,
+    "threshold": 0.0003388591787227998,
+    "precision": 0.013793103448275862,
+    "recall": 1.0,
+    "tp": 2,
+    "fp": 143,
+    "tn": 230,
+    "fn": 0
+  },
+  "artifacts": {
+    "run_summary_json": "/home/fj/UkrainianInsolvencyPredictor/experiments/pr_pipeline/outputs/precision70_summary_20250813_164359.json",
+    "topk_csv": "/home/fj/UkrainianInsolvencyPredictor/experiments/pr_pipeline/outputs/next_month_high_risk_topk_20250813_164359.csv",
+    "oof_predictions_csv": "/home/fj/UkrainianInsolvencyPredictor/experiments/pr_pipeline/outputs/oof_predictions_20250813_164359.csv"
+  }
+}

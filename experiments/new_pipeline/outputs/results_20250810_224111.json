@@ -1,0 +1,85 @@
+{
+  "config":{
+    "split_date":"2022-08-31",
+    "horizon_months":0,
+    "roll_windows":[
+      3,
+      6
+    ],
+    "feature_freq_threshold":0.6,
+    "use_catboost":true
+  },
+  "csv":"\/home\/fj\/UkrainianInsolvencyPredictor\/data\/processed\/model_ready\/model_lag1_20250810_220848.csv",
+  "split_date":"2022-08-31",
+  "selected_features_count":2,
+  "selected_features":[
+    "27_Cross-border deposits with BIS rep. banks",
+    "Liquid_Assets_Ratio_std3"
+  ],
+  "stability_counts_top":{
+    "27_Cross-border deposits with BIS rep. banks":3,
+    "Liquid_Assets_Ratio_std3":3,
+    "ukraine_3y_yield_lag1":2,
+    "NPL_Ratio_ma3":2,
+    "Loan_Deposit_Ratio_std3":2,
+    "24_International reserves (excluding gold)_std3":2,
+    "22_Liabilities to BIS banks, locational, total_std3":2,
+    "27_Cross-border deposits with BIS rep. banks_std3":2,
+    "Capital_Ratio":1,
+    "NPL_Ratio":1,
+    "24_International reserves (excluding gold)":1,
+    "12_Liabilities to BIS banks (cons.), short term":1,
+    "22_Liabilities to BIS banks, locational, total":1,
+    "01_Cross-border loans from BIS reporting banks":1,
+    "ukraine_3y_yield":1,
+    "cpi_x":1,
+    "cpi_y":1,
+    "interest_rate":1,
+    "reserves_pct_gdp":1,
+    "yield_spread_ukr_us_3y":1,
+    "yield_spread_ukr_us_3y_lag1":1,
+    "ukraine_3y_change_pct_lag1":1,
+    "12_Liabilities to BIS banks (cons.), short term_lag1":1,
+    "Cost_Income_Ratio_ma3":1,
+    "ROA_std3":1,
+    "ROE_std3":1,
+    "Net_Open_FX_Ratio_std3":1,
+    "24_International reserves (excluding gold)_ma3":1,
+    "12_Liabilities to BIS banks (cons.), short term_std3":1,
+    "27_Cross-border deposits with BIS rep. banks_ma3":1,
+    "cpi_x_std3":1,
+    "cpi_y_std3":1,
+    "exchange_rate_std3":1,
+    "interest_rate_ma3":1,
+    "gdp_yoy_pct_std3":1,
+    "ukraine_3y_yield_lag1_ma3":1,
+    "24_International reserves (excluding gold)_lag1_std3":1,
+    "12_Liabilities to BIS banks (cons.), short term_lag1_std3":1,
+    "22_Liabilities to BIS banks, locational, total_lag1_ma3":1,
+    "WAR_ma6":1,
+    "Capital_Ratio_std6":1,
+    "NPL_Ratio_ma6":1,
+    "Cost_Income_Ratio_ma6":1,
+    "ROA_ma6":1,
+    "ROA_std6":1,
+    "ROE_std6":1,
+    "Liquid_Assets_Ratio_ma6":1,
+    "Loan_Deposit_Ratio_std6":1,
+    "01_Cross-border loans from BIS reporting banks_ma6":1,
+    "27_Cross-border deposits with BIS rep. banks_std6":1
+  },
+  "metrics":{
+    "train":{
+      "roc_auc":0.5816584462,
+      "pr_auc":0.1376305064,
+      "brier":0.2461284588,
+      "n":2948
+    },
+    "test":{
+      "roc_auc":0.4197998586,
+      "pr_auc":0.4000703096,
+      "brier":0.2804160158,
+      "n":2144
+    }
+  }
+}

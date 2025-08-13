@@ -1,0 +1,18 @@
+{
+  "run_at": "2025-08-10 22:09:21",
+  "model_ready_csv": "/home/fj/UkrainianInsolvencyPredictor/data/processed/model_ready/model_lag1_20250810_220848.csv",
+  "split_date": "2022-08-31",
+  "sarimax_order": "0,0,0",
+  "camels8": [
+    "Capital_Ratio",
+    "NPL_Ratio",
+    "Cost_Income_Ratio",
+    "ROA",
+    "ROE",
+    "Liquid_Assets_Ratio",
+    "Loan_Deposit_Ratio",
+    "Net_Open_FX_Ratio"
+  ],
+  "features_file": "/home/fj/UkrainianInsolvencyPredictor/config/feature_lists/top20_features.txt",
+  "metrics_json": "/home/fj/UkrainianInsolvencyPredictor/eda/hybrid_sarimax_l1_metrics_20250810_220904.json"
+}

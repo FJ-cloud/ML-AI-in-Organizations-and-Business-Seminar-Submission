@@ -1,0 +1,34 @@
+{
+  "config":{
+    "split_date":"2022-08-31",
+    "horizon_months":0,
+    "roll_windows":[
+      3,
+      6
+    ],
+    "feature_freq_threshold":0.6,
+    "use_catboost":true
+  },
+  "csv":"\/home\/fj\/UkrainianInsolvencyPredictor\/data\/processed\/model_ready\/model_lag1_20250810_220848.csv",
+  "split_date":"2022-08-31",
+  "stable_features_count":3,
+  "stable_features":[
+    "27_Cross-border deposits with BIS rep. banks",
+    "ukraine_3y_yield_lag1",
+    "Liquid_Assets_Ratio_std3"
+  ],
+  "metrics":{
+    "train":{
+      "roc_auc":0.6375730434,
+      "pr_auc":0.1533535409,
+      "brier":0.2380704234,
+      "n":2948
+    },
+    "test":{
+      "roc_auc":0.7840636582,
+      "pr_auc":0.6466076357,
+      "brier":0.1878454583,
+      "n":2144
+    }
+  }
+}

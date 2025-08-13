@@ -1,0 +1,71 @@
+{
+  "split_date":"2022-08-31",
+  "sarimax_order":[
+    0,
+    0,
+    0
+  ],
+  "features_raw":[
+    "WAR",
+    "24_International reserves (excluding gold)",
+    "27_Cross-border deposits with BIS rep. banks_lag1",
+    "us_3y_yield_lag1",
+    "ukraine_3y_yield_lag1",
+    "ukraine_3y_change_pct_lag1",
+    "24_International reserves (excluding gold)_lag1",
+    "12_Liabilities to BIS banks (cons.), short term_lag1",
+    "22_Liabilities to BIS banks, locational, total_lag1",
+    "01_Cross-border loans from BIS reporting banks_lag1",
+    "yield_spread_ukr_us_3y_z",
+    "yield_spread_ukr_us_3y_lag1"
+  ],
+  "metrics_all":{
+    "n_features":12,
+    "features_after_transform":[
+      "24_International reserves (excluding gold)",
+      "WAR",
+      "27_Cross-border deposits with BIS rep. banks_lag1",
+      "us_3y_yield_lag1",
+      "ukraine_3y_yield_lag1",
+      "ukraine_3y_change_pct_lag1",
+      "24_International reserves (excluding gold)_lag1",
+      "12_Liabilities to BIS banks (cons.), short term_lag1",
+      "22_Liabilities to BIS banks, locational, total_lag1",
+      "01_Cross-border loans from BIS reporting banks_lag1",
+      "yield_spread_ukr_us_3y_z",
+      "yield_spread_ukr_us_3y_lag1",
+      "sarimax_score"
+    ],
+    "amount_cols_used":[
+      "24_International reserves (excluding gold)"
+    ],
+    "ratio_cols_used":[
+      "WAR",
+      "27_Cross-border deposits with BIS rep. banks_lag1",
+      "us_3y_yield_lag1",
+      "ukraine_3y_yield_lag1",
+      "ukraine_3y_change_pct_lag1",
+      "24_International reserves (excluding gold)_lag1",
+      "12_Liabilities to BIS banks (cons.), short term_lag1",
+      "22_Liabilities to BIS banks, locational, total_lag1",
+      "01_Cross-border loans from BIS reporting banks_lag1",
+      "yield_spread_ukr_us_3y_z",
+      "yield_spread_ukr_us_3y_lag1"
+    ],
+    "train":{
+      "roc_auc":0.998820506,
+      "pr_auc":0.9856596048,
+      "brier":0.0064963196,
+      "n":2948
+    },
+    "test":{
+      "roc_auc":0.2885482302,
+      "pr_auc":0.3913437761,
+      "brier":0.2223927714,
+      "n":2144
+    }
+  },
+  "top_k":0,
+  "top_features":null,
+  "metrics_top":null
+}

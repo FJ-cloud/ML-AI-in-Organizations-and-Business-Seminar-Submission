@@ -1,0 +1,219 @@
+UNIFIED CAMELS SYSTEM - RATIO DEFINITIONS
+==================================================
+
+PROFITABILITY & EARNINGS
+------------------------
+ROA:
+  Description: Net Income / Total Assets - Overall profitability
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.007257, Std: 0.023221
+  Range: [-0.285331, 0.121049]
+
+Cost_Income_Ratio:
+  Description: Operating Expenses / Total Income - Efficiency
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.118106, Std: 27.421439
+  Range: [-1343.983678, 43.431302]
+
+ROE:
+  Description: Net Income / Total Equity - Shareholder returns
+  Coverage: 75.9% (3,865 observations)
+  Mean: 0.059877, Std: 0.175080
+  Range: [-4.941252, 1.776982]
+
+CAMELS_Net_Interest_Income_Ratio:
+  Description: Net Interest Income / Assets - Core earning power
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.033656, Std: 0.030083
+  Range: [-0.033976, 0.256459]
+
+CAMELS_Interest_Income_Ratio:
+  Description: Interest Income / Assets - Asset yield
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.055337, Std: 0.039891
+  Range: [0.000000, 0.318673]
+
+CAMELS_Net_Interest_Margin:
+  Description: (Interest Income - Expenses) / Assets - Interest spread
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.033656, Std: 0.030083
+  Range: [-0.033976, 0.256459]
+
+CAMELS_Net_Commission_Income_Ratio:
+  Description: Net Commission Income / Assets - Fee earnings
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.012426, Std: 0.018362
+  Range: [-0.011113, 0.230403]
+
+CAMELS_Commission_Income_Ratio:
+  Description: Commission Income / Assets - Fee generation
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.019143, Std: 0.030833
+  Range: [0.000019, 0.427217]
+
+CAMELS_Asset_Turnover:
+  Description: Total Income / Assets - Asset productivity
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.057823, Std: 0.047238
+  Range: [-0.144118, 0.359139]
+
+CAMELS_Income_Diversity_Ratio:
+  Description: Non-Interest Income / Total Income - Revenue diversification
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.319478, Std: 1.887385
+  Range: [-20.769161, 101.475369]
+
+CAMELS_Profit_Margin:
+  Description: Net Profit / Total Income - Profitability efficiency
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.352574, Std: 10.114795
+  Range: [-38.825584, 474.393234]
+
+
+CAPITAL & SOLVENCY
+------------------
+Capital_Ratio:
+  Description: Total Equity / Total Assets - Capital strength
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.212684, Std: 0.174527
+  Range: [-0.400676, 0.923257]
+
+CAMELS_Total_Equity_Ratio:
+  Description: Total Equity / Assets - Capital buffer
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.212684, Std: 0.174527
+  Range: [-0.400676, 0.923257]
+
+CAMELS_Common_Equity_Ratio:
+  Description: Authorized Capital / Assets - Core capital
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.255942, Std: 0.548972
+  Range: [0.002330, 5.522703]
+
+CAMELS_Equity_Multiplier:
+  Description: Assets / Equity - Financial leverage
+  Coverage: 75.9% (3,866 observations)
+  Mean: 7.703946, Std: 6.202796
+  Range: [-7.769914, 95.980179]
+
+
+ASSET QUALITY
+-------------
+NPL_Ratio:
+  Description: Provisions / Total Loans - Asset quality
+  Coverage: 74.6% (3,797 observations)
+  Mean: -0.498794, Std: 9.535608
+  Range: [-586.676949, -0.000573]
+
+Loan_Deposit_Ratio:
+  Description: Loans / Deposits - Credit intermediation
+  Coverage: 75.9% (3,863 observations)
+  Mean: 0.641963, Std: 0.945989
+  Range: [0.000000, 29.744919]
+
+CAMELS_Provisions_Ratio:
+  Description: Total Provisions / Assets - Credit loss coverage
+  Coverage: 75.9% (3,866 observations)
+  Mean: -0.071896, Std: 0.092334
+  Range: [-0.721457, -0.000099]
+
+CAMELS_Loan_Loss_Provision_Ratio:
+  Description: Loan Provisions / Total Loans - Loan quality
+  Coverage: 74.6% (3,797 observations)
+  Mean: -0.267495, Std: 0.531528
+  Range: [-7.098655, 0.000000]
+
+CAMELS_Loan_Asset_Ratio:
+  Description: Loans / Assets - Asset utilization
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.317477, Std: 0.176681
+  Range: [0.000000, 0.819267]
+
+CAMELS_Loan_Deposit_Ratio:
+  Description: Loans / Deposits - Credit intermediation efficiency
+  Coverage: 75.9% (3,863 observations)
+  Mean: 0.641963, Std: 0.945989
+  Range: [0.000000, 29.744919]
+
+
+LIQUIDITY & FUNDING
+-------------------
+Liquid_Assets_Ratio:
+  Description: Cash & Equivalents / Total Assets - Liquidity
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.075084, Std: 0.047117
+  Range: [0.000039, 0.387077]
+
+CAMELS_Interest_Expense_Ratio:
+  Description: Interest Expenses / Assets - Funding cost
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.021681, Std: 0.018995
+  Range: [-0.000608, 0.154265]
+
+CAMELS_Cash_Ratio:
+  Description: Cash & Equivalents / Assets - Immediate liquidity
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.075084, Std: 0.047117
+  Range: [0.000039, 0.387077]
+
+CAMELS_Deposit_Ratio:
+  Description: Deposits / Liabilities - Funding stability
+  Coverage: 75.9% (3,867 observations)
+  Mean: 0.841484, Std: 0.178970
+  Range: [0.000000, 0.994590]
+
+CAMELS_Cash_Deposit_Ratio:
+  Description: Cash / Deposits - Liquidity buffer
+  Coverage: 75.9% (3,863 observations)
+  Mean: 0.161431, Std: 0.412395
+  Range: [0.000043, 16.354035]
+
+CAMELS_Cost_of_Deposits:
+  Description: Interest Expenses / Liabilities - Funding cost rate
+  Coverage: 75.9% (3,865 observations)
+  Mean: 0.031245, Std: 0.032684
+  Range: [-0.000878, 0.600958]
+
+CAMELS_Deposits_Assets_Ratio:
+  Description: Deposits / Assets - Funding structure
+  Coverage: 75.9% (3,866 observations)
+  Mean: 0.609124, Std: 0.199634
+  Range: [0.000000, 1.076156]
+
+CAMELS_Wholesale_Funding_Ratio:
+  Description: (Liabilities - Deposits) / Liabilities - Market funding dependency
+  Coverage: 75.9% (3,867 observations)
+  Mean: 0.158516, Std: 0.178970
+  Range: [0.005410, 1.000000]
+
+
+EFFICIENCY & MANAGEMENT
+-----------------------
+CAMELS_Operating_Expense_Ratio:
+  Description: Operating Expenses / Assets - Cost efficiency
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.041807, Std: 0.040675
+  Range: [0.000176, 0.345571]
+
+CAMELS_Commission_Expense_Ratio:
+  Description: Commission Expenses / Assets - Service costs
+  Coverage: 75.9% (3,864 observations)
+  Mean: 0.006717, Std: 0.016466
+  Range: [0.000000, 0.259029]
+
+CAMELS_Net_Interest_Expense_Ratio:
+  Description: Net Interest Expenses / Liabilities (negative)
+  Coverage: 75.9% (3,865 observations)
+  Mean: -0.067932, Std: 0.202391
+  Range: [-9.712062, 0.071637]
+
+
+ADVANCED PERFORMANCE
+--------------------
+WAR:
+  Description: Weighted Average Risk - Composite risk measure
+  Coverage: 100.0% (5,092 observations)
+  Mean: 0.346508, Std: 5.380909
+  Range: [-268.670611, 8.331072]
+
+

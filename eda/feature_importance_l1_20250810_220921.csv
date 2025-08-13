@@ -1,0 +1,14 @@
+feature,coef,abs_coef
+sarimax_score,9.33330286132954,9.33330286132954
+24_International reserves (excluding gold),0.6921753996269392,0.6921753996269392
+ukraine_3y_change_pct_lag1,-0.03312761218940448,0.03312761218940448
+WAR,0.0,0.0
+27_Cross-border deposits with BIS rep. banks_lag1,0.0,0.0
+us_3y_yield_lag1,0.0,0.0
+ukraine_3y_yield_lag1,0.0,0.0
+24_International reserves (excluding gold)_lag1,0.0,0.0
+"12_Liabilities to BIS banks (cons.), short term_lag1",0.0,0.0
+"22_Liabilities to BIS banks, locational, total_lag1",0.0,0.0
+01_Cross-border loans from BIS reporting banks_lag1,0.0,0.0
+yield_spread_ukr_us_3y_z,0.0,0.0
+yield_spread_ukr_us_3y_lag1,0.0,0.0
