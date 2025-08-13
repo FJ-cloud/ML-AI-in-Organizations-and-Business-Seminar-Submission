@@ -1,10 +1,10 @@
 # Ukrainian Bank Insolvency Prediction 
 
-A comprehensive, production-ready ETL pipeline for processing Ukrainian bank regulatory data from NBU Excel files into ML-ready panel datasets.
+An ETL pipeline for processing Ukrainian bank regulatory data from NBU Excel files into ML-ready panel datasets.
 
 ## 🎯 Overview
 
-This pipeline processes 76 monthly Excel files (2019-2025) from the National Bank of Ukraine, extracting assets, liabilities, equity, and financial results data to create a clean, multivariate panel dataset suitable for insolvency prediction modeling.
+This pipeline processes 76 monthly Excel files (2019-2025) from the National Bank of Ukraine, extracting assets, liabilities, equity, and financial results data to create a multivariate panel dataset for insolvency prediction modeling.
 
 ## 🚀 Key Features
 
