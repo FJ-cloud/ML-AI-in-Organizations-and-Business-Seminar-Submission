@@ -1,5 +1,7 @@
 # Ukrainian Bank Insolvency Prediction 
 
+> For markers: models, scripts, and outputs are under `thesis_export/`.
+
 An ETL pipeline for processing Ukrainian bank regulatory data from NBU Excel files into ML-ready panel datasets.
 
 ## 🎯 Overview
