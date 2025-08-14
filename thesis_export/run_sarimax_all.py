@@ -71,10 +71,20 @@ def load_panel(csv_path: str | None) -> pd.DataFrame:
 
 
 def select_features(df: pd.DataFrame):
-    id_cols = [c for c in ['bank_name', 'date_m', 'year_month', 'failed', 'processing_timestamp'] if c in df.columns]
+    # Exclude identifiers and any failure-related columns from features to prevent leakage
+    base_id = ['bank_name', 'date_m', 'year_month', 'processing_timestamp']
+    failure_related = ['failed', 'will_fail_within_1m', 'post_failure', 'failure_date', 'last_reporting_date']
+    id_cols = [c for c in base_id + failure_related if c in df.columns]
+
     y_col = 'failed' if 'failed' in df.columns else None
+
     all_feats = [c for c in df.columns if c not in id_cols]
     feat_numeric = [c for c in all_feats if pd.api.types.is_numeric_dtype(df[c])]
+
+    # Additional guard: drop any columns whose names contain 'fail' or 'failure'
+    leak_terms = ('fail', 'failure')
+    feat_numeric = [c for c in feat_numeric if not any(t in c.lower() for t in leak_terms)]
+
     return id_cols, y_col, feat_numeric
 
 
